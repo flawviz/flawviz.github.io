@@ -1,0 +1,677 @@
+[
+  {
+    "card_id": 1,
+    "title": "data-vis disproportionality",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 727,
+    "description": "Disproportion between data and mapping channel size.",
+    "examplePic": "154.jpg"
+  },
+  {
+    "card_id": 2,
+    "title": "3d effect",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 330,
+    "description": "3D perspective leads to inaccurate perception due to near-far effect.",
+    "examplePic": "252.png"
+  },
+  {
+    "card_id": 3,
+    "title": "truncated axis",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 57,
+    "description": "Disrupted data proportion caused by truncated axes.",
+    "examplePic": "429.png"
+  },
+  {
+    "card_id": 4,
+    "title": "double encoding",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 48,
+    "description": "For instance, mapping the same data to both length and width, causing a doubled effect.",
+    "examplePic": "313.png"
+  },
+  {
+    "card_id": 5,
+    "title": "artistic manipulation of data marks",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 41,
+    "description": "Artistic treatment of data labels, like gradients, shadows, decorations, etc.",
+    "examplePic": "2130.jpg"
+  },
+  {
+    "card_id": 6,
+    "title": "wrong math computaion",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 37,
+    "description": "Mathematical issues, such as parts of a pie chart not summing up to 100%.",
+    "examplePic": "490.png"
+  },
+  {
+    "card_id": 7,
+    "title": "pop-out effect on data mark",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 25,
+    "description": "Artificially magnified data labels.",
+    "examplePic": "296.png"
+  },
+  {
+    "card_id": 8,
+    "title": "confound area with diameter",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 17,
+    "description": "Mapping data to radius instead of area when using circular visualization.",
+    "examplePic": "294.png"
+  },
+  {
+    "card_id": 9,
+    "title": "wrong annotation/label",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 15,
+    "description": "For example, portraying an upward trend with a downward arrow.",
+    "examplePic": "1330.png"
+  },
+  {
+    "card_id": 10,
+    "title": "wrong label placement",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 12,
+    "description": "Misplaced location of certain points, like incorrect geographical markers.",
+    "examplePic": "901.png"
+  },
+  {
+    "card_id": 11,
+    "title": "legend-vis inconsistency",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 12,
+    "description": "Mismatch between legend palette and actual colors on the chart.",
+    "examplePic": "1451.png"
+  },
+  {
+    "card_id": 12,
+    "title": "reverse axis",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 11,
+    "description": "Transformation of line chart direction from right-to-left reading.",
+    "examplePic": "16.jpg"
+  },
+  {
+    "card_id": 13,
+    "title": "misleading decoration",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 11,
+    "description": "Misleading interpretation of data growth, e.g., 10% growth visually resembling 100%.",
+    "examplePic": "1705.jpg"
+  },
+  {
+    "card_id": 14,
+    "title": "vis-text disconnection",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 10,
+    "description": "Detached text next to visualization from content inside the chart.",
+    "examplePic": "382.jpg"
+  },
+  {
+    "card_id": 15,
+    "title": "conclusion unsupported by data",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 7,
+    "description": "Inconclusive conclusions in titles not supported by data.",
+    "examplePic": "216.jpg"
+  },
+  {
+    "card_id": 16,
+    "title": "unclear texts - typo，grammatical error",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M1-Inaccuracy",
+    "count": 5,
+    "description": "Spelling mistakes, sentence incoherence, etc.",
+    "examplePic": "903.png"
+  },
+  {
+    "card_id": 17,
+    "title": "vis itself as decoration",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M2-Ambiguity",
+    "count": 144,
+    "description": "Visualization devoid of data encoding, serving as decoration only.",
+    "examplePic": "13.jpg"
+  },
+  {
+    "card_id": 18,
+    "title": "meaningless/confounding encoding",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M2-Ambiguity",
+    "count": 89,
+    "description": "Excessive or non-functional encoding causing confusion.",
+    "examplePic": "4.jpg"
+  },
+  {
+    "card_id": 19,
+    "title": "invasion of figurative semantics",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M2-Ambiguity",
+    "count": 59,
+    "description": "Use of pictorial symbols, readers interpreting semantics, often in isotypes and maps.",
+    "examplePic": "484.png"
+  },
+  {
+    "card_id": 20,
+    "title": "ambiguous encoding/mixed use of channels",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M2-Ambiguity",
+    "count": 49,
+    "description": "Unclear encoding, uncertainty about the encoded channel.",
+    "examplePic": "1866.jpg"
+  },
+  {
+    "card_id": 21,
+    "title": "unclear affordance for comparison",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M2-Ambiguity",
+    "count": 34,
+    "description": "Unclear standards or benchmarks for data understanding and comparison.",
+    "examplePic": "1332.png"
+  },
+  {
+    "card_id": 22,
+    "title": "lack of explanation for units/metrics",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M2-Ambiguity",
+    "count": 22,
+    "description": "Lack of explanation for data metrics/how they were derived; e.g., claiming 100% speed without context.",
+    "examplePic": "135.jpg"
+  },
+  {
+    "card_id": 23,
+    "title": "data marks covered by decoration",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M2-Ambiguity",
+    "count": 18,
+    "description": "Data obstructed by decorations or embellishments.",
+    "examplePic": "1892.png"
+  },
+  {
+    "card_id": 24,
+    "title": "ghost elements / elements that represents nothing",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M2-Ambiguity",
+    "count": 18,
+    "description": "Inclusion of chart elements without representing any meaningful data.",
+    "examplePic": "1801.png"
+  },
+  {
+    "card_id": 25,
+    "title": "misleading highlight/visual cues",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M2-Ambiguity",
+    "count": 16,
+    "description": "Highlighting text background, mistaken as a bar chart.",
+    "examplePic": "88.jpg"
+  },
+  {
+    "card_id": 26,
+    "title": "label that lacks callout",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M2-Ambiguity",
+    "count": 3,
+    "description": "Unaccompanied data labels, lacking connecting lines.",
+    "examplePic": "1665.png"
+  },
+  {
+    "card_id": 27,
+    "title": "vis as a joke",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M2-Ambiguity",
+    "count": 2,
+    "description": "Violating data science standards, used for humorous graphics.",
+    "examplePic": "180.png"
+  },
+  {
+    "card_id": 28,
+    "title": "wrong vis of part-to-whole relationship",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M3-Incompatibility",
+    "count": 268,
+    "description": "Visualization implying part-whole relationship when none exists, e.g., pie charts, 100% stacked bars.",
+    "examplePic": "126.png"
+  },
+  {
+    "card_id": 29,
+    "title": "wrong vis of logic - intersection/union",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M3-Incompatibility",
+    "count": 37,
+    "description": "Visualization implying logical relationships (intersection, union) that data doesn't have, e.g., Venn diagrams.",
+    "examplePic": "1194.png"
+  },
+  {
+    "card_id": 30,
+    "title": "fail to show uncertainty",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M3-Incompatibility",
+    "count": 35,
+    "description": "Handling uncertain data, like a value range or inequalities.",
+    "examplePic": "421.png"
+  },
+  {
+    "card_id": 31,
+    "title": "unordered ordinal data/ordered non-ordinal data",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M3-Incompatibility",
+    "count": 24,
+    "description": "Sorting ordered variables incorrectly, mis-sorting what shouldn't be sorted.",
+    "examplePic": "62.jpg"
+  },
+  {
+    "card_id": 32,
+    "title": "continuous encoding for categorical data",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M3-Incompatibility",
+    "count": 21,
+    "description": "Connecting categories with lines unnecessarily.",
+    "examplePic": "2075.png"
+  },
+  {
+    "card_id": 33,
+    "title": "fail to show 0/infinite/null",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M3-Incompatibility",
+    "count": 13,
+    "description": "E.g., representing 0 and infinity.",
+    "examplePic": "1581.png"
+  },
+  {
+    "card_id": 34,
+    "title": "categorical encoding for continuous data",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M3-Incompatibility",
+    "count": 12,
+    "description": "E.g., using continuous data for choropleth maps.",
+    "examplePic": "1613.png"
+  },
+  {
+    "card_id": 35,
+    "title": "wrong vis of add-on relationship",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M3-Incompatibility",
+    "count": 11,
+    "description": "Visualization implying stacking relationship when data isn't stacked.",
+    "examplePic": "1646.png"
+  },
+  {
+    "card_id": 36,
+    "title": "wrong vis of sequence",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M3-Incompatibility",
+    "count": 5,
+    "description": "Visualization implying temporal relationship when none exists, e.g., funnel charts.",
+    "examplePic": "123.png"
+  },
+  {
+    "card_id": 37,
+    "title": "wrong vis of hierachical relationship",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M3-Incompatibility",
+    "count": 2,
+    "description": "Visualization implying hierarchical relationship when none exists, e.g., tree maps.",
+    "examplePic": "2052.png"
+  },
+  {
+    "card_id": 38,
+    "title": "multiple scales",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M4-Unfairness",
+    "count": 105,
+    "description": "Comparing data using disparate scales.",
+    "examplePic": "1508.png"
+  },
+  {
+    "card_id": 39,
+    "title": "not aligned",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M4-Unfairness",
+    "count": 75,
+    "description": "Misalignment of graphic elements, not on the same baseline.",
+    "examplePic": "111.png"
+  },
+  {
+    "card_id": 40,
+    "title": "uneven data grouping/aggregation",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M4-Unfairness",
+    "count": 27,
+    "description": "Inconsistent data aggregation/grouping methods between visualizations.",
+    "examplePic": "2178.png"
+  },
+  {
+    "card_id": 41,
+    "title": "uneven axis interval",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M4-Unfairness",
+    "count": 21,
+    "description": "Inconsistent spacing between axis tick marks.",
+    "examplePic": "1542.jpg"
+  },
+  {
+    "card_id": 42,
+    "title": "comparing apples with oranges",
+    "EL_tag": "Misinformation",
+    "VNS_tag": "M4-Unfairness",
+    "count": 18,
+    "description": "Comparing entirely different entities.",
+    "examplePic": "625.jpg"
+  },
+  {
+    "card_id": 43,
+    "title": "overlapping data marks",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I1-Low_accessibility",
+    "count": 117,
+    "description": "Overlapping data points causing visual obstruction.",
+    "examplePic": "2239.png"
+  },
+  {
+    "card_id": 44,
+    "title": "text rotation",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I1-Low_accessibility",
+    "count": 73,
+    "description": "Text not horizontally oriented, requiring head rotation to read.",
+    "examplePic": "2140.jpg"
+  },
+  {
+    "card_id": 45,
+    "title": "small size",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I1-Low_accessibility",
+    "count": 68,
+    "description": "Small font size for titles, annotations, labels; challenging to read or distinguish.",
+    "examplePic": "147.png"
+  },
+  {
+    "card_id": 46,
+    "title": "cluttered label lines",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I1-Low_accessibility",
+    "count": 66,
+    "description": "Entangled annotation lines, making it hard to identify targets.",
+    "examplePic": "2192.png"
+  },
+  {
+    "card_id": 47,
+    "title": "indistinguishable encodings",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I1-Low_accessibility",
+    "count": 29,
+    "description": "Using nearly identical colors, shapes, textures to encode different data.",
+    "examplePic": "634.png"
+  },
+  {
+    "card_id": 48,
+    "title": "Low_foreground-background contrast",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I1-Low_accessibility",
+    "count": 26,
+    "description": "Lack of contrast between foreground-background, foreground not prominent, hard to read.",
+    "examplePic": "1624.jpg"
+  },
+  {
+    "card_id": 49,
+    "title": "colorblind inaccessible",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I1-Low_accessibility",
+    "count": 4,
+    "description": "Color palettes not considering color blindness/deficiency.",
+    "examplePic": "2122.png"
+  },
+  {
+    "card_id": 50,
+    "title": "out of boundary",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I1-Low_accessibility",
+    "count": 4,
+    "description": "Visualization exceeding canvas boundaries, incomplete.",
+    "examplePic": "46.png"
+  },
+  {
+    "card_id": 51,
+    "title": "glitches",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I1-Low_accessibility",
+    "count": 4,
+    "description": "Missing pixels, often due to image export errors.",
+    "examplePic": "2266.jpg"
+  },
+  {
+    "card_id": 52,
+    "title": "irregular segmentation/shaping",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I2-Low_efficiency",
+    "count": 211,
+    "description": "Using non-geometric shapes to map data, hindering data comparison.",
+    "examplePic": "170.jpg"
+  },
+  {
+    "card_id": 53,
+    "title": "same object，different encodings/different object，same encodings",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I2-Low_efficiency",
+    "count": 27,
+    "description": "Different colors for the same category/different categories with the same color.",
+    "examplePic": "21.jpg"
+  },
+  {
+    "card_id": 54,
+    "title": "rainbow colormap",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I2-Low_efficiency",
+    "count": 19,
+    "description": "Lack of intuitive representation of data differences.",
+    "examplePic": "2210.jpg"
+  },
+  {
+    "card_id": 55,
+    "title": "dual axes",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I2-Low_efficiency",
+    "count": 17,
+    "description": "Usage of two different axes in a single chart.",
+    "examplePic": "114.png"
+  },
+  {
+    "card_id": 56,
+    "title": "unstructured layout",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I2-Low_efficiency",
+    "count": 16,
+    "description": "Disorderly layout, lacking clear reading sequence.",
+    "examplePic": "934.png"
+  },
+  {
+    "card_id": 57,
+    "title": "breaking the rule of proximity",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I2-Low_efficiency",
+    "count": 13,
+    "description": "Proximity of unrelated elements, distance between related elements.",
+    "examplePic": "358.jpg"
+  },
+  {
+    "card_id": 58,
+    "title": "same data structure，different channels",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I2-Low_efficiency",
+    "count": 9,
+    "description": "Same data structure using different mapping channels, e.g., using both bars and circles for the same value.",
+    "examplePic": "291.png"
+  },
+  {
+    "card_id": 59,
+    "title": "large number of units",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I2-Low_efficiency",
+    "count": 4,
+    "description": "Using icons to represent data points, inefficient for numerous icons.",
+    "examplePic": "250.png"
+  },
+  {
+    "card_id": 60,
+    "title": "lack of labels",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I3-Over-simplification",
+    "count": 87,
+    "description": "Uncertainty about the values of each category.",
+    "examplePic": "513.jpg"
+  },
+  {
+    "card_id": 61,
+    "title": "lack of scale",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I3-Over-simplification",
+    "count": 56,
+    "description": "E.g., missing axes, unable to determine scale.",
+    "examplePic": "1077.png"
+  },
+  {
+    "card_id": 62,
+    "title": "lack of legend",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I3-Over-simplification",
+    "count": 49,
+    "description": "Uncertainty about what each category/channel represents.",
+    "examplePic": "110.png"
+  },
+  {
+    "card_id": 63,
+    "title": "unclear signs/arrows",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I3-Over-simplification",
+    "count": 38,
+    "description": "Unclear meanings of symbols like arrows, lines, often in illustrative graphics.",
+    "examplePic": "152.png"
+  },
+  {
+    "card_id": 64,
+    "title": "too many categories",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I4-Over-complexity",
+    "count": 137,
+    "description": "Excessive shapes, colors, etc., generally avoid exceeding 7.",
+    "examplePic": "74.png"
+  },
+  {
+    "card_id": 65,
+    "title": "too many visual channels",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I4-Over-complexity",
+    "count": 18,
+    "description": "Mapping more than 5 dimensions in a single visualization.",
+    "examplePic": "53.jpg"
+  },
+  {
+    "card_id": 66,
+    "title": "no need to vis (one value)",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I4-Over-complexity",
+    "count": 7,
+    "description": "E.g., single value without meaningful visualization.",
+    "examplePic": "2253.png"
+  },
+  {
+    "card_id": 67,
+    "title": "high information density",
+    "EL_tag": "Uninformativeness",
+    "VNS_tag": "I4-Over-complexity",
+    "count": 7,
+    "description": "Overcrowded layout, lack of whitespace.",
+    "examplePic": "1305.png"
+  },
+  {
+    "card_id": 68,
+    "title": "semantically mismatch",
+    "EL_tag": "Unsociableness",
+    "VNS_tag": "S1-Abnormality",
+    "count": 7,
+    "description": "E.g., disregarding psychological impressions like coffee being brown, McDonald's being yellow.",
+    "examplePic": "218.png"
+  },
+  {
+    "card_id": 69,
+    "title": "stretched imagery",
+    "EL_tag": "Unsociableness",
+    "VNS_tag": "S1-Abnormality",
+    "count": 7,
+    "description": "Image stretching causing distortion, often in cartograms, isotypes.",
+    "examplePic": "1.jpg"
+  },
+  {
+    "card_id": 70,
+    "title": "anti-mental-model",
+    "EL_tag": "Unsociableness",
+    "VNS_tag": "S1-Abnormality",
+    "count": 5,
+    "description": "E.g., using a downward arrow to convey positivity.",
+    "examplePic": "1867.png"
+  },
+  {
+    "card_id": 71,
+    "title": "cut-off imagery",
+    "EL_tag": "Unsociableness",
+    "VNS_tag": "S1-Abnormality",
+    "count": 4,
+    "description": "Abrupt truncation of images, often in isotypes.",
+    "examplePic": "924.jpg"
+  },
+  {
+    "card_id": 72,
+    "title": "unconventional analogy of data scales",
+    "EL_tag": "Unsociableness",
+    "VNS_tag": "S1-Abnormality",
+    "count": 3,
+    "description": "Using less understandable scale when explaining data scale.",
+    "examplePic": "954.png"
+  },
+  {
+    "card_id": 73,
+    "title": "uncomfortable pattern/imagery",
+    "EL_tag": "Unsociableness",
+    "VNS_tag": "S2-Hostility",
+    "count": 8,
+    "description": "Images invoking fear, horror, etc.",
+    "examplePic": "718.png"
+  },
+  {
+    "card_id": 74,
+    "title": "deliberate encoding to satisfy rhetorical intent",
+    "EL_tag": "Unsociableness",
+    "VNS_tag": "S2-Hostility",
+    "count": 4,
+    "description": "Centering a story on the United States, using color to highlight severity.",
+    "examplePic": "1354.jpg"
+  },
+  {
+    "card_id": 75,
+    "title": "arrogant textual expression",
+    "EL_tag": "Unsociableness",
+    "VNS_tag": "S2-Hostility",
+    "count": 1,
+    "description": "E.g., using aggressive data interpretations in titles.",
+    "examplePic": "2205.jpg"
+  }
+]
