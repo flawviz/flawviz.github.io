@@ -6,7 +6,7 @@ import { vns_method_to_btn_name } from './anicard.js';
 class Homepage_Card {
     constructor(parameters = { 
         card_id, title, VNS_tag, VNS_ambiguity, EL_tag, AVT_tag, how, why, 
-        eg_title, eg_source, eg_url, eg_year, eg_category, eg_subcategory, examplePic, description, count
+        eg_title, eg_source, eg_url, eg_year, eg_category, eg_subcategory, examplePic, description, count,link
     }) {
         this.parameters = {};
         this.parameters = parameters;
@@ -97,16 +97,28 @@ class Homepage_Card {
     *     <img class="card-img front-preview" src="./assets/image/loading.svg">
     * </div> 
     * */
+
     _createCard_frontImg () {
         let card_frontImg_node = document.createElement("div");
-        let front_gif_html = `<img class="card-img front-gif" src="./assets/hp_front_gif/front_${this.parameters["card_id"]}.gif" alt="./assets/image/fail_loading.svg">`;  // 缺少正面gif
-        let front_preview_html = `<img class="card-img front-preview" src="./assets/corpus_img/${this.parameters["examplePic"]}">`  // 缺少正面预览png
-
+        let front_preview_html = `<a href="${this.parameters["link"]}" target="_blank"><img class="card-img front-preview" src="./assets/corpus_img/${this.parameters["examplePic"]}"></a>`;  // 缺少正面预览png
+    
         card_frontImg_node.classList.add("card-frontImg");
-        card_frontImg_node.innerHTML = front_gif_html + front_preview_html;
-
+        card_frontImg_node.innerHTML = front_preview_html;
+    
         return card_frontImg_node;
     }
+    
+    // _createCard_frontImg () {
+    //     let card_frontImg_node = document.createElement("div");
+    //     // let front_gif_html = `<img class="card-img front-gif" src="./assets/corpus_img/${this.parameters["examplePic"]}" alt="./assets/image/fail_loading.svg">`;  // 缺少正面gif
+    //     let front_preview_html = `<img class="card-img front-preview" src="./assets/corpus_img/${this.parameters["examplePic"]}">`  // 缺少正面预览png
+
+    //     card_frontImg_node.classList.add("card-frontImg");
+    //     card_frontImg_node.innerHTML = front_preview_html;
+    //     // card_frontImg_node.innerHTML = front_gif_html + front_preview_html;
+
+    //     return card_frontImg_node;
+    // }
 
     /**
      * back
@@ -394,7 +406,7 @@ class Homepage_Reminder {
             <span class='reminder-sum-s'>SUM: ${this._VNS_num}</span>`;
 
         reminder_node.classList.add("display-reminder");
-        reminder_bg_node.classList.add("reminder-bg");
+        // reminder_bg_node.classList.add("reminder-bg");
         reminder_content_node.classList.add("reminder-content");
         // reminder_node.classList.add("display-reminder", "active-sticky");
         reminder_head_node.classList.add("reminder-head");
