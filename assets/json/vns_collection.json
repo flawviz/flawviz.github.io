@@ -4,7 +4,7 @@
     "VNS_tag": "M1-Inaccuracy",
     "VNS_color": "#faa08f",
     "VNS_desc": "Inaccuracy occurs when the data points, labels, or other elements do not precisely represent the underlying data. ",
-    "VNS_num": "16"
+    "VNS_num": "14"
   },
   {
     "VNS_id": "1",
@@ -18,7 +18,7 @@
     "VNS_tag": "M3-Incompatibility",
     "VNS_color": "#fcbcaf",
     "VNS_desc": "Incompatibility arises when a data visualization is not ppropriately tailored to input variables.",
-    "VNS_num": "10"
+    "VNS_num": "8"
   },
   {
     "VNS_id": "3",
@@ -32,7 +32,7 @@
     "VNS_tag": "I1-Low_accessibility",
     "VNS_color": "#99c0f9",
     "VNS_desc": "Low accessibility means the data visualization is unreadable or illegible.",
-    "VNS_num": "9"
+    "VNS_num": "11"
   },
   {
     "VNS_id": "5",
@@ -46,21 +46,21 @@
     "VNS_tag": "I3-Over-simplification",
     "VNS_color": "#b9d4fb",
     "VNS_desc": "Over-simplification occurs when a data visualization miss essential components.",
-    "VNS_num": "4"
+    "VNS_num": "5"
   },
   {
     "VNS_id": "7",
     "VNS_tag": "I4-Over-complexity",
     "VNS_color": "#c9defc",
     "VNS_desc": "Over-complexity refers to the opposite of over-simplification, where a data visualization becomes overly intricate and convoluted.",
-    "VNS_num": "4"
+    "VNS_num": "5"
   },
   {
     "VNS_id": "8",
     "VNS_tag": "S1-Abnormality",
     "VNS_color": "#ace9bd",
     "VNS_desc": "Abnormality signifies instances where the design choices of the data visualization diverge significantly from standard conventions or practices.",
-    "VNS_num": "5"
+    "VNS_num": "6"
   },
   {
     "VNS_id": "9",
