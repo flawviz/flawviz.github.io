@@ -1,15 +1,5 @@
 [
-    {
-        "id": 1,
-        "title": "\u30101\u3011",
-        "description": "Sticking your neck out.",
-        "link": "https://viz.wtf/post/673472354894086144/sticking-your-neck-out",
-        "pic": "1.jpg",
-        "topic": "sports/game",
-        "publisher": "company",
-        "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_15'>S1: Stretched imagery</span>"
-    },
+    
     {
         "id": 2,
         "title": "2",
