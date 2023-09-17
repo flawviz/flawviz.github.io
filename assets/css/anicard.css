@@ -1700,7 +1700,7 @@ footer .footer-text {
 .study-container {
     height: calc(100vh - 3.75rem);
     overflow-y: auto;
-    background-image: url(../image/background.png);
+    /* background-image: url(../image/background.png); */
     /* background-position: center; */
     background-position: top;
     background-attachment: fixed;
