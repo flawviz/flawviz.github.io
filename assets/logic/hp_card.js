@@ -100,7 +100,7 @@ class Homepage_Card {
 
     _createCard_frontImg () {
         let card_frontImg_node = document.createElement("div");
-        let front_preview_html = `<a href="${this.parameters["link"]}" target="_blank"><img class="card-img front-preview" src="./assets/corpus_img/${this.parameters["examplePic"]}"></a>`;  // 缺少正面预览png
+        let front_preview_html = `<a href="${this.parameters["link"]}" target="_blank"><img class="card-img front-preview" src="./assets/card_preview/${this.parameters["examplePic"]}"></a>`;  // 缺少正面预览png
     
         card_frontImg_node.classList.add("card-frontImg");
         card_frontImg_node.innerHTML = front_preview_html;

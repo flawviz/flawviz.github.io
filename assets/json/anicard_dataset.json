@@ -6,8 +6,8 @@
         "VNS_tag": "M1-Inaccuracy",
         "count": 730,
         "description": "Disproportion between data and mapping channel size.",
-        "examplePic": "154.jpg",
-        "link": "https://viz.wtf/post/170985216229/bubblegum-ht-juux"
+        "examplePic": "27.png",
+        "link": "https://viz.wtf/post/643484719208677376/portuguese-presidential-elections-one-of-many-wtf"
     },
     {
         "card_id": 2,
@@ -16,8 +16,8 @@
         "VNS_tag": "M1-Inaccuracy",
         "count": 332,
         "description": "3D perspective leads to inaccurate perception due to near-far effect.",
-        "examplePic": "252.png",
-        "link": "https://viz.wtf/post/155126917781/holiday-donuts"
+        "examplePic": "633.jpg",
+        "link": "https://viz.wtf/post/134804505181/just-grin-and-bear-it"
     },
     {
         "card_id": 3,
@@ -26,8 +26,8 @@
         "VNS_tag": "M1-Inaccuracy",
         "count": 57,
         "description": "Disrupted data proportion caused by truncated axes.",
-        "examplePic": "429.png",
-        "link": "https://viz.wtf/post/146612784516/that-y-scale-cut-off-on-glassdoors-company"
+        "examplePic": "83.png",
+        "link": "https://viz.wtf/post/189555266839/how-to-make-a-09-reduction-in-emissions-look"
     },
     {
         "card_id": 4,
@@ -36,8 +36,8 @@
         "VNS_tag": "M1-Inaccuracy",
         "count": 48,
         "description": "For instance, mapping the same data to both length and width, causing a doubled effect.",
-        "examplePic": "313.png",
-        "link": "https://viz.wtf/post/152209619584/mad-coin-yo"
+        "examplePic": "2220.png",
+        "link": "https://viz.wtf/post/61131939069/a-bigger-man-than-i"
     },
     {
         "card_id": 5,
@@ -46,8 +46,8 @@
         "VNS_tag": "M1-Inaccuracy",
         "count": 55,
         "description": "Mathematical issues, such as parts of a pie chart not summing up to 100%.",
-        "examplePic": "490.png",
-        "link": "https://viz.wtf/post/143590868627/unhealthy-data"
+        "examplePic": "683.png",
+        "link": "https://viz.wtf/post/131500097802/sister-cities"
     },
     {
         "card_id": 6,
@@ -66,7 +66,7 @@
         "VNS_tag": "M1-Inaccuracy",
         "count": 17,
         "description": "Mapping data to radius instead of area when using circular visualization.",
-        "examplePic": "294.png",
+        "examplePic": "1679.png",
         "link": "https://viz.wtf/post/153090633909/n%C3%A3o"
     },
     {
@@ -76,8 +76,8 @@
         "VNS_tag": "M1-Inaccuracy",
         "count": 9,
         "description": "For example, portraying an upward trend with a downward arrow.",
-        "examplePic": "1330.png",
-        "link": "https://viz.wtf/post/100004008537/vending-visualization"
+        "examplePic": "5.jpg",
+        "link": "https://viz.wtf/post/667583513306005504/the-drying-time-could-be-literally-anything-and"
     },
     {
         "card_id": 9,
@@ -96,8 +96,8 @@
         "VNS_tag": "M1-Inaccuracy",
         "count": 11,
         "description": "Mismatch between legend palette and actual colors on the chart.",
-        "examplePic": "1451.png",
-        "link": "https://viz.wtf/post/94755376511/color-coordination-is-important-in-tattoos"
+        "examplePic": "872.png",
+        "link": "https://viz.wtf/post/120377023010/linkedin-needs-to-get-their-charts-right"
     },
     {
         "card_id": 11,
@@ -116,8 +116,8 @@
         "VNS_tag": "M1-Inaccuracy",
         "count": 7,
         "description": "Detached text next to visualization from content inside the chart.",
-        "examplePic": "382.jpg",
-        "link": "https://viz.wtf/post/148989892054/when-8-appears-greater-than-9-and-26-17-from"
+        "examplePic": "1367.jpg",
+        "link": "https://viz.wtf/post/98414404413/gallons"
     },
     {
         "card_id": 13,
@@ -126,8 +126,8 @@
         "VNS_tag": "M1-Inaccuracy",
         "count": 5,
         "description": "Spelling mistakes, sentence incoherence, etc.",
-        "examplePic": "903.png",
-        "link": "https://viz.wtf/post/119113896941/5-out-of-4"
+        "examplePic": "918.png",
+        "link": "https://viz.wtf/post/118464760439/and"
     },
     {
         "card_id": 14,
@@ -136,34 +136,34 @@
         "VNS_tag": "M1-Inaccuracy",
         "count": 8,
         "description": "Inconclusive conclusions in titles not supported by data.",
-        "examplePic": "216.jpg",
-        "link": "https://viz.wtf/post/159196095567/quality-education-providers"
+        "examplePic": "757.jpg",
+        "link": "https://viz.wtf/post/126026507459/you-can-always-trust-the-newspapers-for-facts"
     },
     {
         "card_id": 15,
         "title": "Misuse of part-to-whole relationship",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Ambiguity",
+        "VNS_tag": "M2-Incompatibility",
         "count": 265,
         "description": "Visualization implying part-whole relationship when none exists, e.g., pie charts, 100% stacked bars.",
-        "examplePic": "126.png",
-        "link": "https://viz.wtf/post/182325378638/bad-pie-charts-are-not-improving-mental-health"
+        "examplePic": "1880.png",
+        "link": "https://viz.wtf/post/72801324529/visualization-based-attacks"
     },
     {
         "card_id": 16,
         "title": "Failure to show uncertainty",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Ambiguity",
+        "VNS_tag": "M2-Incompatibility",
         "count": 34,
         "description": "Handling uncertain data, like a value range or inequalities.",
-        "examplePic": "421.png",
-        "link": "https://viz.wtf/post/147003381852/stripes"
+        "examplePic": "720.png",
+        "link": ""
     },
     {
         "card_id": 17,
         "title": "Misordering",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Ambiguity",
+        "VNS_tag": "M2-Incompatibility",
         "count": 8,
         "description": "Sorting ordered variables incorrectly, mis-sorting what shouldn't be sorted.",
         "examplePic": "62.jpg",
@@ -173,37 +173,37 @@
         "card_id": 18,
         "title": "Misuse of group and period relationships",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Ambiguity",
+        "VNS_tag": "M2-Incompatibility",
         "count": 16,
         "description": "Misuse of group and period relationships",
-        "examplePic": "2294.png",
-        "link": "https://viz.wtf/post/59424619848/the-percent-venn"
+        "examplePic": "1324.png",
+        "link": "https://viz.wtf/post/100249539895/welcome-to-the-internet"
     },
     {
         "card_id": 19,
         "title": "Misuse of logical relationship",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Ambiguity",
+        "VNS_tag": "M2-Incompatibility",
         "count": 9,
         "description": "Misuse of logical relationship",
-        "examplePic": "1324.png",
-        "link": "https://viz.wtf/post/100249539895/welcome-to-the-internet"
+        "examplePic": "759.jpg",
+        "link": "https://viz.wtf/post/125858517595/were-suing-the-governor-because-he-gave-us-all"
     },
     {
         "card_id": 20,
         "title": "Continuous encoding for categorical data",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Ambiguity",
+        "VNS_tag": "M2-Incompatibility",
         "count": 21,
         "description": "Connecting categories with lines unnecessarily.",
-        "examplePic": "2075.png",
-        "link": "https://viz.wtf/post/65619133621/achievement-get-partial-associates-degree"
+        "examplePic": "417.png",
+        "link": "https://viz.wtf/post/147196565281/alphabet-on-the-x-axis-for-reals"
     },
     {
         "card_id": 21,
         "title": "Failure to show zero/infinite/null",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Ambiguity",
+        "VNS_tag": "M2-Incompatibility",
         "count": 13,
         "description": "E.g., representing 0 and infinity.",
         "examplePic": "1581.png",
@@ -213,7 +213,7 @@
         "card_id": 22,
         "title": "Categorical encoding for continuous data",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Ambiguity",
+        "VNS_tag": "M2-Incompatibility",
         "count": 11,
         "description": "E.g., using continuous data for choropleth maps.",
         "examplePic": "1613.png",
@@ -221,9 +221,9 @@
     },
     {
         "card_id": 23,
-        "title": "Misuse of add-on relationship",
+        "title": "Misuse of cumulative relationship",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Ambiguity",
+        "VNS_tag": "M2-Incompatibility",
         "count": 11,
         "description": "Visualization implying stacking relationship when data isn't stacked.",
         "examplePic": "1646.png",
@@ -233,17 +233,17 @@
         "card_id": 24,
         "title": "Misuse of sequence",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Ambiguity",
+        "VNS_tag": "M2-Incompatibility",
         "count": 3,
         "description": "Visualization implying temporal relationship when none exists, e.g., funnel charts.",
-        "examplePic": "123.png",
-        "link": "https://viz.wtf/post/182403303106/to-the-new-era-of-flow-diagrams"
+        "examplePic": "870.png",
+        "link": "https://viz.wtf/post/120464301581/seo-and-ladders"
     },
     {
         "card_id": 25,
         "title": "Misuse of hierarchy",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Ambiguity",
+        "VNS_tag": "M2-Incompatibility",
         "count": 1,
         "description": "Visualization implying hierarchical relationship when none exists, e.g., tree maps.",
         "examplePic": "2052.png",
@@ -253,7 +253,7 @@
         "card_id": 26,
         "title": "Visualization itself as embellishment",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Incompatibility",
+        "VNS_tag": "M3-Ambiguity",
         "count": 140,
         "description": "Visualization devoid of data encoding, serving as decoration only.",
         "examplePic": "13.jpg",
@@ -263,7 +263,7 @@
         "card_id": 27,
         "title": "Invasion of figurative semantics",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Incompatibility",
+        "VNS_tag": "M3-Ambiguity",
         "count": 59,
         "description": "Use of pictorial symbols, readers interpreting semantics, often in isotypes and maps.",
         "examplePic": "484.png",
@@ -273,17 +273,17 @@
         "card_id": 28,
         "title": "Mixed use of channels",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Incompatibility",
+        "VNS_tag": "M3-Ambiguity",
         "count": 53,
         "description": "Unclear encoding, uncertainty about the encoded channel.",
-        "examplePic": "1866.jpg",
-        "link": "https://viz.wtf/post/73547392360/number-1-cause-of-death"
+        "examplePic": "727.png",
+        "link": "https://viz.wtf/post/128418263122/the-class-of-2014"
     },
     {
         "card_id": 29,
         "title": "Unclear proxy for comparison",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Incompatibility",
+        "VNS_tag": "M3-Ambiguity",
         "count": 36,
         "description": "Unclear standards or benchmarks for data understanding and comparison.",
         "examplePic": "1332.png",
@@ -293,7 +293,7 @@
         "card_id": 30,
         "title": "Illusion of inclusion/intersection/union",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Incompatibility",
+        "VNS_tag": "M3-Ambiguity",
         "count": 29,
         "description": "Visualization implying logical relationships (intersection, union) that data doesn't have, e.g., Venn diagrams.",
         "examplePic": "1194.png",
@@ -301,29 +301,29 @@
     },
     {
         "card_id": 31,
-        "title": "Unclear signs/arrows",
+        "title": "Unclear symbols",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Incompatibility",
+        "VNS_tag": "M3-Ambiguity",
         "count": 39,
         "description": "Unclear meanings of symbols like arrows, lines, often in illustrative graphics.",
-        "examplePic": "152.png",
-        "link": "https://viz.wtf/post/171060544995/a-real-man-makes-his-own-wtfvizs-billy-zane"
+        "examplePic": "1221.jpg",
+        "link": "https://viz.wtf/post/104614245750/lead-lines"
     },
     {
         "card_id": 32,
         "title": "Ghost element",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Incompatibility",
+        "VNS_tag": "M3-Ambiguity",
         "count": 20,
         "description": "Inclusion of chart elements without representing any meaningful data.",
-        "examplePic": "1801.png",
-        "link": "https://viz.wtf/post/77105033733/i-hear-this-makes-sense-in-japan"
+        "examplePic": "1440.png",
+        "link": "https://viz.wtf/post/95218722959/in-the-red"
     },
     {
         "card_id": 33,
         "title": "Highlighting that resembles data elements",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Incompatibility",
+        "VNS_tag": "M3-Ambiguity",
         "count": 15,
         "description": "Highlighting text background, mistaken as a bar chart.",
         "examplePic": "88.jpg",
@@ -336,8 +336,8 @@
         "VNS_tag": "M4-Unfairness",
         "count": 105,
         "description": "Comparing data using disparate scales.",
-        "examplePic": "1508.png",
-        "link": "https://viz.wtf/post/92060468616/ht-ashariqbal-y-axis-on-the-2-images-differ-by"
+        "examplePic": "295.png",
+        "link": "https://viz.wtf/post/153047253615/off-the-grid"
     },
     {
         "card_id": 35,
@@ -346,8 +346,8 @@
         "VNS_tag": "M4-Unfairness",
         "count": 75,
         "description": "Misalignment of graphic elements, not on the same baseline.",
-        "examplePic": "111.png",
-        "link": "https://viz.wtf/post/182713706564/i-love-donut-charts-but-have-no-idea-how-to"
+        "examplePic": "542.jpg",
+        "link": "https://viz.wtf/post/140698552508/a-really-bad-y-axis"
     },
     {
         "card_id": 36,
@@ -356,8 +356,8 @@
         "VNS_tag": "M4-Unfairness",
         "count": 27,
         "description": "Inconsistent data aggregation/grouping methods between visualizations.",
-        "examplePic": "2178.png",
-        "link": "https://viz.wtf/post/62436490060"
+        "examplePic": "71.png",
+        "link": "https://viz.wtf/post/614308682150330368/this-wtf-viz-is-more-of-a-wtf-interpretation"
     },
     {
         "card_id": 37,
@@ -366,8 +366,8 @@
         "VNS_tag": "M4-Unfairness",
         "count": 21,
         "description": "Inconsistent spacing between axis tick marks.",
-        "examplePic": "1542.jpg",
-        "link": "https://viz.wtf/post/90365656936/years-vs-phones-vs-electricity-vs-money-vs"
+        "examplePic": "82.png",
+        "link": "https://viz.wtf/post/189576151031/where-did-2014-2016-years-with-increased"
     },
     {
         "card_id": 38,
@@ -376,8 +376,8 @@
         "VNS_tag": "M4-Unfairness",
         "count": 19,
         "description": "Comparing entirely different entities.",
-        "examplePic": "625.jpg",
-        "link": "https://viz.wtf/post/135330560935/lets-face-it-pie-charts-with-straight-lines-are"
+        "examplePic": "2245.png",
+        "link": "https://viz.wtf/post/60206656986/20-obamas-is-just-too-much-for-our-economy"
     },
     {
         "card_id": 39,
@@ -386,8 +386,8 @@
         "VNS_tag": "I1-Low_readability",
         "count": 116,
         "description": "Overlapping data points causing visual obstruction.",
-        "examplePic": "2239.png",
-        "link": "https://viz.wtf/post/60463649206/mom-slovenia-is-in-my-bubble-again"
+        "examplePic": "128.png",
+        "link": "https://viz.wtf/post/182275181864/sobolev-et-al-2005-published-in-nature-a"
     },
     {
         "card_id": 40,
@@ -446,8 +446,8 @@
         "VNS_tag": "I1-Low_readability",
         "count": 19,
         "description": "Misleading interpretation of data growth, e.g., 10% growth visually resembling 100%.",
-        "examplePic": "1705.jpg",
-        "link": "https://viz.wtf/post/82124583246/14-is-a-really-unstable-percentage"
+        "examplePic": "1892.png",
+        "link": "https://viz.wtf/post/72127721980/visualization-skills-gap"
     },
     {
         "card_id": 46,
@@ -496,8 +496,8 @@
         "VNS_tag": "I2-Low_efficiency",
         "count": 210,
         "description": "Using non-geometric shapes to map data, hindering data comparison.",
-        "examplePic": "170.jpg",
-        "link": "https://viz.wtf/post/166329900475/shattered-distribution"
+        "examplePic": "1577.png",
+        "link": "https://viz.wtf/post/88602437583/it-all-depends-on-how-you-slice-it"
     },
     {
         "card_id": 51,
@@ -546,8 +546,8 @@
         "VNS_tag": "I2-Low_efficiency",
         "count": 9,
         "description": "Same data structure using different mapping channels, e.g., using both bars and circles for the same value.",
-        "examplePic": "291.png",
-        "link": "https://viz.wtf/post/153224235597/nested-ethnicities"
+        "examplePic": "2204.png",
+        "link": "https://viz.wtf/post/61619238777"
     },
     {
         "card_id": 56,
@@ -556,8 +556,8 @@
         "VNS_tag": "I2-Low_efficiency",
         "count": 10,
         "description": "Proximity of unrelated elements, distance between related elements.",
-        "examplePic": "358.jpg",
-        "link": "https://viz.wtf/post/150129128075/the-problem-with-wolves-is-they-wont-stay-still"
+        "examplePic": "1144.png",
+        "link": "https://viz.wtf/post/108107569456/gran-impacto"
     },
     {
         "card_id": 57,
@@ -573,7 +573,7 @@
         "card_id": 58,
         "title": "Too many categories/colors",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I3-Over-simplification",
+        "VNS_tag": "I3-Over-complexity",
         "count": 139,
         "description": "Excessive shapes, colors, etc., generally avoid exceeding 7.",
         "examplePic": "74.png",
@@ -583,27 +583,27 @@
         "card_id": 59,
         "title": "Meaningless/confounding encoding",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I3-Over-simplification",
+        "VNS_tag": "I3-Over-complexity",
         "count": 87,
         "description": "Excessive or non-functional encoding causing confusion.",
-        "examplePic": "4.jpg",
-        "link": "https://viz.wtf/post/673200540513140736/time-dilation"
+        "examplePic": "48.png",
+        "link": "https://viz.wtf/post/627445317509513216/upper-peninsula-of-michigan-fall-colors-report"
     },
     {
         "card_id": 60,
         "title": "Too many visual channels",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I3-Over-simplification",
+        "VNS_tag": "I3-Over-complexity",
         "count": 18,
         "description": "Mapping more than 5 dimensions in a single visualization.",
-        "examplePic": "53.jpg",
-        "link": "https://viz.wtf/post/625723936233209856/misleading-infographics-about-covid-tendencies-in"
+        "examplePic": "1441.png",
+        "link": "https://viz.wtf/post/95201441338/moar-3d"
     },
     {
         "card_id": 61,
         "title": "Single-value visualization",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I3-Over-simplification",
+        "VNS_tag": "I3-Over-complexity",
         "count": 7,
         "description": "E.g., single value without meaningful visualization.",
         "examplePic": "2253.png",
@@ -613,7 +613,7 @@
         "card_id": 62,
         "title": "High information density",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I3-Over-simplification",
+        "VNS_tag": "I3-Over-complexity",
         "count": 7,
         "description": "Overcrowded layout, lack of whitespace.",
         "examplePic": "1305.png",
@@ -623,7 +623,7 @@
         "card_id": 63,
         "title": "Lack of labels",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I4-Over-complexity",
+        "VNS_tag": "I4-Over-simplification",
         "count": 88,
         "description": "Uncertainty about the values of each category.",
         "examplePic": "513.jpg",
@@ -633,7 +633,7 @@
         "card_id": 64,
         "title": "Lack of scales",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I4-Over-complexity",
+        "VNS_tag": "I4-Over-simplification",
         "count": 56,
         "description": "E.g., missing axes, unable to determine scale.",
         "examplePic": "1077.png",
@@ -643,27 +643,27 @@
         "card_id": 65,
         "title": "Lack of legends",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I4-Over-complexity",
+        "VNS_tag": "I4-Over-simplification",
         "count": 49,
         "description": "Uncertainty about what each category/channel represents.",
-        "examplePic": "110.png",
-        "link": "https://viz.wtf/post/182740583010/balls-surface-area-related-to-number"
+        "examplePic": "168.png",
+        "link": "https://viz.wtf/post/167055357777/i"
     },
     {
         "card_id": 66,
         "title": "Lack of explanation for metrics",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I4-Over-complexity",
+        "VNS_tag": "I4-Over-simplification",
         "count": 22,
         "description": "Lack of explanation for data metrics/how they were derived; e.g., claiming 100% speed without context.",
-        "examplePic": "135.jpg",
-        "link": "https://viz.wtf/post/182089962016"
+        "examplePic": "418.jpg",
+        "link": "https://viz.wtf/post/147148778555/the-worst-way-possible-to-represent-yoy"
     },
     {
         "card_id": 67,
         "title": "Label that lacks callout",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I4-Over-complexity",
+        "VNS_tag": "I4-Over-simplification",
         "count": 5,
         "description": "Unaccompanied data labels, lacking connecting lines.",
         "examplePic": "1665.png",
@@ -676,8 +676,8 @@
         "VNS_tag": "S1-Abnormality",
         "count": 7,
         "description": "E.g., disregarding psychological impressions like coffee being brown, McDonald's being yellow.",
-        "examplePic": "218.png",
-        "link": "https://viz.wtf/post/159007434732/all-squirrels-are-grey-in-this-viz-from-a"
+        "examplePic": "30.jpg",
+        "link": "https://viz.wtf/post/639589038118125568"
     },
     {
         "card_id": 69,
@@ -696,8 +696,8 @@
         "VNS_tag": "S1-Abnormality",
         "count": 5,
         "description": "E.g., using a downward arrow to convey positivity.",
-        "examplePic": "1867.png",
-        "link": "https://viz.wtf/post/73526500920/negative-boost"
+        "examplePic": "2010.png",
+        "link": "https://viz.wtf/post/67697121766/pie-oclock-ht-option-explicit"
     },
     {
         "card_id": 71,
@@ -706,8 +706,8 @@
         "VNS_tag": "S1-Abnormality",
         "count": 4,
         "description": "Abrupt truncation of images, often in isotypes.",
-        "examplePic": "924.jpg",
-        "link": "https://viz.wtf/post/118222267416/donut-charts"
+        "examplePic": "1495.jpg",
+        "link": "https://viz.wtf/post/92663110479/ht-istvanhajnal-aantal-leefloners"
     },
     {
         "card_id": 72,
@@ -716,8 +716,8 @@
         "VNS_tag": "S1-Abnormality",
         "count": 3,
         "description": "Using less understandable scale when explaining data scale.",
-        "examplePic": "954.png",
-        "link": "https://viz.wtf/post/116917970112/ice-fridge"
+        "examplePic": "953.png",
+        "link": "https://viz.wtf/post/116934556499/brain-freeze"
     },
     {
         "card_id": 73,
@@ -736,8 +736,8 @@
         "VNS_tag": "S2-Aggresion",
         "count": 7,
         "description": "Images invoking fear, horror, etc.",
-        "examplePic": "718.png",
-        "link": "https://viz.wtf/post/129085769968/heat-mapping-gone-wrong"
+        "examplePic": "2127.png",
+        "link": "https://viz.wtf/post/64025806781/beef-cuts-source"
     },
     {
         "card_id": 75,
@@ -746,8 +746,8 @@
         "VNS_tag": "S2-Aggresion",
         "count": 4,
         "description": "Centering a story on the United States, using color to highlight severity.",
-        "examplePic": "1354.jpg",
-        "link": "https://viz.wtf/post/98981561686/ht-matthewbgilmore-noaas-new-weather-modelling"
+        "examplePic": "23.png",
+        "link": "https://viz.wtf/post/648282602475798528/german-main-news-website-changed-the-categrories"
     },
     {
         "card_id": 76,

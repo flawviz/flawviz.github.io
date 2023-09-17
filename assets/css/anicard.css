@@ -41,28 +41,28 @@
 }
 
 .fault-Ambiguity,
-.M2-Ambiguity .modal-header,
-.M2-Ambiguity .modal-footer,
-.M2-Ambiguity .mobile-nav-symbol,
-.M2-Ambiguity .scrollSpy-btn-symbol,
-.M2-Ambiguity .reminder-symbol,
-.M2-Ambiguity .card-header {
-    background-color: #fbae9f !important;
+.M3-Ambiguity .modal-header,
+.M3-Ambiguity .modal-footer,
+.M3-Ambiguity .mobile-nav-symbol,
+.M3-Ambiguity .scrollSpy-btn-symbol,
+.M3-Ambiguity .reminder-symbol,
+.M3-Ambiguity .card-header {
+    background-color: #fcbcaf !important;
 }
-.M2-Ambiguity .front {
+.M3-Ambiguity .front {
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
 .fault-Incompatibility,
-.M3-Incompatibility .modal-header,
-.M3-Incompatibility .modal-footer,
-.M3-Incompatibility .mobile-nav-symbol,
-.M3-Incompatibility .scrollSpy-btn-symbol,
-.M3-Incompatibility .reminder-symbol,
-.M3-Incompatibility .card-header {
-    background-color: #fcbcaf !important;
+.M2-Incompatibility .modal-header,
+.M2-Incompatibility .modal-footer,
+.M2-Incompatibility .mobile-nav-symbol,
+.M2-Incompatibility .scrollSpy-btn-symbol,
+.M2-Incompatibility .reminder-symbol,
+.M2-Incompatibility .card-header {
+    background-color: #fbae9f  !important;
 }
-.M3-Incompatibility .front {
+.M2-Incompatibility .front {
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
@@ -106,25 +106,25 @@
 }
 
 .fault-Over-simplification,
-.I3-Over-simplification .modal-header,
-.I3-Over-simplification .modal-footer,
-.I3-Over-simplification .mobile-nav-symbol,
-.I3-Over-simplification .scrollSpy-btn-symbol,
-.I3-Over-simplification .reminder-symbol,
-.I3-Over-simplification .card-header {
+.I4-Over-simplification .modal-header,
+.I4-Over-simplification .modal-footer,
+.I4-Over-simplification .mobile-nav-symbol,
+.I4-Over-simplification .scrollSpy-btn-symbol,
+.I4-Over-simplification .reminder-symbol,
+.I4-Over-simplification .card-header {
     background-color: #b9d4fb !important;
 }
-.I3-Over-simplification .front {
+.I4-Over-simplification .front {
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
 .fault-Over-complexity,
-.I4-Over-complexity .modal-header,
-.I4-Over-complexity .modal-footer,
-.I4-Over-complexity .mobile-nav-symbol,
-.I4-Over-complexity .scrollSpy-btn-symbol,
-.I4-Over-complexity .reminder-symbol,
-.I4-Over-complexity .card-header {
+.I3-Over-complexity .modal-header,
+.I3-Over-complexity .modal-footer,
+.I3-Over-complexity .mobile-nav-symbol,
+.I3-Over-complexity .scrollSpy-btn-symbol,
+.I3-Over-complexity .reminder-symbol,
+.I3-Over-complexity .card-header {
     background-color: #a9cafa !important;
 }
 .I4-Over-complexity .front {
@@ -891,7 +891,7 @@ footer .footer-text {
 }
 
 .header-text-title {
-    font-size: 0.95rem;
+    font-size: 0.85rem;
     font-weight: 600;
     line-height: 1.35rem;
     margin: 0 auto;
@@ -961,7 +961,7 @@ footer .footer-text {
 .display-container {
     height: calc(100vh - 3.75rem);
     overflow-y: auto;
-    background-image: url(../image/background.png);
+    /* background-image: url(../image/background.png); */
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
