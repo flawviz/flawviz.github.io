@@ -8,14 +8,14 @@
 1.4. #fccac0 M4: Unfairness
 
 #79acf7 Uninformativeness
-2.1. #99c0f9 I1: Low accessibility
+2.1. #99c0f9 I1: Low readability
 2.2. #a9cafa I2: Low efficiency
 2.3. #b9d4fb I3: Over-simplification
 2.4. #c9defc I4: Over-complexity
 
 #91e2a8 Unsociableness
 3.1. #ace9bd S1: Abnormality
-3.2. #c7f0d3 S2: Hostility
+3.2. #c7f0d3 S2: Aggresion
 */
 .fault-default,
 .default .modal-header,
@@ -79,16 +79,16 @@
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
-.fault-Low_accessibility,
-.I1-Low_accessibility .modal-header,
-.I1-Low_accessibility .modal-footer,
-.I1-Low_accessibility .mobile-nav-symbol,
-.I1-Low_accessibility .scrollSpy-btn-symbol,
-.I1-Low_accessibility .reminder-symbol,
-.I1-Low_accessibility .card-header {
+.fault-Low_readability,
+.I1-Low_readability .modal-header,
+.I1-Low_readability .modal-footer,
+.I1-Low_readability .mobile-nav-symbol,
+.I1-Low_readability .scrollSpy-btn-symbol,
+.I1-Low_readability .reminder-symbol,
+.I1-Low_readability .card-header {
     background-color: #99c0f9 !important;
 }
-.I1-Low_accessibility .front {
+.I1-Low_readability .front {
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
@@ -144,16 +144,16 @@
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
-.fault-Hostility,
-.S2-Hostility .modal-header,
-.S2-Hostility .modal-footer,
-.S2-Hostility .mobile-nav-symbol,
-.S2-Hostility .scrollSpy-btn-symbol,
-.S2-Hostility .reminder-symbol,
-.S2-Hostility .card-header {
+.fault-Aggresion,
+.S2-Aggresion .modal-header,
+.S2-Aggresion .modal-footer,
+.S2-Aggresion .mobile-nav-symbol,
+.S2-Aggresion .scrollSpy-btn-symbol,
+.S2-Aggresion .reminder-symbol,
+.S2-Aggresion .card-header {
     background-color: #c7f0d3 !important;
 }
-.S2-Hostility .front {
+.S2-Aggresion .front {
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
@@ -274,55 +274,6 @@
 }
 
 
-/*el_tag2的class名字 卡片头部的标签名称*/
-
-.Color {
-    background-image: url("../icon/whole chart.svg");
-    background-position: 1 0px;
-    background-repeat: no-repeat;
-    width: 23px;
-    height: 21px;
-}
-
-.Graphics {
-    background-image: url("../icon/mark.svg");
-    background-position: 1 0px;
-    background-repeat: no-repeat;
-    width: 23px;
-    height: 21px;
-}
-
-.Audio {
-    background-image: url("../icon/axes.svg");
-    background-position: 1 0px;
-    background-repeat: no-repeat;
-    width: 23px;
-    height: 21px;
-}
-
-.Interaction {
-    background-image: url("../icon/add.svg");
-    background-position: 1 0px;
-    background-repeat: no-repeat;
-    width: 23px;
-    height: 21px;
-}
-
-.Animation {
-    background-image: url("../icon/camera.svg");
-    background-position: 1 0px;
-    background-repeat: no-repeat;
-    width: 23px;
-    height: 21px;
-}
-
-.Narratives {
-    background-image: url("../icon/camera.svg");
-    background-position: 1 0px;
-    background-repeat: no-repeat;
-    width: 23px;
-    height: 21px;
-}
 
 
 /* Chart symbol for card header */
@@ -466,7 +417,7 @@ footer .footer-text {
 
 .navbar-container {
     /* background: transparent linear-gradient(90deg, rgb(216, 240, 143) 0%, rgb(139, 234, 136) 100%); */
-    background: transparent linear-gradient(90deg, rgb(121, 201, 247) 0%, rgb(121, 172, 247) 100%);
+    background: transparent linear-gradient(90deg, rgb(169, 221, 79) 0%, rgb(121, 172, 247) 100%);
 
     background-color: #000000;
     background-position: bottom right;
@@ -481,8 +432,7 @@ footer .footer-text {
 @media (min-width: 852.5px) {
     .navbar-container {
         /* background: transparent linear-gradient(90deg, rgb(216, 240, 143) 0%, rgb(139, 234, 136) 100%); */
-        background: transparent linear-gradient(90deg, rgb(121, 201, 247) 0%, rgb(121, 172, 247) 100%);
-
+        background: transparent linear-gradient(90deg,   rgba(145, 226, 168,0.5) 0%, rgb(121, 172, 247,0.5) 100%);
         /* background: transparent linear-gradient(90deg, rgb(200, 191, 231) 0%, rgb(198, 228, 245) 100%); */
         /*background-image: url(../image/banner.png), linear-gradient(90deg, #FFF6E6 0%, #FEF6E7 100%);*/
         display: flex;
@@ -719,8 +669,8 @@ footer .footer-text {
     background-size: cover;
     background-position: center center;
     width: 100%;
-    height: 12.25rem;
-    min-height: 12.25rem;
+    height: 14.25rem;
+    min-height: 14.25rem;
     position: relative;
 }
 
@@ -941,7 +891,7 @@ footer .footer-text {
 }
 
 .header-text-title {
-    font-size: 1.00rem;
+    font-size: 0.95rem;
     font-weight: 600;
     line-height: 1.35rem;
     margin: 0 auto;

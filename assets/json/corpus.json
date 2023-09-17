@@ -250,7 +250,7 @@
         "topic": "health/medicine",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Choropleth Map</span>",
-        "designFaults": "<span class='badge badge_16'>S2: Deliberate encoding to satisfy rhetorical intent</span><span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_10'>M4: Uneven data grouping</span>"
+        "designFaults": "<span class='badge badge_16'>S2: Strong rhetoric</span><span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_10'>M4: Uneven data grouping</span>"
     },
     {
         "id": 24,
@@ -2450,7 +2450,7 @@
         "topic": "leisure/daily life",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Nightingale Rose Chart</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Violating the gestalt laws</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_16'>S2: Deliberate encoding to satisfy rhetorical intent</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Violating the gestalt laws</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_16'>S2: Strong rhetoric</span>"
     },
     {
         "id": 228,
@@ -14627,7 +14627,7 @@
         "topic": "climate/environment",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Isopleth Map</span>",
-        "designFaults": "<span class='badge badge_16'>S2: Deliberate encoding to satisfy rhetorical intent</span>"
+        "designFaults": "<span class='badge badge_16'>S2: Strong rhetoric</span>"
     },
     {
         "id": 1355,
@@ -20820,7 +20820,7 @@
         "topic": "job/career",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Area Chart</span><span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_16'>S2: Deliberate encoding to satisfy rhetorical intent</span>"
+        "designFaults": "<span class='badge badge_16'>S2: Strong rhetoric</span>"
     },
     {
         "id": 1956,

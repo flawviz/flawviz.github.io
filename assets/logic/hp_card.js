@@ -404,14 +404,13 @@ class Homepage_Reminder {
         let reminder_title_html = `<span class="reminder-title">${methodToReminderTitle(this._VNS_tag)}&nbsp;</span>
             <span class='reminder-sum'>(${this._VNS_num})</span>
             <span class='reminder-sum-s'>SUM: ${this._VNS_num}</span>`;
-
         reminder_node.classList.add("display-reminder");
         // reminder_bg_node.classList.add("reminder-bg");
         reminder_content_node.classList.add("reminder-content");
         // reminder_node.classList.add("display-reminder", "active-sticky");
         reminder_head_node.classList.add("reminder-head");
         reminder_desc_node.classList.add("reminder-desc");
-
+        
         reminder_head_node.innerHTML = reminder_symbol_html + reminder_title_html;
         reminder_desc_node.innerHTML = this._VNS_desc;
         reminder_content_node.appendChild(reminder_head_node);

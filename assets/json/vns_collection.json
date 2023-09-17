@@ -4,69 +4,79 @@
     "VNS_tag": "M1-Inaccuracy",
     "VNS_color": "#faa08f",
     "VNS_desc": "Inaccuracy occurs when the data points, labels, or other elements do not precisely represent the underlying data. ",
-    "VNS_num": "14"
+    "VNS_num": "14",
+    "VNS_father": "Misinformation"
   },
   {
     "VNS_id": "1",
     "VNS_tag": "M2-Ambiguity",
     "VNS_color": "#fbae9f",
     "VNS_desc": "Ambiguity occurs when a data visualization fails to clarify the mappings from data to visuals and, making users uncertain of how to decode data.",
-    "VNS_num": "11"
+    "VNS_num": "11",
+    "VNS_father": "Misinformation"
   },
   {
     "VNS_id": "2",
     "VNS_tag": "M3-Incompatibility",
     "VNS_color": "#fcbcaf",
     "VNS_desc": "Incompatibility arises when a data visualization is not ppropriately tailored to input variables.",
-    "VNS_num": "8"
+    "VNS_num": "8",
+    "VNS_father": "Misinformation"
   },
   {
     "VNS_id": "3",
     "VNS_tag": "M4-Unfairness",
     "VNS_color": "#fccac0",
     "VNS_desc": "Unfairness presents different data points or categories following different standards or baselines.",
-    "VNS_num": "5"
+    "VNS_num": "5",
+    "VNS_father": "Misinformation"
   },
   {
     "VNS_id": "4",
-    "VNS_tag": "I1-Low_accessibility",
+    "VNS_tag": "I1-Low_readability",
     "VNS_color": "#99c0f9",
-    "VNS_desc": "Low accessibility means the data visualization is unreadable or illegible.",
-    "VNS_num": "11"
+    "VNS_desc": "Low readability means the data visualization is unreadable or illegible.",
+    "VNS_num": "11",
+    "VNS_father": "Uninformativeness"
   },
   {
     "VNS_id": "5",
     "VNS_tag": "I2-Low_efficiency",
     "VNS_color": "#a9cafa",
     "VNS_desc": " Low efficiency indicates that the data visualization requires excessive cognitive effort for users to comprehend the information it presents.",
-    "VNS_num": "8"
+    "VNS_num": "8",
+    "VNS_father": "Uninformativeness"
   },
   {
     "VNS_id": "6",
     "VNS_tag": "I3-Over-simplification",
     "VNS_color": "#b9d4fb",
     "VNS_desc": "Over-simplification occurs when a data visualization miss essential components.",
-    "VNS_num": "5"
+    "VNS_num": "5",
+    "VNS_father": "Uninformativeness"
   },
   {
     "VNS_id": "7",
     "VNS_tag": "I4-Over-complexity",
     "VNS_color": "#c9defc",
     "VNS_desc": "Over-complexity refers to the opposite of over-simplification, where a data visualization becomes overly intricate and convoluted.",
-    "VNS_num": "5"
+    "VNS_num": "5",
+    "VNS_father": "Uninformativeness"
   },
   {
     "VNS_id": "8",
     "VNS_tag": "S1-Abnormality",
     "VNS_color": "#ace9bd",
     "VNS_desc": "Abnormality signifies instances where the design choices of the data visualization diverge significantly from standard conventions or practices.",
-    "VNS_num": "6"
+    "VNS_num": "6",
+    "VNS_father": "Unsociableness"
   },
   {
     "VNS_id": "9",
-    "VNS_tag": "S2-Hostility",
+    "VNS_tag": "S2-Aggresion",
     "VNS_color": "#c7f0d3",
-    "VNS_desc": "Hostility creates a negative user experience by employing overly aggressive visual elements.",
-    "VNS_num": "3"
+    "VNS_desc": "Aggresion creates a negative user experience by employing overly aggressive visual elements.",
+    "VNS_num": "3",
+    "VNS_father": "Unsociableness"
   }
 ]

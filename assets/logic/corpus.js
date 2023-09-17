@@ -41,7 +41,7 @@ class Corpus_Card {
         let cardTitle_Html = `<div class="story-card-title" target="_blank">${this._title} - <u><a href="${this._link}" target="_blank">WTF Gallery Link</a></u></a></div>`;
         // let cardTitle_Html = ``;
         // let cardNum_Html = `<div class="story-hidden-id">No. ${this._id}</div>`;
-        let cardText_Html = `<div class="card-text"><br><strong>Publisher</strong>: ${this._publisher}, <strong>Topic</strong>: ${this._topic}<div><strong>Description</strong>: ${this._description}</div><br><div><strong>Chart type</strong>:${this._charttype}</div><br><div><strong>Design Faults</strong>:${this._designFaults}</div></div>`;
+        let cardText_Html = `<div class="card-text"><br><strong>Publisher</strong>: ${this._publisher}, <strong>Topic</strong>: ${this._topic}<div><strong>User Comment</strong>: ${this._description}</div><br><div><strong>Chart type</strong>:${this._charttype}</div><br><div><strong>Design Flaws</strong>:${this._designFaults}</div></div>`;
         // let cardText_Html = `<p class="card-text"><span class="hidden-id">No. ${this._id}</span></p>`;
 
 
