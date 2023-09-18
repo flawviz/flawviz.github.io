@@ -285,7 +285,7 @@
         "EL_tag": "Misinformation",
         "VNS_tag": "M3-Ambiguity",
         "count": 36,
-        "description": "When a data visualization lacks a clear and consistent proxy or baseline for comparison, it becomes challenging for users to access data.",
+        "description": "A data visualization lacks a clear and consistent proxy or baseline for comparison. For example, it is difficult to know where the bar should end (front of the car, or back of the car).",
         "examplePic": "1332.png",
         "link": "https://viz.wtf/post/99917154253/vroom"
     },
