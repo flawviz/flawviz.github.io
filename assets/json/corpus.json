@@ -250,7 +250,7 @@
         "topic": "health/medicine",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Choropleth Map</span>",
-        "designFaults": "<span class='badge badge_16'>S2: Deliberate encoding to satisfy rhetorical intent</span><span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_10'>M4: Uneven data grouping</span>"
+        "designFaults": "<span class='badge badge_16'>S2: Strong rhetoric</span><span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_10'>M4: Uneven data grouping</span>"
     },
     {
         "id": 24,
@@ -811,7 +811,7 @@
         "topic": "marketing/advertising",
         "publisher": "non-profits",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misuse of add-on relationship</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Misuse of cumulative relationship</span>"
     },
     {
         "id": 76,
@@ -976,7 +976,7 @@
         "topic": "sociology",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_8'>M2: Misuse of add-on relationship</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_8'>M2: Misuse of cumulative relationship</span>"
     },
     {
         "id": 92,
@@ -1042,7 +1042,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 98,
@@ -1229,7 +1229,7 @@
         "topic": "sociology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_8'>M2: Misuse of add-on relationship</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_8'>M2: Misuse of cumulative relationship</span>"
     },
     {
         "id": 116,
@@ -1636,7 +1636,7 @@
         "topic": "unkown",
         "publisher": "individual",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 153,
@@ -2186,7 +2186,7 @@
         "topic": "crime/security",
         "publisher": "individual",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 204,
@@ -2197,7 +2197,7 @@
         "topic": "crime/security",
         "publisher": "individual",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 205,
@@ -2208,7 +2208,7 @@
         "topic": "crime/security",
         "publisher": "individual",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 206,
@@ -2219,7 +2219,7 @@
         "topic": "crime/security",
         "publisher": "individual",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 207,
@@ -2230,7 +2230,7 @@
         "topic": "crime/security",
         "publisher": "individual",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span><span class='badge badge_12'>I2: Unstructured layout</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span><span class='badge badge_12'>I2: Unstructured layout</span>"
     },
     {
         "id": 208,
@@ -2241,7 +2241,7 @@
         "topic": "military",
         "publisher": "individual",
         "charttype": "<span class='badge badge_6'>Line Graph</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span><span class='badge badge_10'>M4: Uneven axis interval</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span><span class='badge badge_10'>M4: Uneven axis interval</span>"
     },
     {
         "id": 209,
@@ -2450,7 +2450,7 @@
         "topic": "leisure/daily life",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Nightingale Rose Chart</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Violating the gestalt laws</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_16'>S2: Deliberate encoding to satisfy rhetorical intent</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Violating the gestalt laws</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_16'>S2: Strong rhetoric</span>"
     },
     {
         "id": 228,
@@ -2681,7 +2681,7 @@
         "topic": "politics/government",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misuse of add-on relationship</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Misuse of cumulative relationship</span>"
     },
     {
         "id": 249,
@@ -3858,7 +3858,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Line Graph</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 357,
@@ -5101,7 +5101,7 @@
         "topic": "politics/government",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Flow Map</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 471,
@@ -6421,7 +6421,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 596,
@@ -7598,7 +7598,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span><span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span><span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
         "id": 704,
@@ -7653,7 +7653,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misuse of add-on relationship</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Misuse of cumulative relationship</span>"
     },
     {
         "id": 709,
@@ -7818,7 +7818,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_4'>ISOTYPE</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 724,
@@ -8093,7 +8093,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Text</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 749,
@@ -9413,7 +9413,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span><span class='badge badge_8'>M2: Misuse of sequence</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span><span class='badge badge_8'>M2: Misuse of sequence</span>"
     },
     {
         "id": 871,
@@ -10942,7 +10942,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 1012,
@@ -11052,7 +11052,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 1022,
@@ -11338,7 +11338,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Pyramid</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_8'>M2: Misuse of add-on relationship</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_8'>M2: Misuse of cumulative relationship</span>"
     },
     {
         "id": 1049,
@@ -11349,7 +11349,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Pyramid</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_8'>M2: Misuse of add-on relationship</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_8'>M2: Misuse of cumulative relationship</span>"
     },
     {
         "id": 1050,
@@ -13065,7 +13065,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 1210,
@@ -13186,7 +13186,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 1221,
@@ -13197,7 +13197,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 1222,
@@ -13373,7 +13373,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Text</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_9'>M3: Unclear signs/arrows</span><span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_9'>M3: Unclear symbols</span><span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
         "id": 1238,
@@ -14627,7 +14627,7 @@
         "topic": "climate/environment",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Isopleth Map</span>",
-        "designFaults": "<span class='badge badge_16'>S2: Deliberate encoding to satisfy rhetorical intent</span>"
+        "designFaults": "<span class='badge badge_16'>S2: Strong rhetoric</span>"
     },
     {
         "id": 1355,
@@ -14638,7 +14638,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misuse of add-on relationship</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Misuse of cumulative relationship</span>"
     },
     {
         "id": 1356,
@@ -15804,7 +15804,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Graph</span><span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span><span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span><span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
         "id": 1472,
@@ -16750,7 +16750,7 @@
         "topic": "sociology",
         "publisher": "academia",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 1562,
@@ -16849,7 +16849,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_8'>M2: Misuse of add-on relationship</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_8'>M2: Misuse of cumulative relationship</span>"
     },
     {
         "id": 1571,
@@ -17652,7 +17652,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misuse of add-on relationship</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Misuse of cumulative relationship</span>"
     },
     {
         "id": 1647,
@@ -18213,7 +18213,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 1705,
@@ -18477,7 +18477,7 @@
         "topic": "entrepreneur/management",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Pyramid</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 1730,
@@ -19566,7 +19566,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Dot/Unit Vis</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_10'>M4: Uneven data grouping</span><span class='badge badge_8'>M2: Misuse of add-on relationship</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_10'>M4: Uneven data grouping</span><span class='badge badge_8'>M2: Misuse of cumulative relationship</span>"
     },
     {
         "id": 1835,
@@ -20094,7 +20094,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span><span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span><span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
         "id": 1888,
@@ -20578,7 +20578,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Venn Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 1934,
@@ -20820,7 +20820,7 @@
         "topic": "job/career",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Area Chart</span><span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_16'>S2: Deliberate encoding to satisfy rhetorical intent</span>"
+        "designFaults": "<span class='badge badge_16'>S2: Strong rhetoric</span>"
     },
     {
         "id": 1956,
@@ -21931,7 +21931,7 @@
         "topic": "entrepreneur/management",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 2058,
@@ -22041,7 +22041,7 @@
         "topic": "sociology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 2068,
@@ -22173,7 +22173,7 @@
         "topic": "climate/environment",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span><span class='badge badge_4'>ISOTYPE</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Failure to show uncertainty</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_9'>M3: Unclear signs/arrows</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Failure to show uncertainty</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_9'>M3: Unclear symbols</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 2080,
@@ -22459,7 +22459,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 2107,
@@ -22536,7 +22536,7 @@
         "topic": "entrepreneur/management",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 2115,
@@ -22734,7 +22734,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 2135,
@@ -22745,7 +22745,7 @@
         "topic": "crime/security",
         "publisher": "academia",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span><span class='badge badge_12'>I2: Unstructured layout</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span><span class='badge badge_12'>I2: Unstructured layout</span>"
     },
     {
         "id": 2136,
@@ -23284,7 +23284,7 @@
         "topic": "?",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Grouped Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 2185,
@@ -23405,7 +23405,7 @@
         "topic": "education",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 2196,
@@ -23482,7 +23482,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 2204,
@@ -23713,7 +23713,7 @@
         "topic": "technology",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Flow Map</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 2225,
@@ -23999,7 +23999,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Graph</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Unclear symbols</span>"
     },
     {
         "id": 2253,
