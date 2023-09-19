@@ -9,7 +9,7 @@
         "publisher": "company",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
         "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_15'>S1: Stretched imagery</span>"
-    },    
+    },
     {
         "id": 2,
         "title": "2",
@@ -18,7 +18,7 @@
         "pic": "2.jpg",
         "topic": "job/career",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Conflating area with radius</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -29,7 +29,7 @@
         "pic": "3.png",
         "topic": "politics/government",
         "publisher": "academia",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -62,7 +62,7 @@
         "pic": "6.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_12'>I2: Dual axes</span><span class='badge badge_14'>I4: Lack of explanation for metrics</span>"
     },
     {
@@ -106,7 +106,7 @@
         "pic": "10.png",
         "topic": "economics/finance/accounting",
         "publisher": "government/policital party",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_8'>M2: Categorical encoding for continuous data</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
     },
     {
@@ -172,7 +172,7 @@
         "pic": "16.jpg",
         "topic": "crime/security",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Inverted axis</span>"
     },
     {
@@ -250,7 +250,7 @@
         "topic": "health/medicine",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Choropleth Map</span>",
-        "designFaults": "<span class='badge badge_16'>S2: Strong rhetoric</span><span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_10'>M4: Uneven data grouping</span>"
+        "designFaults": "<span class='badge badge_16'>S2: Deliberate encoding to satisfy rhetorical intent</span><span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_10'>M4: Uneven data grouping</span>"
     },
     {
         "id": 24,
@@ -271,7 +271,7 @@
         "pic": "25.png",
         "topic": "technology",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Conflating area with radius</span>"
     },
     {
@@ -414,7 +414,7 @@
         "pic": "38.png",
         "topic": "economics/finance/accounting",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -447,7 +447,7 @@
         "pic": "41.jpg",
         "topic": "economics/finance/accounting",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Centered Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Conflating area with radius</span>"
     },
     {
@@ -568,7 +568,7 @@
         "pic": "52.jpg",
         "topic": "health/medicine",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -579,7 +579,7 @@
         "pic": "53.jpg",
         "topic": "health/medicine",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_13'>I3: Too many visual channels</span><span class='badge badge_10'>M4: Uneven axis interval</span>"
     },
     {
@@ -656,7 +656,7 @@
         "pic": "61.jpg",
         "topic": "health/medicine",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_10'>M4: Uneven axis interval</span>"
     },
     {
@@ -689,7 +689,7 @@
         "pic": "64.png",
         "topic": "health/medicine",
         "publisher": "individual",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
     },
     {
@@ -700,7 +700,7 @@
         "pic": "65.png",
         "topic": "unkown",
         "publisher": "non-profits",
-        "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span><span class='badge badge_12'>I2: Dual axes</span>"
     },
     {
@@ -777,7 +777,7 @@
         "pic": "72.jpg",
         "topic": "health/medicine",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -887,7 +887,7 @@
         "pic": "82.png",
         "topic": "energy/natural resources",
         "publisher": "government/policital party",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Uneven axis interval</span>"
     },
     {
@@ -898,7 +898,7 @@
         "pic": "83.png",
         "topic": "energy/natural resources",
         "publisher": "government/policital party",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -953,7 +953,7 @@
         "pic": "89.png",
         "topic": "technology",
         "publisher": "academia",
-        "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Boxplot</span><span class='badge badge_5'>Line Graph</span><span class='badge badge_6'>Scatter Plot</span>",
+        "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Boxplot</span><span class='badge badge_6'>Line Graph</span><span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_13'>I3: High information density</span>"
     },
     {
@@ -986,7 +986,7 @@
         "pic": "92.jpg",
         "topic": "crime/security",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -1173,7 +1173,7 @@
         "pic": "109.jpg",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_12'>I2: Dual axes</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -1184,7 +1184,7 @@
         "pic": "110.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Bubble Chart</span>",
+        "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of legends</span>"
     },
     {
@@ -1217,7 +1217,7 @@
         "pic": "114.png",
         "topic": "sports/game",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Grouped Bar Chart</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Grouped Bar Chart</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_12'>I2: Dual axes</span>"
     },
     {
@@ -1261,7 +1261,7 @@
         "pic": "118.png",
         "topic": "aeronautics/space",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Stylized effect on data marks</span>"
     },
     {
@@ -1371,7 +1371,7 @@
         "pic": "128.png",
         "topic": "geography",
         "publisher": "academia",
-        "charttype": "<span class='badge badge_6'>Scatter Plot</span>",
+        "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
     },
     {
@@ -1404,7 +1404,7 @@
         "pic": "131.jpg",
         "topic": "climate/environment",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_10'>M4: Comparing apples with oranges</span><span class='badge badge_10'>M4: Multiple scales</span>"
     },
     {
@@ -1459,7 +1459,7 @@
         "pic": "136.jpg",
         "topic": "crime/security",
         "publisher": "government/policital party",
-        "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_5'>Line Graph</span><span class='badge badge_1'>Pie Chart</span>",
+        "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Line Graph</span><span class='badge badge_1'>Pie Chart</span>",
         "designFaults": "<span class='badge badge_13'>I3: High information density</span><span class='badge badge_11'>I1: Small size</span>"
     },
     {
@@ -1481,7 +1481,7 @@
         "pic": "138.png",
         "topic": "marketing/advertising",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -1558,7 +1558,7 @@
         "pic": "145.png",
         "topic": "crime/security",
         "publisher": "government/policital party",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span>"
     },
     {
@@ -1580,7 +1580,7 @@
         "pic": "147.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span><span class='badge badge_2'>Donut Chart</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span><span class='badge badge_2'>Donut Chart</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Small size</span>"
     },
     {
@@ -1657,7 +1657,7 @@
         "pic": "154.jpg",
         "topic": "marketing/advertising",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -1877,7 +1877,7 @@
         "pic": "175.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_6'>Sankey Diagram</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_6'>Sankey Diagram</span>",
         "designFaults": "<span class='badge badge_7'>M1: Conflating area with radius</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -1910,7 +1910,7 @@
         "pic": "178.jpg",
         "topic": "politics/government",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_6'>Bubble Chart</span>",
+        "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -1987,7 +1987,7 @@
         "pic": "185.png",
         "topic": "media",
         "publisher": "company",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Legend-vis inconsistency</span>"
     },
     {
@@ -2020,7 +2020,7 @@
         "pic": "188.jpg",
         "topic": "climate/environment",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -2031,7 +2031,7 @@
         "pic": "189.png",
         "topic": "crime/security",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_10'>M4: Uneven data grouping</span>"
     },
     {
@@ -2053,7 +2053,7 @@
         "pic": "191.png",
         "topic": "food/drink",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_6'>Centered Proportional Area Chart</span><span class='badge badge_6'>Statistical Plot Map</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_6'>Statistical Plot Map</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -2075,7 +2075,7 @@
         "pic": "193.jpg",
         "topic": "sports/game",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -2097,7 +2097,7 @@
         "pic": "195.jpg",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
     },
     {
@@ -2141,7 +2141,7 @@
         "pic": "199.jpg",
         "topic": "sports/game",
         "publisher": "company",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span>"
     },
     {
@@ -2240,7 +2240,7 @@
         "pic": "208.jpg",
         "topic": "military",
         "publisher": "individual",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span><span class='badge badge_10'>M4: Uneven axis interval</span>"
     },
     {
@@ -2273,7 +2273,7 @@
         "pic": "211.png",
         "topic": "health/medicine",
         "publisher": "individual",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_10'>M4: Uneven axis interval</span>"
     },
     {
@@ -2361,7 +2361,7 @@
         "pic": "219.png",
         "topic": "climate/environment",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span>"
     },
     {
@@ -2394,7 +2394,7 @@
         "pic": "222.png",
         "topic": "health/medicine",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Diagram</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Diagram</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of legends</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many visual channels</span>"
     },
     {
@@ -2450,7 +2450,7 @@
         "topic": "leisure/daily life",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Nightingale Rose Chart</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Violating the gestalt laws</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_16'>S2: Strong rhetoric</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Violating the gestalt laws</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_16'>S2: Deliberate encoding to satisfy rhetorical intent</span>"
     },
     {
         "id": 228,
@@ -2504,7 +2504,7 @@
         "pic": "232.png",
         "topic": "health/medicine",
         "publisher": "government/policital party",
-        "charttype": "<span class='badge badge_5'>Line Graph</span><span class='badge badge_1'>Pie Chart</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span><span class='badge badge_1'>Pie Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -2515,7 +2515,7 @@
         "pic": "233.png",
         "topic": "sociology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_10'>M4: Uneven axis interval</span>"
     },
     {
@@ -2526,7 +2526,7 @@
         "pic": "234.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
     },
     {
@@ -2537,7 +2537,7 @@
         "pic": "235.jpg",
         "topic": "marketing/advertising",
         "publisher": "company",
-        "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_2'>Donut Chart</span><span class='badge badge_6'>Overlapped Proportional Area Chart</span><span class='badge badge_6'>Progress Bar</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span><span class='badge badge_2'>Donut Chart</span><span class='badge badge_6'>Progress Bar</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
@@ -2570,7 +2570,7 @@
         "pic": "238.jpg",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -2944,7 +2944,7 @@
         "pic": "272.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Centered Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Highlighting that resembles data elements</span>"
     },
     {
@@ -2966,7 +2966,7 @@
         "pic": "274.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Centered Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_9'>M3: Highlighting that resembles data elements</span>"
     },
     {
@@ -3076,7 +3076,7 @@
         "pic": "284.png",
         "topic": "entrepreneur/management",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -3131,7 +3131,7 @@
         "pic": "289.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -3153,7 +3153,7 @@
         "pic": "291.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Conflating area with radius</span><span class='badge badge_7'>M1: Legend-vis inconsistency</span><span class='badge badge_12'>I2: Multiple channels for the same data type</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -3186,7 +3186,7 @@
         "pic": "294.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Conflating area with radius</span>"
     },
     {
@@ -3241,7 +3241,7 @@
         "pic": "299.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -3351,7 +3351,7 @@
         "pic": "309.jpg",
         "topic": "unkown",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_6'>Centered Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Conflating area with radius</span><span class='badge badge_11'>I1: Indistinguishable colors/textures</span>"
     },
     {
@@ -3373,7 +3373,7 @@
         "pic": "311.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -3417,7 +3417,7 @@
         "pic": "315.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -3461,7 +3461,7 @@
         "pic": "319.jpg",
         "topic": "marketing/advertising",
         "publisher": "company",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -3472,7 +3472,7 @@
         "pic": "320.jpg",
         "topic": "technology",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -3483,7 +3483,7 @@
         "pic": "321.png",
         "topic": "crime/security",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_7'>M1: Inverted axis</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -3615,7 +3615,7 @@
         "pic": "333.png",
         "topic": "leisure/daily life",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_4'>ISOTYPE</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_4'>ISOTYPE</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_12'>I2: Dual axes</span><span class='badge badge_9'>M3: Invasion of figurative semantics</span>"
     },
     {
@@ -3637,7 +3637,7 @@
         "pic": "335.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -3648,7 +3648,7 @@
         "pic": "336.png",
         "topic": "technology",
         "publisher": "company",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -3659,7 +3659,7 @@
         "pic": "337.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -3681,7 +3681,7 @@
         "pic": "339.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -3857,7 +3857,7 @@
         "pic": "356.png",
         "topic": "health/medicine",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Unclear signs/arrows</span>"
     },
     {
@@ -3956,7 +3956,7 @@
         "pic": "366.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -4033,7 +4033,7 @@
         "pic": "373.jpg",
         "topic": "technology",
         "publisher": "government/policital party",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -4088,7 +4088,7 @@
         "pic": "378.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_9'>M3: Unclear proxy for comparison</span>"
     },
     {
@@ -4143,7 +4143,7 @@
         "pic": "383.jpg",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Scatter Plot</span>",
+        "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span>"
     },
     {
@@ -4176,7 +4176,7 @@
         "pic": "386.jpg",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_11'>I1: Text rotation</span>"
     },
     {
@@ -4198,7 +4198,7 @@
         "pic": "388.png",
         "topic": "crime/security",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span><span class='badge badge_6'>Stacked Bar Chart</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span><span class='badge badge_6'>Stacked Bar Chart</span>",
         "designFaults": "<span class='badge badge_12'>I2: Dual axes</span>"
     },
     {
@@ -4209,7 +4209,7 @@
         "pic": "389.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -4330,7 +4330,7 @@
         "pic": "400.jpg",
         "topic": "economics/finance/accounting",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Choropleth Map</span><span class='badge badge_5'>Line Graph</span><span class='badge badge_6'>Nightingale Rose Chart</span>",
+        "charttype": "<span class='badge badge_6'>Choropleth Map</span><span class='badge badge_6'>Line Graph</span><span class='badge badge_6'>Nightingale Rose Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many visual channels</span>"
     },
     {
@@ -4462,7 +4462,7 @@
         "pic": "412.jpg",
         "topic": "politics/government",
         "publisher": "non-profits",
-        "charttype": "<span class='badge badge_6'>Scatter Plot</span>",
+        "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -4484,7 +4484,7 @@
         "pic": "414.jpg",
         "topic": "education",
         "publisher": "non-profits",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -4517,7 +4517,7 @@
         "pic": "417.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span><span class='badge badge_8'>M2: Misordering</span>"
     },
     {
@@ -4649,7 +4649,7 @@
         "pic": "429.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -4693,7 +4693,7 @@
         "pic": "433.jpg",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_13'>I3: High information density</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span>"
     },
     {
@@ -4825,7 +4825,7 @@
         "pic": "445.png",
         "topic": "psychology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -4891,7 +4891,7 @@
         "pic": "451.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -4924,7 +4924,7 @@
         "pic": "454.jpg",
         "topic": "economics/finance/accounting",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of scales</span><span class='badge badge_11'>I1: Small size</span>"
     },
     {
@@ -4957,7 +4957,7 @@
         "pic": "457.png",
         "topic": "energy/natural resources",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -4990,7 +4990,7 @@
         "pic": "460.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -5078,7 +5078,7 @@
         "pic": "468.jpg",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -5254,7 +5254,7 @@
         "pic": "485.gif",
         "topic": "politics/government",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Venn Diagram</span>",
+        "charttype": "<span class='badge badge_6'>Text</span>",
         "designFaults": "<span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -5397,7 +5397,7 @@
         "pic": "500.jpg",
         "topic": "health/medicine",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Stylized effect on data marks</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_12'>I2: Inconsistent visual encodings</span>"
     },
     {
@@ -5419,7 +5419,7 @@
         "pic": "502.jpg",
         "topic": "sociology",
         "publisher": "academia",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -5463,7 +5463,7 @@
         "pic": "506.jpg",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
     },
     {
@@ -5573,7 +5573,7 @@
         "pic": "516.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -5716,7 +5716,7 @@
         "pic": "529.jpg",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_10'>M4: Uneven axis interval</span>"
     },
     {
@@ -5738,7 +5738,7 @@
         "pic": "531.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_4'>ISOTYPE</span><span class='badge badge_6'>Scatter Plot</span>",
+        "charttype": "<span class='badge badge_4'>ISOTYPE</span><span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -5793,7 +5793,7 @@
         "pic": "536.png",
         "topic": "sociology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Mixed use of channels</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Misalignment</span>"
     },
     {
@@ -5815,7 +5815,7 @@
         "pic": "538.jpg",
         "topic": "politics/government",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -5870,7 +5870,7 @@
         "pic": "543.png",
         "topic": "sports/game",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -6002,7 +6002,7 @@
         "pic": "555.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Mixed use of channels</span>"
     },
     {
@@ -6046,7 +6046,7 @@
         "pic": "560.png",
         "topic": "politics/government",
         "publisher": "company",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Colorblind unfriendliness</span><span class='badge badge_11'>I1: Indistinguishable colors/textures</span>"
     },
     {
@@ -6222,7 +6222,7 @@
         "pic": "577.png",
         "topic": "energy/natural resources",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -6299,7 +6299,7 @@
         "pic": "584.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -6310,7 +6310,7 @@
         "pic": "585.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_7'>M1: Dual encoding</span>"
     },
     {
@@ -6321,7 +6321,7 @@
         "pic": "586.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_7'>M1: Dual encoding</span>"
     },
     {
@@ -6343,7 +6343,7 @@
         "pic": "588.png",
         "topic": "?",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -6387,7 +6387,7 @@
         "pic": "592.png",
         "topic": "politics/government",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_12'>I2: Inconsistent visual encodings</span>"
     },
     {
@@ -6442,7 +6442,7 @@
         "pic": "597.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -6486,7 +6486,7 @@
         "pic": "601.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -6541,7 +6541,7 @@
         "pic": "606.jpg",
         "topic": "entrepreneur/management",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span><span class='badge badge_6'>Stacked Bar Chart</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span><span class='badge badge_6'>Stacked Bar Chart</span>",
         "designFaults": "<span class='badge badge_12'>I2: Dual axes</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
     },
     {
@@ -6552,7 +6552,7 @@
         "pic": "607.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Bubble Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -6618,7 +6618,7 @@
         "pic": "613.jpg",
         "topic": "politics/government",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -6651,7 +6651,7 @@
         "pic": "616.jpg",
         "topic": "?",
         "publisher": "company",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -6816,7 +6816,7 @@
         "pic": "631.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span>"
     },
     {
@@ -6871,7 +6871,7 @@
         "pic": "636.gif",
         "topic": "politics/government",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span><span class='badge badge_6'>Sunburst</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span><span class='badge badge_6'>Sunburst</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -7168,7 +7168,7 @@
         "pic": "663.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_1'>Pie Chart</span>",
+        "charttype": "<span class='badge badge_6'>Dial Chart</span>",
         "designFaults": "<span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
@@ -7322,7 +7322,7 @@
         "pic": "677.jpg",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span>"
     },
     {
@@ -7344,7 +7344,7 @@
         "pic": "679.png",
         "topic": "sociology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Conflating area with radius</span>"
     },
     {
@@ -7421,7 +7421,7 @@
         "pic": "686.jpg",
         "topic": "economics/finance/accounting",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_6'>Bubble Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -7575,7 +7575,7 @@
         "pic": "700.png",
         "topic": "job/career",
         "publisher": "academia",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_12'>I2: Dual axes</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -7586,7 +7586,7 @@
         "pic": "702.png",
         "topic": "health/medicine",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -7993,7 +7993,7 @@
         "pic": "739.jpg",
         "topic": "climate/environment",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Scatter Plot</span>",
+        "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_14'>I4: Lack of legends</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -8004,7 +8004,7 @@
         "pic": "740.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -8169,7 +8169,7 @@
         "pic": "755.png",
         "topic": "health/medicine",
         "publisher": "academia",
-        "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span>"
     },
     {
@@ -8191,7 +8191,7 @@
         "pic": "757.jpg",
         "topic": "sociology",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Wrong conclusion</span><span class='badge badge_8'>M2: Failure to show zero/infinite/null</span>"
     },
     {
@@ -8224,7 +8224,7 @@
         "pic": "760.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -8279,7 +8279,7 @@
         "pic": "765.jpg",
         "topic": "politics/government",
         "publisher": "government/policital party",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -8378,7 +8378,7 @@
         "pic": "774.png",
         "topic": "food/drink",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -8422,7 +8422,7 @@
         "pic": "778.jpg",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -8521,7 +8521,7 @@
         "pic": "787.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Scatter Plot</span>",
+        "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_12'>I2: Rainbow colormap</span>"
     },
     {
@@ -8609,7 +8609,7 @@
         "pic": "795.jpg",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_13'>I3: High information density</span><span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -8653,7 +8653,7 @@
         "pic": "799.jpg",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_2'>Donut Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_2'>Donut Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -8851,7 +8851,7 @@
         "pic": "818.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_2'>Donut Chart</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_2'>Donut Chart</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
@@ -9005,7 +9005,7 @@
         "pic": "832.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -9159,7 +9159,7 @@
         "pic": "846.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -9313,7 +9313,7 @@
         "pic": "861.png",
         "topic": "transportation",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Invasion of figurative semantics</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span>"
     },
     {
@@ -9335,7 +9335,7 @@
         "pic": "863.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Bubble Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Ghost element</span>"
     },
     {
@@ -9566,7 +9566,7 @@
         "pic": "884.png",
         "topic": "politics/government",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -9654,7 +9654,7 @@
         "pic": "892.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Bubble Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -9676,7 +9676,7 @@
         "pic": "894.png",
         "topic": "education",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Bubble Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -9786,7 +9786,7 @@
         "pic": "904.png",
         "topic": "sociology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -9962,7 +9962,7 @@
         "pic": "920.png",
         "topic": "sociology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_2'>Donut Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_2'>Donut Chart</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -10072,7 +10072,7 @@
         "pic": "930.jpg",
         "topic": "energy/natural resources",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_6'>Annotated Map</span><span class='badge badge_4'>ISOTYPE</span><span class='badge badge_5'>Line Graph</span><span class='badge badge_1'>Pie Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_6'>Annotated Map</span><span class='badge badge_4'>ISOTYPE</span><span class='badge badge_6'>Line Graph</span><span class='badge badge_1'>Pie Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_14'>I4: Lack of legends</span><span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -10402,7 +10402,7 @@
         "pic": "961.png",
         "topic": "food/drink",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_6'>Sankey Diagram</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_6'>Sankey Diagram</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span>"
     },
     {
@@ -10512,7 +10512,7 @@
         "pic": "971.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Geographic Map</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Geographic Map</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Low foreground-background contrast</span><span class='badge badge_10'>M4: Multiple scales</span>"
     },
     {
@@ -10567,7 +10567,7 @@
         "pic": "976.png",
         "topic": "health/medicine",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -10633,7 +10633,7 @@
         "pic": "983.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_4'>ISOTYPE</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_4'>ISOTYPE</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span>"
     },
     {
@@ -10688,7 +10688,7 @@
         "pic": "988.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -10842,7 +10842,7 @@
         "pic": "1002.jpg",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -10919,7 +10919,7 @@
         "pic": "1009.png",
         "topic": "crime/security",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -11007,7 +11007,7 @@
         "pic": "1017.jpg",
         "topic": "food/drink",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Geographic Map</span><span class='badge badge_5'>Line Graph</span><span class='badge badge_1'>Pie Chart</span><span class='badge badge_6'>Timeline</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Geographic Map</span><span class='badge badge_6'>Line Graph</span><span class='badge badge_1'>Pie Chart</span><span class='badge badge_6'>Timeline</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Dual axes</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -11084,7 +11084,7 @@
         "pic": "1024.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Stylized effect on data marks</span>"
     },
     {
@@ -11172,7 +11172,7 @@
         "pic": "1032.jpg",
         "topic": "sociology",
         "publisher": "company",
-        "charttype": "<span class='badge badge_5'>Line Graph</span><span class='badge badge_6'>Statistical Plot Map</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span><span class='badge badge_6'>Statistical Plot Map</span>",
         "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
     },
     {
@@ -11425,7 +11425,7 @@
         "pic": "1057.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -11469,7 +11469,7 @@
         "pic": "1061.png",
         "topic": "entrepreneur/management",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of scales</span><span class='badge badge_10'>M4: Multiple scales</span>"
     },
     {
@@ -11513,7 +11513,7 @@
         "pic": "1065.png",
         "topic": "entrepreneur/management",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Scatter Plot</span>",
+        "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -11590,7 +11590,7 @@
         "pic": "1073.png",
         "topic": "sociology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -11755,7 +11755,7 @@
         "pic": "1088.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
     },
     {
@@ -11931,7 +11931,7 @@
         "pic": "1104.png",
         "topic": "design",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Venn Diagram</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -11986,7 +11986,7 @@
         "pic": "1109.jpg",
         "topic": "food/drink",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -12008,7 +12008,7 @@
         "pic": "1111.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span>"
     },
     {
@@ -12118,7 +12118,7 @@
         "pic": "1122.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to show uncertainty</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_9'>M3: Unclear proxy for comparison</span>"
     },
     {
@@ -12228,7 +12228,7 @@
         "pic": "1132.png",
         "topic": "health/medicine",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -12591,7 +12591,7 @@
         "pic": "1165.png",
         "topic": "?,entrepreneur/management",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -12767,7 +12767,7 @@
         "pic": "1182.jpg",
         "topic": "literature/linguistics",
         "publisher": "individual",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -12844,7 +12844,7 @@
         "pic": "1189.png",
         "topic": "crime/security",
         "publisher": "company",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -12855,7 +12855,7 @@
         "pic": "1190.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -12899,7 +12899,7 @@
         "pic": "1194.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -12932,7 +12932,7 @@
         "pic": "1197.jpg",
         "topic": "biology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -13152,7 +13152,7 @@
         "pic": "1217.jpg",
         "topic": "biology",
         "publisher": "academia",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
     },
     {
@@ -13295,7 +13295,7 @@
         "pic": "1230.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_6'>Nightingale Rose Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_6'>Nightingale Rose Chart</span>",
         "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
     },
     {
@@ -13603,7 +13603,7 @@
         "pic": "1258.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of scales</span><span class='badge badge_7'>M1: Mathematical error</span>"
     },
     {
@@ -13614,7 +13614,7 @@
         "pic": "1259.png",
         "topic": "technology",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Sankey Diagram</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Sankey Diagram</span>",
         "designFaults": "<span class='badge badge_12'>I2: Violating the gestalt laws</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_11'>I1: Small size</span>"
     },
     {
@@ -13647,7 +13647,7 @@
         "pic": "1262.png",
         "topic": "sports/game",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_6'>Area Chart</span><span class='badge badge_3'>Bar Chart</span><span class='badge badge_2'>Donut Chart</span><span class='badge badge_6'>Radar</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_6'>Area Chart</span><span class='badge badge_3'>Bar Chart</span><span class='badge badge_2'>Donut Chart</span><span class='badge badge_6'>Radar</span>",
         "designFaults": "<span class='badge badge_11'>I1: Colorblind unfriendliness</span><span class='badge badge_11'>I1: Low foreground-background contrast</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_16'>S2: Disturbing pattern/imagery</span>"
     },
     {
@@ -13702,7 +13702,7 @@
         "pic": "1267.png",
         "topic": "education",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -13812,7 +13812,7 @@
         "pic": "1278.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -13834,7 +13834,7 @@
         "pic": "1280.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -13955,7 +13955,7 @@
         "pic": "1291.png",
         "topic": "technology",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -14120,7 +14120,7 @@
         "pic": "1307.jpg",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -14131,7 +14131,7 @@
         "pic": "1308.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -14153,7 +14153,7 @@
         "pic": "1310.jpg",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Area Chart</span><span class='badge badge_3'>Bar Chart</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Area Chart</span><span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -14175,7 +14175,7 @@
         "pic": "1312.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Venn Diagram</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -14186,7 +14186,7 @@
         "pic": "1313.png",
         "topic": "biology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_12'>I2: Unstructured layout</span>"
     },
     {
@@ -14307,7 +14307,7 @@
         "pic": "1324.png",
         "topic": "leisure/daily life",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -14406,7 +14406,7 @@
         "pic": "1333.jpg",
         "topic": "art/fashion",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -14627,7 +14627,7 @@
         "topic": "climate/environment",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Isopleth Map</span>",
-        "designFaults": "<span class='badge badge_16'>S2: Strong rhetoric</span>"
+        "designFaults": "<span class='badge badge_16'>S2: Deliberate encoding to satisfy rhetorical intent</span>"
     },
     {
         "id": 1355,
@@ -14835,7 +14835,7 @@
         "pic": "1374.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_4'>ISOTYPE</span><span class='badge badge_6'>Scatter Plot</span>",
+        "charttype": "<span class='badge badge_4'>ISOTYPE</span><span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -14879,7 +14879,7 @@
         "pic": "1378.png",
         "topic": "politics/government",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of explanation for metrics</span><span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_7'>M1: Inverted axis</span>"
     },
     {
@@ -14901,7 +14901,7 @@
         "pic": "1380.png",
         "topic": "economics/finance/accounting",
         "publisher": "company",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -14934,7 +14934,7 @@
         "pic": "1383.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span><span class='badge badge_4'>ISOTYPE</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span><span class='badge badge_4'>ISOTYPE</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -15033,7 +15033,7 @@
         "pic": "1394.png",
         "topic": "design",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -15099,7 +15099,7 @@
         "pic": "1400.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Scatter Plot</span>",
+        "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_7'>M1: Wrong conclusion</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -15165,7 +15165,7 @@
         "pic": "1407.gif",
         "topic": "marketing/advertising",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -15176,7 +15176,7 @@
         "pic": "1408.jpg",
         "topic": "health/medicine",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -15198,7 +15198,7 @@
         "pic": "1410.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -15385,7 +15385,7 @@
         "pic": "1429.png",
         "topic": "sociology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Unclear proxy for comparison</span>"
     },
     {
@@ -15473,7 +15473,7 @@
         "pic": "1438.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -15528,7 +15528,7 @@
         "pic": "1444.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -15550,7 +15550,7 @@
         "pic": "1446.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_8'>M2: Failure to show uncertainty</span><span class='badge badge_11'>I1: Text rotation</span>"
     },
     {
@@ -15594,7 +15594,7 @@
         "pic": "1450.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Bubble Chart</span>",
+        "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -15616,7 +15616,7 @@
         "pic": "1452.png",
         "topic": "marketing/advertising",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -15814,7 +15814,7 @@
         "pic": "1472.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Diagram</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_10'>M4: Comparing apples with oranges</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -16166,7 +16166,7 @@
         "pic": "1506.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Invasion of figurative semantics</span>"
     },
     {
@@ -16243,7 +16243,7 @@
         "pic": "1513.png",
         "topic": "sports/game",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span><span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -16419,7 +16419,7 @@
         "pic": "1529.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_9'>M3: Mixed use of channels</span>"
     },
     {
@@ -16441,7 +16441,7 @@
         "pic": "1531.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -16683,7 +16683,7 @@
         "pic": "1553.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -16782,7 +16782,7 @@
         "pic": "1564.png",
         "topic": "food/drink",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -16837,7 +16837,7 @@
         "pic": "1569.png",
         "topic": "media",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -17013,7 +17013,7 @@
         "pic": "1586.png",
         "topic": "education",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_15'>S1: Breaking convention</span><span class='badge badge_10'>M4: Misalignment</span>"
     },
     {
@@ -17200,7 +17200,7 @@
         "pic": "1603.jpg",
         "topic": "politics/government",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -17211,7 +17211,7 @@
         "pic": "1604.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -17376,7 +17376,7 @@
         "pic": "1619.jpg",
         "topic": "food/drink",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -17453,7 +17453,7 @@
         "pic": "1627.jpg",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -17497,7 +17497,7 @@
         "pic": "1631.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Highlighting that resembles data elements</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -17519,7 +17519,7 @@
         "pic": "1633.png",
         "topic": "military",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -17574,7 +17574,7 @@
         "pic": "1638.png",
         "topic": "marketing/advertising",
         "publisher": "individual",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
     },
     {
@@ -17783,7 +17783,7 @@
         "pic": "1658.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Scatter Plot</span>",
+        "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_11'>I1: Stylized effect on data marks</span><span class='badge badge_14'>I4: Lack of explanation for metrics</span>"
     },
     {
@@ -17805,7 +17805,7 @@
         "pic": "1660.png",
         "topic": "sports/game",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -17948,7 +17948,7 @@
         "pic": "1675.png",
         "topic": "leisure/daily life",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -17981,7 +17981,7 @@
         "pic": "1679.png",
         "topic": "transportation",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Conflating area with radius</span>"
     },
     {
@@ -18003,7 +18003,7 @@
         "pic": "1684.png",
         "topic": "military",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to show uncertainty</span>"
     },
     {
@@ -18036,7 +18036,7 @@
         "pic": "1687.png",
         "topic": "sports/game",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Misleading annotation</span>"
     },
     {
@@ -18223,7 +18223,7 @@
         "pic": "1705.jpg",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -18553,7 +18553,7 @@
         "pic": "1736.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Scatter Plot</span>",
+        "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
         "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
@@ -18597,7 +18597,7 @@
         "pic": "1740.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many visual channels</span>"
     },
     {
@@ -18674,7 +18674,7 @@
         "pic": "1747.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -18795,7 +18795,7 @@
         "pic": "1759.jpg",
         "topic": "sociology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -19026,7 +19026,7 @@
         "pic": "1780.jpg",
         "topic": "geography",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -19081,7 +19081,7 @@
         "pic": "1786.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span><span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -19103,7 +19103,7 @@
         "pic": "1788.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -19180,7 +19180,7 @@
         "pic": "1796.png",
         "topic": "energy/natural resources",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Mixed use of channels</span><span class='badge badge_11'>I1: Exceeding the canvas</span>"
     },
     {
@@ -19224,7 +19224,7 @@
         "pic": "1803.png",
         "topic": "sociology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -19268,7 +19268,7 @@
         "pic": "1807.jpg",
         "topic": "art/fashion",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_6'>Annotated Map</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_6'>Annotated Map</span>",
         "designFaults": "<span class='badge badge_11'>I1: Low foreground-background contrast</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many visual channels</span>"
     },
     {
@@ -19301,7 +19301,7 @@
         "pic": "1810.jpg",
         "topic": "entrepreneur/management",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -19367,7 +19367,7 @@
         "pic": "1816.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -19422,7 +19422,7 @@
         "pic": "1821.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -19455,7 +19455,7 @@
         "pic": "1824.png",
         "topic": "sociology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -19554,7 +19554,7 @@
         "pic": "1833.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -19752,7 +19752,7 @@
         "pic": "1854.jpg",
         "topic": "health/medicine",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of legends</span>"
     },
     {
@@ -19785,7 +19785,7 @@
         "pic": "1858.jpg",
         "topic": "technology",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span>"
     },
     {
@@ -19807,7 +19807,7 @@
         "pic": "1860.jpg",
         "topic": "marketing/advertising",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
@@ -19840,7 +19840,7 @@
         "pic": "1864.jpg",
         "topic": "crime/security",
         "publisher": "non-profits",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_6'>Stacked Bar Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_6'>Stacked Bar Chart</span>",
         "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_11'>I1: Text rotation</span>"
     },
     {
@@ -19851,7 +19851,7 @@
         "pic": "1865.jpg",
         "topic": "job/career",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -20115,7 +20115,7 @@
         "pic": "1889.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -20324,7 +20324,7 @@
         "pic": "1909.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_1'>Pie Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_1'>Pie Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Low foreground-background contrast</span><span class='badge badge_12'>I2: Multiple channels for the same data type</span>"
     },
     {
@@ -20456,7 +20456,7 @@
         "pic": "1922.png",
         "topic": "entrepreneur/management",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to show uncertainty</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -20632,7 +20632,7 @@
         "pic": "1938.png",
         "topic": "entrepreneur/management",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -20709,7 +20709,7 @@
         "pic": "1945.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of scales</span><span class='badge badge_7'>M1: Misleading annotation</span>"
     },
     {
@@ -20820,7 +20820,7 @@
         "topic": "job/career",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Area Chart</span><span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_16'>S2: Strong rhetoric</span>"
+        "designFaults": "<span class='badge badge_16'>S2: Deliberate encoding to satisfy rhetorical intent</span>"
     },
     {
         "id": 1956,
@@ -20830,7 +20830,7 @@
         "pic": "1956.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -20885,7 +20885,7 @@
         "pic": "1961.png",
         "topic": "education",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -20962,7 +20962,7 @@
         "pic": "1968.png",
         "topic": "transportation",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_13'>I3: Too many visual channels</span>"
     },
     {
@@ -20984,7 +20984,7 @@
         "pic": "1970.png",
         "topic": "geography",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Conflating area with radius</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -21006,7 +21006,7 @@
         "pic": "1972.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
@@ -21028,7 +21028,7 @@
         "pic": "1974.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span><span class='badge badge_7'>M1: Misleading annotation</span>"
     },
     {
@@ -21215,7 +21215,7 @@
         "pic": "1991.jpg",
         "topic": "media",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Periodic</span>",
+        "charttype": "<span class='badge badge_6'>Periodic Table</span>",
         "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_8'>M2: Misordering</span>"
     },
     {
@@ -21325,7 +21325,7 @@
         "pic": "2002.png",
         "topic": "leisure/daily life",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_9'>M3: Unclear proxy for comparison</span>"
     },
     {
@@ -21402,7 +21402,7 @@
         "pic": "2009.png",
         "topic": "job/career",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_6'>Circular Bar Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_6'>Circular Bar Chart</span>",
         "designFaults": "<span class='badge badge_10'>M4: Comparing apples with oranges</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_12'>I2: Multiple channels for the same data type</span>"
     },
     {
@@ -21479,7 +21479,7 @@
         "pic": "2016.png",
         "topic": "art/fashion",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -21600,7 +21600,7 @@
         "pic": "2027.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_9'>M3: Illusion of inclusion/intersection/union</span>"
     },
     {
@@ -21820,7 +21820,7 @@
         "pic": "2047.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Centered Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Exceeding the canvas</span><span class='badge badge_12'>I2: Multiple channels for the same data type</span>"
     },
     {
@@ -22227,7 +22227,7 @@
         "pic": "2084.jpg",
         "topic": "aeronautics/space",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span>"
     },
     {
@@ -22557,7 +22557,7 @@
         "pic": "2116.png",
         "topic": "sociology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Invasion of figurative semantics</span><span class='badge badge_10'>M4: Multiple scales</span>"
     },
     {
@@ -22623,7 +22623,7 @@
         "pic": "2123.png",
         "topic": "psychology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -22678,7 +22678,7 @@
         "pic": "2129.jpg",
         "topic": "?",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span>"
     },
     {
@@ -22711,7 +22711,7 @@
         "pic": "2132.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -22920,7 +22920,7 @@
         "pic": "2151.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: Wrong conclusion</span><span class='badge badge_7'>M1: Mathematical error</span>"
     },
     {
@@ -22942,7 +22942,7 @@
         "pic": "2153.png",
         "topic": "entrepreneur/management",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_4'>ISOTYPE</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_4'>ISOTYPE</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span>"
     },
     {
@@ -22953,7 +22953,7 @@
         "pic": "2154.png",
         "topic": "entrepreneur/management",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_4'>ISOTYPE</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_4'>ISOTYPE</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -22975,7 +22975,7 @@
         "pic": "2156.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -22997,7 +22997,7 @@
         "pic": "2158.png",
         "topic": "chemistry",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Area Chart</span><span class='badge badge_6'>Overlapped Proportional Area Chart</span><span class='badge badge_6'>Statistical Plot Map</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_6'>Area Chart</span><span class='badge badge_6'>Statistical Plot Map</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Stylized effect on data marks</span><span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -23019,7 +23019,7 @@
         "pic": "2160.png",
         "topic": "?",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_14'>I4: Lack of scales</span>"
     },
     {
@@ -23052,7 +23052,7 @@
         "pic": "2163.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span>"
     },
     {
@@ -23096,7 +23096,7 @@
         "pic": "2167.png",
         "topic": "marketing/advertising",
         "publisher": "company",
-        "charttype": "<span class='badge badge_6'>Circular Bar Chart</span><span class='badge badge_5'>Line Graph</span><span class='badge badge_6'>Statistical Plot Map</span>",
+        "charttype": "<span class='badge badge_6'>Circular Bar Chart</span><span class='badge badge_6'>Line Graph</span><span class='badge badge_6'>Statistical Plot Map</span>",
         "designFaults": "<span class='badge badge_11'>I1: Low foreground-background contrast</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_11'>I1: Small size</span>"
     },
     {
@@ -23162,7 +23162,7 @@
         "pic": "2173.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span>"
     },
     {
@@ -23173,7 +23173,7 @@
         "pic": "2174.jpg",
         "topic": "climate/environment",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Text rotation</span>"
     },
     {
@@ -23239,7 +23239,7 @@
         "pic": "2180.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Stylized effect on data marks</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
@@ -23470,7 +23470,7 @@
         "pic": "2202.png",
         "topic": "climate/environment",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Conflating area with radius</span>"
     },
     {
@@ -23745,7 +23745,7 @@
         "pic": "2227.png",
         "topic": "psychology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Conflating area with radius</span>"
     },
     {
@@ -23756,7 +23756,7 @@
         "pic": "2228.png",
         "topic": "crime/security",
         "publisher": "news media",
-        "charttype": "<span class='badge badge_6'>Area Chart</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Area Chart</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
@@ -23811,7 +23811,7 @@
         "pic": "2233.png",
         "topic": "health/medicine",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -23921,7 +23921,7 @@
         "pic": "2244.png",
         "topic": "technology",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Overlapped Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span>"
     },
     {
@@ -24097,7 +24097,7 @@
         "pic": "2261.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
@@ -24240,7 +24240,7 @@
         "pic": "2274.png",
         "topic": "education",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Grouped Bar Chart</span><span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Grouped Bar Chart</span><span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_10'>M4: Comparing apples with oranges</span><span class='badge badge_14'>I4: Lack of explanation for metrics</span>"
     },
     {
@@ -24262,7 +24262,7 @@
         "pic": "2276.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span>",
         "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
     },
     {
@@ -24438,7 +24438,7 @@
         "pic": "2292.png",
         "topic": "unkown",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_7'>M1: Conflating area with radius</span>"
     },
     {
@@ -24460,7 +24460,7 @@
         "pic": "2294.png",
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Aligned Proportional Area Chart</span>",
+        "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
         "designFaults": "<span class='badge badge_8'>M2: Misuse of logical relationship</span>"
     },
     {
@@ -24493,7 +24493,7 @@
         "pic": "2297.png",
         "topic": "marketing/advertising",
         "publisher": "unknown",
-        "charttype": "<span class='badge badge_5'>Line Graph</span>",
+        "charttype": "<span class='badge badge_6'>Line Graph</span>",
         "designFaults": "<span class='badge badge_9'>M3: Invasion of figurative semantics</span><span class='badge badge_10'>M4: Multiple scales</span>"
     }
 ]
