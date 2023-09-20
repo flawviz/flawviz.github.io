@@ -132,7 +132,7 @@ class Homepage_Card {
     * */
     _createCard_backImgBox () {
         let card_imgBox_node = document.createElement("div");
-        this._back_gif_name = this.parameters["VNS_ambiguity"] == 0 ? `back_${this.parameters["card_id"]}.gif`: `back_${this.parameters["card_id"]}_${this.parameters["VNS_tag"]}.gif`;
+        // this._back_gif_name = this.parameters["VNS_ambiguity"] == 0 ? `back_${this.parameters["card_id"]}.gif`: `back_${this.parameters["card_id"]}_${this.parameters["VNS_tag"]}.gif`;
         // let back_gif_html = `<img class="card-img back-gif" src=${file_exist("./assets/back_gif_s/", [`back_${this.parameters["card_id"]}.gif`, `back_${this.parameters["card_id"]}_${this.parameters["VNS_tag"]}.gif`])} alt="./assets/image/fail_loading.svg">`;  // 缺少反面gif
         let back_gif_html = `<img class="card-img back-gif" src="./assets/back_gif_s/${this._back_gif_name}" alt="Image loading error.">`;  // 缺少反面gif
         let img_cover_node = document.createElement("div");
