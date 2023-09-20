@@ -317,14 +317,14 @@ Homepage_Card.prototype._bindEvents = function () {
     $(card_inner_node.querySelector(".card-footer a")).tooltip({ title: "watch full video" });
 
     // front gif static preview
-    front_img.addEventListener("mouseover", () => {
-        front_img.querySelector("img.front-gif").style.visibility = "none";
-        $(front_img).find("img.front-preview").fadeTo("fast", 0);
-    });
-    front_img.addEventListener("mouseout", () => {
-        front_img.querySelector("img.front-gif").style.visibility = "block";
-        $(front_img).find("img.front-preview").fadeTo("fast", 1);
-    });
+    // front_img.addEventListener("mouseover", () => {
+    //     front_img.querySelector("img.front-gif").style.visibility = "none";
+    //     $(front_img).find("img.front-preview").fadeTo("fast", 0);
+    // });
+    // front_img.addEventListener("mouseout", () => {
+    //     front_img.querySelector("img.front-gif").style.visibility = "block";
+    //     $(front_img).find("img.front-preview").fadeTo("fast", 1);
+    // });
 
     // back gif zooming in modal window
     $(back_img_box).hover(
