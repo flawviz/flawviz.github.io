@@ -107,7 +107,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "government/policital party",
         "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Categorical encoding for continuous data</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Categorical encoding for continuous data</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 11,
@@ -217,7 +217,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 21,
@@ -459,7 +459,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span><span class='badge badge_6'>Stacked Area Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 43,
@@ -492,7 +492,7 @@
         "topic": "sociology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 46,
@@ -580,7 +580,7 @@
         "topic": "health/medicine",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Line Graph</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many visual channels</span><span class='badge badge_10'>M4: Uneven axis interval</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of visual channels</span><span class='badge badge_10'>M4: Uneven axis interval</span>"
     },
     {
         "id": 54,
@@ -668,7 +668,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Grouped Bar Chart</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misordering</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Failure to display ordinal data</span>"
     },
     {
         "id": 63,
@@ -690,7 +690,7 @@
         "topic": "health/medicine",
         "publisher": "individual",
         "charttype": "<span class='badge badge_6'>Line Graph</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 65,
@@ -745,7 +745,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 70,
@@ -800,7 +800,7 @@
         "topic": "media",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 75,
@@ -965,7 +965,7 @@
         "topic": "biology",
         "publisher": "academia",
         "charttype": "<span class='badge badge_6'>Statistical Plot Map</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of legends</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of legends</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 91,
@@ -998,7 +998,7 @@
         "topic": "media",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 94,
@@ -1009,7 +1009,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 95,
@@ -1020,7 +1020,7 @@
         "topic": "marketing/advertising",
         "publisher": "company",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 96,
@@ -1064,7 +1064,7 @@
         "topic": "marketing/advertising",
         "publisher": "government/policital party",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Wrong conclusion</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_14'>I4: Lack of scales</span><span class='badge badge_7'>M1: Mathematical error</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Reasoning error</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_14'>I4: Lack of scales</span><span class='badge badge_7'>M1: Mathematical error</span>"
     },
     {
         "id": 100,
@@ -1196,7 +1196,7 @@
         "topic": "entrepreneur/management",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 112,
@@ -1240,7 +1240,7 @@
         "topic": "politics/government",
         "publisher": "non-profits",
         "charttype": "<span class='badge badge_6'>Dot/Unit Vis</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Failure to show zero/infinite/null</span><span class='badge badge_14'>I4: Lack of explanation for metrics</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Failure to display infinite/null values</span><span class='badge badge_14'>I4: Lack of explanation for metrics</span>"
     },
     {
         "id": 117,
@@ -1372,7 +1372,7 @@
         "topic": "geography",
         "publisher": "academia",
         "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 129,
@@ -1526,7 +1526,7 @@
         "topic": "politics/government",
         "publisher": "news media",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 143,
@@ -1614,7 +1614,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 151,
@@ -1779,7 +1779,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Choropleth Map</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Categorical encoding for continuous data</span><span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_10'>M4: Uneven data grouping</span><span class='badge badge_8'>M2: Misordering</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Categorical encoding for continuous data</span><span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_10'>M4: Uneven data grouping</span><span class='badge badge_8'>M2: Failure to display ordinal data</span>"
     },
     {
         "id": 167,
@@ -1834,7 +1834,7 @@
         "topic": "job/career",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Sunburst</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 172,
@@ -1889,7 +1889,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Grouped Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 177,
@@ -1955,7 +1955,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 183,
@@ -1966,7 +1966,7 @@
         "topic": "sports/game",
         "publisher": "individual",
         "charttype": "<span class='badge badge_6'>Glyph</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Inconsistent visual encodings</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Inconsistent visual encodings</span><span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 184,
@@ -2010,7 +2010,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 188,
@@ -2098,7 +2098,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Line Graph</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 196,
@@ -2120,7 +2120,7 @@
         "topic": "sociology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Sunburst</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Comparing apples with oranges</span><span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Comparing apples with oranges</span><span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 198,
@@ -2164,7 +2164,7 @@
         "topic": "unkown",
         "publisher": "individual",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 202,
@@ -2263,7 +2263,7 @@
         "topic": "energy/natural resources",
         "publisher": "non-profits",
         "charttype": "<span class='badge badge_6'>Tree</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 211,
@@ -2307,7 +2307,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Parallel Coordinates</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of scales</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of scales</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 215,
@@ -2318,7 +2318,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 216,
@@ -2329,7 +2329,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Wrong conclusion</span><span class='badge badge_7'>M1: Mathematical error</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Reasoning error</span><span class='badge badge_7'>M1: Mathematical error</span>"
     },
     {
         "id": 217,
@@ -2362,7 +2362,7 @@
         "topic": "climate/environment",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Line Graph</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 220,
@@ -2395,7 +2395,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span><span class='badge badge_6'>Line Graph</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of legends</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of legends</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 223,
@@ -2417,7 +2417,7 @@
         "topic": "sociology",
         "publisher": "non-profits",
         "charttype": "<span class='badge badge_6'>Radar</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_14'>I4: Lack of scales</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_14'>I4: Lack of scales</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 225,
@@ -2428,7 +2428,7 @@
         "topic": "transportation",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Progress Bar</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_9'>M3: Unclear proxy for comparison</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_9'>M3: Unclear proxy for comparison</span>"
     },
     {
         "id": 226,
@@ -2527,7 +2527,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 235,
@@ -2593,7 +2593,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 241,
@@ -2670,7 +2670,7 @@
         "topic": "?",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 248,
@@ -2879,7 +2879,7 @@
         "topic": "sociology",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span><span class='badge badge_2'>Donut Chart</span><span class='badge badge_6'>Progress Bar</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 267,
@@ -2978,7 +2978,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Nightingale Rose Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 276,
@@ -3011,7 +3011,7 @@
         "topic": "politics/government",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Choropleth Map</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 279,
@@ -3022,7 +3022,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Dot/Unit Vis</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 280,
@@ -3198,7 +3198,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Uneven data grouping</span><span class='badge badge_8'>M2: Misordering</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Uneven data grouping</span><span class='badge badge_8'>M2: Failure to display ordinal data</span>"
     },
     {
         "id": 296,
@@ -3297,7 +3297,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 305,
@@ -3341,7 +3341,7 @@
         "topic": "leisure/daily life",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_16'>S2: Disturbing pattern/imagery</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_16'>S2: Disturbing pattern/imagery</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 309,
@@ -3737,7 +3737,7 @@
         "topic": "education",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 346,
@@ -3792,7 +3792,7 @@
         "topic": "sports/game",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Low foreground-background contrast</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Low foreground-background contrast</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 351,
@@ -4122,7 +4122,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misordering</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Failure to display ordinal data</span>"
     },
     {
         "id": 382,
@@ -4221,7 +4221,7 @@
         "topic": "sports/game",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 391,
@@ -4232,7 +4232,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Text</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 392,
@@ -4331,7 +4331,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Choropleth Map</span><span class='badge badge_6'>Line Graph</span><span class='badge badge_6'>Nightingale Rose Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 401,
@@ -4342,7 +4342,7 @@
         "topic": "energy/natural resources",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 402,
@@ -4452,7 +4452,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 412,
@@ -4518,7 +4518,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Line Graph</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span><span class='badge badge_8'>M2: Misordering</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span><span class='badge badge_8'>M2: Failure to display ordinal data</span>"
     },
     {
         "id": 418,
@@ -4661,7 +4661,7 @@
         "topic": "biology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 431,
@@ -4837,7 +4837,7 @@
         "topic": "psychology",
         "publisher": "news media",
         "charttype": "<span class='badge badge_4'>ISOTYPE</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 447,
@@ -4870,7 +4870,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Annotated Map</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_7'>M1: Wrong label placement</span>"
+        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_7'>M1: Wrong label placement</span>"
     },
     {
         "id": 450,
@@ -5178,7 +5178,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Stylized effect on data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Stylized effect on data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 479,
@@ -5266,7 +5266,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span><span class='badge badge_4'>ISOTYPE</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Obscuring data with embellishment</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Obscuring data with embellishment</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 487,
@@ -5354,7 +5354,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_14'>I4: Lack of legends</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_14'>I4: Lack of legends</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 495,
@@ -5464,7 +5464,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Line Graph</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 507,
@@ -5519,7 +5519,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Wrong conclusion</span><span class='badge badge_7'>M1: Truncated axis</span><span class='badge badge_7'>M1: Mathematical error</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Reasoning error</span><span class='badge badge_7'>M1: Truncated axis</span><span class='badge badge_7'>M1: Mathematical error</span>"
     },
     {
         "id": 512,
@@ -5530,7 +5530,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 513,
@@ -5596,7 +5596,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Text</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 519,
@@ -5706,7 +5706,7 @@
         "topic": "politics/government",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 529,
@@ -5772,7 +5772,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 535,
@@ -5794,7 +5794,7 @@
         "topic": "sociology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Line Graph</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Mixed use of channels</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Mixed use of channels</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 537,
@@ -5849,7 +5849,7 @@
         "topic": "entrepreneur/management",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 542,
@@ -5860,7 +5860,7 @@
         "topic": "crime/security",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_4'>ISOTYPE</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 543,
@@ -5915,7 +5915,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 548,
@@ -5926,7 +5926,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 549,
@@ -5937,7 +5937,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 550,
@@ -5948,7 +5948,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 551,
@@ -6509,7 +6509,7 @@
         "topic": "psychology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Pop-out effect on data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Pop-out effect on data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 604,
@@ -6542,7 +6542,7 @@
         "topic": "entrepreneur/management",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Line Graph</span><span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Dual axes</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Dual axes</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 607,
@@ -6696,7 +6696,7 @@
         "topic": "unkown",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 621,
@@ -6707,7 +6707,7 @@
         "topic": "unkown",
         "publisher": "news media",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 622,
@@ -6718,7 +6718,7 @@
         "topic": "unkown",
         "publisher": "news media",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 623,
@@ -6762,7 +6762,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Legend-vis inconsistency</span><span class='badge badge_8'>M2: Misordering</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Legend-vis inconsistency</span><span class='badge badge_8'>M2: Failure to display ordinal data</span>"
     },
     {
         "id": 627,
@@ -6773,7 +6773,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 628,
@@ -6784,7 +6784,7 @@
         "topic": "unkown",
         "publisher": "news media",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 629,
@@ -7059,7 +7059,7 @@
         "topic": "biology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 654,
@@ -7114,7 +7114,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 659,
@@ -7125,7 +7125,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_9'>M3: Unclear proxy for comparison</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_9'>M3: Unclear proxy for comparison</span>"
     },
     {
         "id": 660,
@@ -7147,7 +7147,7 @@
         "topic": "politics/government",
         "publisher": "news media",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 662,
@@ -7235,7 +7235,7 @@
         "topic": "politics/government",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 670,
@@ -7268,7 +7268,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 673,
@@ -7312,7 +7312,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 677,
@@ -7521,7 +7521,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Graph</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 696,
@@ -7554,7 +7554,7 @@
         "topic": "sports/game",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 699,
@@ -7565,7 +7565,7 @@
         "topic": "technology",
         "publisher": "academia",
         "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Statistical Plot Map</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 700,
@@ -7620,7 +7620,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
         "id": 706,
@@ -7807,7 +7807,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_4'>ISOTYPE</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_7'>M1: Dual encoding</span><span class='badge badge_8'>M2: Failure to show zero/infinite/null</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_7'>M1: Dual encoding</span><span class='badge badge_8'>M2: Failure to display infinite/null values</span>"
     },
     {
         "id": 723,
@@ -8192,7 +8192,7 @@
         "topic": "sociology",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Line Graph</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Wrong conclusion</span><span class='badge badge_8'>M2: Failure to show zero/infinite/null</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Reasoning error</span><span class='badge badge_8'>M2: Failure to display infinite/null values</span>"
     },
     {
         "id": 758,
@@ -8258,7 +8258,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 764,
@@ -8379,7 +8379,7 @@
         "topic": "food/drink",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 775,
@@ -8390,7 +8390,7 @@
         "topic": "leisure/daily life",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 776,
@@ -8412,7 +8412,7 @@
         "topic": "sports/game",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 778,
@@ -8478,7 +8478,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 784,
@@ -8808,7 +8808,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Nightingale Rose Chart</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 815,
@@ -8819,7 +8819,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Nightingale Rose Chart</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Mixed use of channels</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Mixed use of channels</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 816,
@@ -8984,7 +8984,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 831,
@@ -9105,7 +9105,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 842,
@@ -9127,7 +9127,7 @@
         "topic": "food/drink",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Tree</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Ghost element</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Ghost element</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 844,
@@ -9226,7 +9226,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span><span class='badge badge_6'>Progress Bar</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 853,
@@ -9578,7 +9578,7 @@
         "topic": "?",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 886,
@@ -9589,7 +9589,7 @@
         "topic": "transportation",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_4'>ISOTYPE</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Categorical encoding for continuous data</span><span class='badge badge_8'>M2: Misordering</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Categorical encoding for continuous data</span><span class='badge badge_8'>M2: Failure to display ordinal data</span>"
     },
     {
         "id": 887,
@@ -9798,7 +9798,7 @@
         "topic": "psychology",
         "publisher": "academia",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 906,
@@ -9820,7 +9820,7 @@
         "topic": "psychology",
         "publisher": "academia",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 908,
@@ -9842,7 +9842,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 910,
@@ -9985,7 +9985,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Pyramid</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 923,
@@ -10018,7 +10018,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_11'>I1: Text rotation</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_11'>I1: Text rotation</span>"
     },
     {
         "id": 926,
@@ -10051,7 +10051,7 @@
         "topic": "media",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 929,
@@ -10216,7 +10216,7 @@
         "topic": "sociology",
         "publisher": "international organization",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
+        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_11'>I1: Overlapping data marks</span>"
     },
     {
         "id": 944,
@@ -10249,7 +10249,7 @@
         "topic": "law",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Failure to show zero/infinite/null</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Failure to display infinite/null values</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 948,
@@ -10260,7 +10260,7 @@
         "topic": "law",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_4'>ISOTYPE</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to show zero/infinite/null</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to display infinite/null values</span>"
     },
     {
         "id": 949,
@@ -10304,7 +10304,7 @@
         "topic": "politics/government",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_4'>ISOTYPE</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to show zero/infinite/null</span><span class='badge badge_14'>I4: Lack of explanation for metrics</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to display infinite/null values</span><span class='badge badge_14'>I4: Lack of explanation for metrics</span>"
     },
     {
         "id": 953,
@@ -10381,7 +10381,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_12'>I2: Inconsistent visual encodings</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_12'>I2: Inconsistent visual encodings</span>"
     },
     {
         "id": 960,
@@ -10425,7 +10425,7 @@
         "topic": "food/drink",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 964,
@@ -10491,7 +10491,7 @@
         "topic": "food/drink",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Glyph</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 970,
@@ -10832,7 +10832,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1002,
@@ -10887,7 +10887,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1007,
@@ -10975,7 +10975,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1015,
@@ -11173,7 +11173,7 @@
         "topic": "sociology",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Line Graph</span><span class='badge badge_6'>Statistical Plot Map</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1033,
@@ -11250,7 +11250,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1041,
@@ -11316,7 +11316,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1047,
@@ -11514,7 +11514,7 @@
         "topic": "entrepreneur/management",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_7'>M1: Truncated axis</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
         "id": 1066,
@@ -11558,7 +11558,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "government/policital party",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1070,
@@ -11668,7 +11668,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1081,
@@ -11734,7 +11734,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1087,
@@ -11756,7 +11756,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1089,
@@ -11822,7 +11822,7 @@
         "topic": "sociology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1095,
@@ -11866,7 +11866,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_7'>M1: Truncated axis</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
         "id": 1099,
@@ -11899,7 +11899,7 @@
         "topic": "education",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1102,
@@ -11987,7 +11987,7 @@
         "topic": "food/drink",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1110,
@@ -12020,7 +12020,7 @@
         "topic": "crime/security",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Progress Bar</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1113,
@@ -12152,7 +12152,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "company",
         "charttype": "<span class='badge badge_2'>Donut Chart</span><span class='badge badge_4'>ISOTYPE</span><span class='badge badge_6'>Progress Bar</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1126,
@@ -12251,7 +12251,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 1135,
@@ -12295,7 +12295,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1139,
@@ -12306,7 +12306,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1140,
@@ -12625,7 +12625,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1170,
@@ -12768,7 +12768,7 @@
         "topic": "literature/linguistics",
         "publisher": "individual",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1183,
@@ -12779,7 +12779,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 1184,
@@ -13021,7 +13021,7 @@
         "topic": "transportation",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1206,
@@ -13153,7 +13153,7 @@
         "topic": "biology",
         "publisher": "academia",
         "charttype": "<span class='badge badge_6'>Line Graph</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1218,
@@ -13219,7 +13219,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1224,
@@ -13296,7 +13296,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_6'>Nightingale Rose Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1231,
@@ -13362,7 +13362,7 @@
         "topic": "marketing/advertising",
         "publisher": "company",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1237,
@@ -13450,7 +13450,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1245,
@@ -13461,7 +13461,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1246,
@@ -13505,7 +13505,7 @@
         "topic": "technology",
         "publisher": "company",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_14'>I4: Lack of legends</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_14'>I4: Lack of legends</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1250,
@@ -13582,7 +13582,7 @@
         "topic": "technology",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_11'>I1: Small size</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_11'>I1: Small size</span>"
     },
     {
         "id": 1257,
@@ -13692,7 +13692,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span>"
     },
     {
         "id": 1267,
@@ -13703,7 +13703,7 @@
         "topic": "education",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1269,
@@ -13956,7 +13956,7 @@
         "topic": "technology",
         "publisher": "news media",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1292,
@@ -14121,7 +14121,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1308,
@@ -14253,7 +14253,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_12'>I2: Inconsistent visual encodings</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_12'>I2: Inconsistent visual encodings</span>"
     },
     {
         "id": 1320,
@@ -14308,7 +14308,7 @@
         "topic": "leisure/daily life",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1325,
@@ -14407,7 +14407,7 @@
         "topic": "art/fashion",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1334,
@@ -14484,7 +14484,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to show zero/infinite/null</span><span class='badge badge_8'>M2: Failure to show uncertainty</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to display infinite/null values</span><span class='badge badge_8'>M2: Failure to show uncertainty</span>"
     },
     {
         "id": 1342,
@@ -14693,7 +14693,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1362,
@@ -14913,7 +14913,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Graph</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1382,
@@ -14924,7 +14924,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to show zero/infinite/null</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to display infinite/null values</span>"
     },
     {
         "id": 1383,
@@ -14990,7 +14990,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Progress Bar</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1391,
@@ -15012,7 +15012,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_9'>M3: Visualization itself as embellishment</span>"
     },
     {
         "id": 1393,
@@ -15023,7 +15023,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to show zero/infinite/null</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to display infinite/null values</span><span class='badge badge_12'>I2: Irregular segmentation/shaping</span>"
     },
     {
         "id": 1394,
@@ -15034,7 +15034,7 @@
         "topic": "design",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1395,
@@ -15100,7 +15100,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Scatter/Bubble Plot</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Wrong conclusion</span><span class='badge badge_7'>M1: Truncated axis</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Reasoning error</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
         "id": 1401,
@@ -15166,7 +15166,7 @@
         "topic": "marketing/advertising",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1408,
@@ -15177,7 +15177,7 @@
         "topic": "health/medicine",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1409,
@@ -15287,7 +15287,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Isopleth Map</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Stylized effect on data marks</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_16'>S2: Disturbing pattern/imagery</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Stylized effect on data marks</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_16'>S2: Disturbing pattern/imagery</span>"
     },
     {
         "id": 1420,
@@ -15298,7 +15298,7 @@
         "topic": "marketing/advertising",
         "publisher": "company",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1421,
@@ -15364,7 +15364,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 1428,
@@ -15419,7 +15419,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1434,
@@ -15474,7 +15474,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1439,
@@ -15507,7 +15507,7 @@
         "topic": "sociology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Glyph</span><span class='badge badge_6'>Triangle Bar</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 1443,
@@ -15573,7 +15573,7 @@
         "topic": "entrepreneur/management",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span><span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Wrong conclusion</span><span class='badge badge_12'>I2: Inconsistent visual encodings</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Reasoning error</span><span class='badge badge_12'>I2: Inconsistent visual encodings</span>"
     },
     {
         "id": 1449,
@@ -15584,7 +15584,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Failure to show uncertainty</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_10'>M4: Uneven data grouping</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Failure to show uncertainty</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_10'>M4: Uneven data grouping</span>"
     },
     {
         "id": 1450,
@@ -15617,7 +15617,7 @@
         "topic": "marketing/advertising",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1454,
@@ -15980,7 +15980,7 @@
         "topic": "leisure/daily life",
         "publisher": "government/policital party",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1489,
@@ -16035,7 +16035,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of explanation for metrics</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of explanation for metrics</span><span class='badge badge_12'>I2: Rainbow colormap</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1495,
@@ -16079,7 +16079,7 @@
         "topic": "marketing/advertising",
         "publisher": "company",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1499,
@@ -16332,7 +16332,7 @@
         "topic": "education",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1522,
@@ -16607,7 +16607,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Violating the gestalt laws</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Violating the gestalt laws</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1547,
@@ -16739,7 +16739,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Stylized effect on data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Stylized effect on data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1561,
@@ -16783,7 +16783,7 @@
         "topic": "food/drink",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1565,
@@ -16838,7 +16838,7 @@
         "topic": "media",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1570,
@@ -16959,7 +16959,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Triangle Bar</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Failure to show zero/infinite/null</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Failure to display infinite/null values</span>"
     },
     {
         "id": 1582,
@@ -17003,7 +17003,7 @@
         "topic": "sports/game",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Sunburst</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1586,
@@ -17014,7 +17014,7 @@
         "topic": "education",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
-        "designFaults": "<span class='badge badge_15'>S1: Breaking convention</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_15'>S1: Breaking convention</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1587,
@@ -17146,7 +17146,7 @@
         "topic": "education",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1599,
@@ -17553,7 +17553,7 @@
         "topic": "art/fashion",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Sankey Diagram</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many visual channels</span><span class='badge badge_10'>M4: Uneven axis interval</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of visual channels</span><span class='badge badge_10'>M4: Uneven axis interval</span>"
     },
     {
         "id": 1637,
@@ -17575,7 +17575,7 @@
         "topic": "marketing/advertising",
         "publisher": "individual",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of group and period relationships</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of periodicity</span>"
     },
     {
         "id": 1640,
@@ -17586,7 +17586,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Dot/Unit Vis</span><span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 1641,
@@ -17839,7 +17839,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Pyramid</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1664,
@@ -18092,7 +18092,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Nightingale Rose Chart</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1693,
@@ -18147,7 +18147,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 1698,
@@ -18158,7 +18158,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Nightingale Rose Chart</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of explanation for metrics</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of explanation for metrics</span><span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 1699,
@@ -18191,7 +18191,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1703,
@@ -18301,7 +18301,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Stylized effect on data marks</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_12'>I2: Inconsistent visual encodings</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Stylized effect on data marks</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_12'>I2: Inconsistent visual encodings</span>"
     },
     {
         "id": 1713,
@@ -18356,7 +18356,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1719,
@@ -18422,7 +18422,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_12'>I2: Inconsistent visual encodings</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_12'>I2: Inconsistent visual encodings</span>"
     },
     {
         "id": 1725,
@@ -18466,7 +18466,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Chord Diagram</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 1729,
@@ -18576,7 +18576,7 @@
         "topic": "energy/natural resources",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1739,
@@ -18587,7 +18587,7 @@
         "topic": "sociology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1740,
@@ -18598,7 +18598,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 1741,
@@ -18719,7 +18719,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1752,
@@ -18730,7 +18730,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1753,
@@ -18895,7 +18895,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1769,
@@ -18928,7 +18928,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1772,
@@ -19016,7 +19016,7 @@
         "topic": "leisure/daily life",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1780,
@@ -19269,7 +19269,7 @@
         "topic": "art/fashion",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_6'>Annotated Map</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Low foreground-background contrast</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Low foreground-background contrast</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 1808,
@@ -19489,7 +19489,7 @@
         "topic": "marketing/advertising",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Chord Diagram</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1828,
@@ -19731,7 +19731,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Annotated Map</span><span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_7'>M1: Wrong label placement</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_7'>M1: Wrong label placement</span>"
     },
     {
         "id": 1852,
@@ -19742,7 +19742,7 @@
         "topic": "transportation",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Diagram</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 1854,
@@ -19764,7 +19764,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1857,
@@ -19819,7 +19819,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Wrong conclusion</span><span class='badge badge_7'>M1: Data-visual disproportion</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Reasoning error</span><span class='badge badge_7'>M1: Data-visual disproportion</span>"
     },
     {
         "id": 1862,
@@ -19940,7 +19940,7 @@
         "topic": "crime/security",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1874,
@@ -20259,7 +20259,7 @@
         "topic": "leisure/daily life",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Triangle Bar</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_14'>I4: Lack of legends</span><span class='badge badge_14'>I4: Lack of scales</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_14'>I4: Lack of legends</span><span class='badge badge_14'>I4: Lack of scales</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1903,
@@ -20468,7 +20468,7 @@
         "topic": "crime/security",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1924,
@@ -20589,7 +20589,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Dot/Unit Vis</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Large number of units</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Large number of units</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 1935,
@@ -20754,7 +20754,7 @@
         "topic": "technology",
         "publisher": "news media",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 1950,
@@ -20864,7 +20864,7 @@
         "topic": "education",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Parallel Coordinates</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1960,
@@ -20963,7 +20963,7 @@
         "topic": "transportation",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_5'>Proportional Area Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 1969,
@@ -21073,7 +21073,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span><span class='badge badge_6'>Graph</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 1979,
@@ -21106,7 +21106,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Nightingale Rose Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1982,
@@ -21117,7 +21117,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1983,
@@ -21139,7 +21139,7 @@
         "topic": "health/medicine",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 1985,
@@ -21216,7 +21216,7 @@
         "topic": "media",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Periodic Table</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_8'>M2: Misordering</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_8'>M2: Failure to display ordinal data</span>"
     },
     {
         "id": 1992,
@@ -21282,7 +21282,7 @@
         "topic": "education",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Nightingale Rose Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_13'>I3: Too many visual channels</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_13'>I3: overuse of visual channels</span>"
     },
     {
         "id": 1999,
@@ -21403,7 +21403,7 @@
         "topic": "job/career",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Comparing apples with oranges</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_12'>I2: Multiple channels for the same data type</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Comparing apples with oranges</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_12'>I2: Multiple channels for the same data type</span>"
     },
     {
         "id": 2010,
@@ -21502,7 +21502,7 @@
         "topic": "climate/environment",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_4'>ISOTYPE</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to show zero/infinite/null</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_8'>M2: Failure to display infinite/null values</span>"
     },
     {
         "id": 2019,
@@ -21700,7 +21700,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 2037,
@@ -21766,7 +21766,7 @@
         "topic": "education",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 2043,
@@ -21898,7 +21898,7 @@
         "topic": "entrepreneur/management",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 2055,
@@ -22063,7 +22063,7 @@
         "topic": "technology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 2070,
@@ -22074,7 +22074,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2071,
@@ -22096,7 +22096,7 @@
         "topic": "psychology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_4'>ISOTYPE</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_12'>I2: Inconsistent visual encodings</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Irregular segmentation/shaping</span><span class='badge badge_12'>I2: Inconsistent visual encodings</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2073,
@@ -22140,7 +22140,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 2077,
@@ -22162,7 +22162,7 @@
         "topic": "crime/security",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: Meaningless/confounding encoding</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2079,
@@ -22184,7 +22184,7 @@
         "topic": "art/fashion",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Distorted Map (Cartogram)</span><span class='badge badge_6'>Timeline</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2081,
@@ -22239,7 +22239,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_12'>I2: Violating the gestalt laws</span><span class='badge badge_11'>I1: Low foreground-background contrast</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_12'>I2: Violating the gestalt laws</span><span class='badge badge_11'>I1: Low foreground-background contrast</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 2086,
@@ -22470,7 +22470,7 @@
         "topic": "entrepreneur/management",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2108,
@@ -22525,7 +22525,7 @@
         "topic": "sports/game",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_9'>M3: Highlighting that resembles data elements</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_9'>M3: Highlighting that resembles data elements</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 2114,
@@ -22569,7 +22569,7 @@
         "topic": "education",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_14'>I4: Lack of labels</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2119,
@@ -22613,7 +22613,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Colorblind unfriendliness</span><span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Colorblind unfriendliness</span><span class='badge badge_11'>I1: Indistinguishable colors/textures</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2123,
@@ -22635,7 +22635,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Distorted Map (Cartogram)</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2126,
@@ -22646,7 +22646,7 @@
         "topic": "politics/government",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Graph</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many visual channels</span><span class='badge badge_7'>M1: Truncated axis</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of visual channels</span><span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
         "id": 2127,
@@ -22921,7 +22921,7 @@
         "topic": "marketing/advertising",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Line Graph</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Wrong conclusion</span><span class='badge badge_7'>M1: Mathematical error</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Reasoning error</span><span class='badge badge_7'>M1: Mathematical error</span>"
     },
     {
         "id": 2152,
@@ -23064,7 +23064,7 @@
         "topic": "leisure/daily life",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_8'>M2: Failure to show zero/infinite/null</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_8'>M2: Failure to display infinite/null values</span>"
     },
     {
         "id": 2165,
@@ -23075,7 +23075,7 @@
         "topic": "leisure/daily life",
         "publisher": "news media",
         "charttype": "<span class='badge badge_1'>Pie Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2166,
@@ -23119,7 +23119,7 @@
         "topic": "art/fashion",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Stacked Bar Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_10'>M4: Uneven axis interval</span>"
+        "designFaults": "<span class='badge badge_7'>M1: 3D effect</span><span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_10'>M4: Uneven axis interval</span>"
     },
     {
         "id": 2170,
@@ -23152,7 +23152,7 @@
         "topic": "energy/natural resources",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Annotated Map</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Colorblind unfriendliness</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Colorblind unfriendliness</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2173,
@@ -23295,7 +23295,7 @@
         "topic": "politics/government",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Graph</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2186,
@@ -23328,7 +23328,7 @@
         "topic": "unkown",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_10'>M4: Misalignment</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
+        "designFaults": "<span class='badge badge_10'>M4: Misaligned comparison</span><span class='badge badge_8'>M2: Misuse of part-to-whole relationship</span>"
     },
     {
         "id": 2189,
@@ -23504,7 +23504,7 @@
         "topic": "sociology",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Radar</span>",
-        "designFaults": "<span class='badge badge_16'>S2: Arrogant textual expression</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span>"
+        "designFaults": "<span class='badge badge_16'>S2: Arrogant wording</span><span class='badge badge_11'>I1: Small size</span><span class='badge badge_11'>I1: Text rotation</span>"
     },
     {
         "id": 2206,
@@ -23647,7 +23647,7 @@
         "topic": "crime/security",
         "publisher": "company",
         "charttype": "<span class='badge badge_6'>Graph</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2219,
@@ -23691,7 +23691,7 @@
         "topic": "transportation",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Street Map</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2223,
@@ -23911,7 +23911,7 @@
         "topic": "food/drink",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Failure to show zero/infinite/null</span><span class='badge badge_8'>M2: Failure to show uncertainty</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Failure to display infinite/null values</span><span class='badge badge_8'>M2: Failure to show uncertainty</span>"
     },
     {
         "id": 2244,
@@ -23988,7 +23988,7 @@
         "topic": "crime/security",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Choropleth Map</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Small size</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2252,
@@ -24263,7 +24263,7 @@
         "topic": "economics/finance/accounting",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_5'>Proportional Area Chart</span><span class='badge badge_3'>Bar Chart</span>",
-        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: Too many categories/colors</span>"
+        "designFaults": "<span class='badge badge_11'>I1: Cluttered label lines</span><span class='badge badge_11'>I1: Overlapping data marks</span><span class='badge badge_13'>I3: overuse of categories/colors</span>"
     },
     {
         "id": 2277,
@@ -24384,7 +24384,7 @@
         "topic": "transportation",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_6'>Circular Bar Chart</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_8'>M2: Continuous encoding for categorical data</span><span class='badge badge_10'>M4: Multiple scales</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 2288,
@@ -24417,7 +24417,7 @@
         "topic": "crime/security",
         "publisher": "unknown",
         "charttype": "<span class='badge badge_2'>Donut Chart</span>",
-        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misalignment</span>"
+        "designFaults": "<span class='badge badge_7'>M1: Data-visual disproportion</span><span class='badge badge_10'>M4: Misaligned comparison</span>"
     },
     {
         "id": 2291,

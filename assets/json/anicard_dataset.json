@@ -7,7 +7,8 @@
         "count": 730,
         "description": "This flaw occurs when the visual representation of data elements, such as bars in a bar chart or bubbles in a bubble chart, does not accurately reflect the underlying data values.",
         "examplePic": "27.png",
-        "link": "https://viz.wtf/post/643484719208677376/portuguese-presidential-elections-one-of-many-wtf"
+        "link": "https://viz.wtf/post/643484719208677376/portuguese-presidential-elections-one-of-many-wtf",
+        "new": 1
     },
     {
         "card_id": 2,
@@ -17,7 +18,8 @@
         "count": 332,
         "description": "The existence of perspective can can distort the perception of data and make it challenging to accurately gauge the values represented in the visualization.",
         "examplePic": "633.jpg",
-        "link": "https://viz.wtf/post/134804505181/just-grin-and-bear-it"
+        "link": "https://viz.wtf/post/134804505181/just-grin-and-bear-it",
+        "new": 0
     },
     {
         "card_id": 3,
@@ -27,27 +29,30 @@
         "count": 57,
         "description": "When an axis in a visualization is truncated, the shape of the visualization can be distorted and users may not realize that the full extent of the data is not being shown.",
         "examplePic": "83.png",
-        "link": "https://viz.wtf/post/189555266839/how-to-make-a-09-reduction-in-emissions-look"
+        "link": "https://viz.wtf/post/189555266839/how-to-make-a-09-reduction-in-emissions-look",
+        "new": 0
     },
     {
         "card_id": 4,
-        "title": "Dual encoding",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M1-Inaccuracy",
-        "count": 48,
-        "description": "This flaw uses multiple channels (e.g., both width and height) to represent the same data variable, thus exaggerating the visuals.",
-        "examplePic": "2220.png",
-        "link": "https://viz.wtf/post/61131939069/a-bigger-man-than-i"
-    },
-    {
-        "card_id": 5,
         "title": "Mathematical error",
         "EL_tag": "Misinformation",
         "VNS_tag": "M1-Inaccuracy",
         "count": 55,
         "description": "Numbers that do not make sense mathematically. For instance, it may manifest as percentages in a pie chart that do not collectively add up to 100%.",
         "examplePic": "683.png",
-        "link": "https://viz.wtf/post/131500097802/sister-cities"
+        "link": "https://viz.wtf/post/131500097802/sister-cities",
+        "new": 1
+    },
+    {
+        "card_id": 5,
+        "title": "Dual encoding",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M1-Inaccuracy",
+        "count": 48,
+        "description": "This flaw uses multiple channels (e.g., both width and height) to represent the same data variable, thus exaggerating the visuals.",
+        "examplePic": "2220.png",
+        "link": "https://viz.wtf/post/61131939069/a-bigger-man-than-i",
+        "new": 1
     },
     {
         "card_id": 6,
@@ -57,7 +62,8 @@
         "count": 25,
         "description": "When certain elements within a visualization are made to stand out or pop out visually, their sizes will be exaggerated.",
         "examplePic": "296.png",
-        "link": "https://viz.wtf/post/153003845612/extra-big"
+        "link": "https://viz.wtf/post/153003845612/extra-big",
+        "new": 1
     },
     {
         "card_id": 7,
@@ -65,29 +71,32 @@
         "EL_tag": "Misinformation",
         "VNS_tag": "M1-Inaccuracy",
         "count": 17,
-        "description": "When data is incorrectly encoded to the radius, it leads to a significant distortion in the visual representation (becasue s = π × r^2).",
+        "description": "When data is incorrectly encoded to the radius, it leads to a significant distortion in the visual representation (becasue s = 锜 鑴 r^2).",
         "examplePic": "1679.png",
-        "link": "https://viz.wtf/post/153090633909/n%C3%A3o"
+        "link": "https://viz.wtf/post/153090633909/n%C3%A3o",
+        "new": 0
     },
     {
         "card_id": 8,
-        "title": "Misleading annotation",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M1-Inaccuracy",
-        "count": 9,
-        "description": "Incorrect annotations in a data visualization can lead users to draw incorrect conclusions about the data being presented.",
-        "examplePic": "5.jpg",
-        "link": "https://viz.wtf/post/667583513306005504/the-drying-time-could-be-literally-anything-and"
-    },
-    {
-        "card_id": 9,
         "title": "Wrong label placement",
         "EL_tag": "Misinformation",
         "VNS_tag": "M1-Inaccuracy",
         "count": 13,
         "description": "Placing labels or data points in incorrect locations, such as labeling Canada within the territory of the United States.",
         "examplePic": "901.png",
-        "link": "https://viz.wtf/post/119198300129/canada-eh"
+        "link": "https://viz.wtf/post/119198300129/canada-eh",
+        "new": 1
+    },
+    {
+        "card_id": 9,
+        "title": "Inverted axis",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M1-Inaccuracy",
+        "count": 11,
+        "description": "Inverting the direction of an axis (e.g., presenting time from right to left) can cause misinterpretation, especially if users are not aware of the inversion.",
+        "examplePic": "16.jpg",
+        "link": "https://viz.wtf/post/658882425666011136/the-x-axis-is-supposed-to-be-backwards-right",
+        "new": 0
     },
     {
         "card_id": 10,
@@ -97,237 +106,261 @@
         "count": 11,
         "description": "The information in the legend (e.g., color-coding) does not match the data representation in the visualization.",
         "examplePic": "872.png",
-        "link": "https://viz.wtf/post/120377023010/linkedin-needs-to-get-their-charts-right"
+        "link": "https://viz.wtf/post/120377023010/linkedin-needs-to-get-their-charts-right",
+        "new": 1
     },
     {
         "card_id": 11,
-        "title": "Inverted axis",
+        "title": "Misleading annotation",
         "EL_tag": "Misinformation",
         "VNS_tag": "M1-Inaccuracy",
-        "count": 11,
-        "description": "Inverting the direction of an axis (e.g., presenting time from right to left) can cause misinterpretation, especially if users are not aware of the inversion.",
-        "examplePic": "16.jpg",
-        "link": "https://viz.wtf/post/658882425666011136/the-x-axis-is-supposed-to-be-backwards-right"
+        "count": 9,
+        "description": "Incorrect annotations in a data visualization can lead users to draw incorrect conclusions about the data being presented.",
+        "examplePic": "5.jpg",
+        "link": "https://viz.wtf/post/667583513306005504/the-drying-time-could-be-literally-anything-and",
+        "new": 0
     },
     {
         "card_id": 12,
+        "title": "Reasoning error",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M1-Inaccuracy",
+        "count": 8,
+        "description": "A data visualization leads users to draw conclusions that are not supported by the data.",
+        "examplePic": "757.jpg",
+        "link": "https://viz.wtf/post/126026507459/you-can-always-trust-the-newspapers-for-facts",
+        "new": 0
+    },
+    {
+        "card_id": 13,
         "title": "Visualization-text disjunction",
         "EL_tag": "Misinformation",
         "VNS_tag": "M1-Inaccuracy",
         "count": 7,
         "description": "The textual descriptions and the visual elements in a visualization are detached. This can confuse users and hinder comprehension.",
         "examplePic": "1367.jpg",
-        "link": "https://viz.wtf/post/98414404413/gallons"
+        "link": "https://viz.wtf/post/98414404413/gallons",
+        "new": 1
     },
     {
-        "card_id": 13,
+        "card_id": 14,
         "title": "Typo / grammatical error",
         "EL_tag": "Misinformation",
         "VNS_tag": "M1-Inaccuracy",
         "count": 5,
         "description": "Mistakes in spelling or grammar within the visualization can detract from its professionalism and accuracy.",
         "examplePic": "918.png",
-        "link": "https://viz.wtf/post/118464760439/and"
-    },
-    {
-        "card_id": 14,
-        "title": "Wrong conclusion",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M1-Inaccuracy",
-        "count": 8,
-        "description": "A data visualization leads users to draw conclusions that are not supported by the data.",
-        "examplePic": "757.jpg",
-        "link": "https://viz.wtf/post/126026507459/you-can-always-trust-the-newspapers-for-facts"
+        "link": "https://viz.wtf/post/118464760439/and",
+        "new": 0
     },
     {
         "card_id": 15,
-        "title": "Misuse of part-to-whole relationship",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Incompatibility",
-        "count": 265,
-        "description": "This flaw occurs when the categories in a visualization designed to show proportion (e.g., pie chart) does not have a part-to-whole relationship.",
-        "examplePic": "1880.png",
-        "link": "https://viz.wtf/post/72801324529/visualization-based-attacks"
-    },
-    {
-        "card_id": 16,
-        "title": "Failure to show uncertainty",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Incompatibility",
-        "count": 34,
-        "description": "When uncertainty or variation in data is not adequately represented in a visualization, it can lead to an incomplete understanding of the data.",
-        "examplePic": "720.png",
-        "link": ""
-    },
-    {
-        "card_id": 17,
-        "title": "Misordering",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Incompatibility",
-        "count": 8,
-        "description": "Misordering happens when ordinal data (e.g., time, ranking) is not appropriately ordered.",
-        "examplePic": "62.jpg",
-        "link": "https://viz.wtf/post/617841958430425088/x-axis-not-in-order"
-    },
-    {
-        "card_id": 18,
-        "title": "Misuse of group and period relationships",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Incompatibility",
-        "count": 16,
-        "description": "This flaw happens often in periodic tables. For example, cats do not naturally exhibit the periodic properties that a periodic table is designed to represent.",
-        "examplePic": "1324.jpeg",
-        "link": "https://viz.wtf/post/100249539895/welcome-to-the-internet"
-    },
-    {
-        "card_id": 19,
-        "title": "Misuse of logical relationship",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Incompatibility",
-        "count": 9,
-        "description": "This design flaw arises when the visual representation suggests a logic that contradicts/incompatible with the actual logical relationship between data elements.",
-        "examplePic": "759.jpg",
-        "link": "https://viz.wtf/post/125858517595/were-suing-the-governor-because-he-gave-us-all"
-    },
-    {
-        "card_id": 20,
-        "title": "Continuous encoding for categorical data",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Incompatibility",
-        "count": 21,
-        "description": "Using continuous encoding techniques, such as color gradients or line connection, for categorical data.",
-        "examplePic": "417.png",
-        "link": "https://viz.wtf/post/147196565281/alphabet-on-the-x-axis-for-reals"
-    },
-    {
-        "card_id": 21,
-        "title": "Failure to show zero/infinite/null",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Incompatibility",
-        "count": 13,
-        "description": "Neglecting to represent zero values, infinite values, or null data points in a visualization.",
-        "examplePic": "1581.png",
-        "link": "https://viz.wtf/post/88406689295/i-always-wondered-how-big-na-was"
-    },
-    {
-        "card_id": 22,
-        "title": "Categorical encoding for continuous data",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Incompatibility",
-        "count": 11,
-        "description": "Representing data that varies continuously using discrete categories.",
-        "examplePic": "1613.png",
-        "link": "https://viz.wtf/post/86828140598/plate-tectonics"
-    },
-    {
-        "card_id": 23,
-        "title": "Misuse of cumulative relationship",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Incompatibility",
-        "count": 11,
-        "description": "Incorrectly combining data elements that do not logically add up or relate to one another.",
-        "examplePic": "1646.png",
-        "link": "https://viz.wtf/post/85151520907/visual-asset-loss"
-    },
-    {
-        "card_id": 24,
-        "title": "Misuse of sequence",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Incompatibility",
-        "count": 3,
-        "description": "Presenting data in a sequential order that does not align with their inherent order or significance.",
-        "examplePic": "870.png",
-        "link": "https://viz.wtf/post/120464301581/seo-and-ladders"
-    },
-    {
-        "card_id": 25,
-        "title": "Misuse of hierarchy",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M2-Incompatibility",
-        "count": 1,
-        "description": "Organizing non-hierachical data elements hierarchically.",
-        "examplePic": "2052.png",
-        "link": "https://viz.wtf/post/66316345441/expensive-connections"
-    },
-    {
-        "card_id": 26,
         "title": "Visualization itself as embellishment",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Ambiguity",
+        "VNS_tag": "M2-Ambiguity",
         "count": 140,
         "description": "A data visualization is incorporated into a presentation or report but does not actually encode any meaningful data.",
         "examplePic": "13.jpg",
-        "link": "https://viz.wtf/post/659244875844288512/is-this-random-clipart-or-an-actual"
+        "link": "https://viz.wtf/post/659244875844288512/is-this-random-clipart-or-an-actual",
+        "new": 0
     },
     {
-        "card_id": 27,
+        "card_id": 16,
         "title": "Invasion of figurative semantics",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Ambiguity",
+        "VNS_tag": "M2-Ambiguity",
         "count": 59,
         "description": "For example, using a map icon filled from left to right to represent bike usage in the US may convey the idea that bike usage is geographically restricted to the eastern part of the country.",
         "examplePic": "484.png",
-        "link": "https://viz.wtf/post/143850621165/west-side"
+        "link": "https://viz.wtf/post/143850621165/west-side",
+        "new": 1
     },
     {
-        "card_id": 28,
+        "card_id": 17,
         "title": "Mixed use of channels",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Ambiguity",
+        "VNS_tag": "M2-Ambiguity",
         "count": 53,
         "description": "Ambiguity arises when multiple visual channels or chart types (e.g., pie chart, rose chart) are used inconsistently or confusingly within a single visualization. ",
         "examplePic": "727.png",
-        "link": "https://viz.wtf/post/128418263122/the-class-of-2014"
+        "link": "https://viz.wtf/post/128418263122/the-class-of-2014",
+        "new": 1
     },
     {
-        "card_id": 29,
-        "title": "Unclear proxy for comparison",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Ambiguity",
-        "count": 36,
-        "description": "A data visualization lacks a clear and consistent proxy or baseline for comparison. For example, it is difficult to know where the bar should end (front of the car, or back of the car).",
-        "examplePic": "1332.png",
-        "link": "https://viz.wtf/post/99917154253/vroom"
-    },
-    {
-        "card_id": 30,
-        "title": "Illusion of inclusion/intersection/union",
-        "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Ambiguity",
-        "count": 29,
-        "description": "This flaw creates visual representations as if there is an inclusion, intersection, or union relashionship between data elements.",
-        "examplePic": "1194.png",
-        "link": "https://viz.wtf/post/105719393853/confidence-intervals"
-    },
-    {
-        "card_id": 31,
+        "card_id": 18,
         "title": "Unclear symbols",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Ambiguity",
+        "VNS_tag": "M2-Ambiguity",
         "count": 39,
         "description": "The use of unclear or non-standard symbols (e.g., arrows) within a visualization can lead to ambiguity. Users may struggle to decipher the meaning of these symbols.",
         "examplePic": "1221.jpg",
-        "link": "https://viz.wtf/post/104614245750/lead-lines"
+        "link": "https://viz.wtf/post/104614245750/lead-lines",
+        "new": 0
     },
     {
-        "card_id": 32,
+        "card_id": 19,
+        "title": "Unclear proxy for comparison",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M2-Ambiguity",
+        "count": 36,
+        "description": "A data visualization lacks a clear and consistent proxy or baseline for comparison. For example, it is difficult to know where the bar should end (front of the car, or back of the car).",
+        "examplePic": "1332.png",
+        "link": "https://viz.wtf/post/99917154253/vroom",
+        "new": 1
+    },
+    {
+        "card_id": 20,
+        "title": "Illusion of inclusion/intersection/union",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M2-Ambiguity",
+        "count": 29,
+        "description": "This flaw creates visual representations as if there is an inclusion, intersection, or union relashionship between data elements.",
+        "examplePic": "1194.png",
+        "link": "https://viz.wtf/post/105719393853/confidence-intervals",
+        "new": 1
+    },
+    {
+        "card_id": 21,
         "title": "Ghost element",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Ambiguity",
+        "VNS_tag": "M2-Ambiguity",
         "count": 20,
         "description": "Elements in a data visualization that are left totally unexplained and do not represent any meaningful data.",
         "examplePic": "1440.png",
-        "link": "https://viz.wtf/post/95218722959/in-the-red"
+        "link": "https://viz.wtf/post/95218722959/in-the-red",
+        "new": 1
+    },
+    {
+        "card_id": 22,
+        "title": "Highlighting that resembles data elements",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M2-Ambiguity",
+        "count": 15,
+        "description": "Highlighting specific elements in a way that makes them appear as though they are part of the data set can introduce ambiguity.",
+        "examplePic": "88.png",
+        "link": "https://viz.wtf/post/187625260196/4552-is-bigger-than-5315-and-8162-ridiculous",
+        "new": 1
+    },
+    {
+        "card_id": 23,
+        "title": "Misuse of part-to-whole relationship",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M3-Incompatibility",
+        "count": 265,
+        "description": "This flaw occurs when the categories in a visualization designed to show proportion (e.g., pie chart) does not have a part-to-whole relationship.",
+        "examplePic": "1880.png",
+        "link": "https://viz.wtf/post/72801324529/visualization-based-attacks",
+        "new": 0
+    },
+    {
+        "card_id": 24,
+        "title": "Failure to show uncertainty",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M3-Incompatibility",
+        "count": 34,
+        "description": "When uncertainty or variation in data is not adequately represented in a visualization, it can lead to an incomplete understanding of the data.",
+        "examplePic": "720.png",
+        "link": "",
+        "new": 0
+    },
+    {
+        "card_id": 25,
+        "title": "Continuous encoding for categorical data",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M3-Incompatibility",
+        "count": 21,
+        "description": "Using continuous encoding techniques, such as color gradients or line connection, for categorical data.",
+        "examplePic": "417.png",
+        "link": "https://viz.wtf/post/147196565281/alphabet-on-the-x-axis-for-reals",
+        "new": 0
+    },
+    {
+        "card_id": 26,
+        "title": "Misuse of periodicity",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M3-Incompatibility",
+        "count": 16,
+        "description": "This flaw happens often in periodic tables. For example, cats do not naturally exhibit the periodic properties that a periodic table is designed to represent.",
+        "examplePic": "1324.jpeg",
+        "link": "https://viz.wtf/post/100249539895/welcome-to-the-internet",
+        "new": 0
+    },
+    {
+        "card_id": 27,
+        "title": "Failure to display infinite/null values",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M3-Incompatibility",
+        "count": 13,
+        "description": "Neglecting to represent zero values, infinite values, or null data points in a visualization.",
+        "examplePic": "1581.png",
+        "link": "https://viz.wtf/post/88406689295/i-always-wondered-how-big-na-was",
+        "new": 0
+    },
+    {
+        "card_id": 28,
+        "title": "Categorical encoding for continuous data",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M3-Incompatibility",
+        "count": 11,
+        "description": "Representing data that varies continuously using discrete categories.",
+        "examplePic": "1613.png",
+        "link": "https://viz.wtf/post/86828140598/plate-tectonics",
+        "new": 0
+    },
+    {
+        "card_id": 29,
+        "title": "Misuse of cumulative relationship",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M3-Incompatibility",
+        "count": 11,
+        "description": "Incorrectly combining data elements that do not logically add up or relate to one another.",
+        "examplePic": "1646.png",
+        "link": "https://viz.wtf/post/85151520907/visual-asset-loss",
+        "new": 0
+    },
+    {
+        "card_id": 30,
+        "title": "Misuse of logical relationship",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M3-Incompatibility",
+        "count": 9,
+        "description": "This design flaw arises when the visual representation suggests a logic that contradicts/incompatible with the actual logical relationship between data elements.",
+        "examplePic": "759.jpg",
+        "link": "https://viz.wtf/post/125858517595/were-suing-the-governor-because-he-gave-us-all",
+        "new": 0
+    },
+    {
+        "card_id": 31,
+        "title": "Failure to display ordinal data",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M3-Incompatibility",
+        "count": 8,
+        "description": "Failure to display ordinal data happens when ordinal data (e.g., time, ranking) is not appropriately ordered.",
+        "examplePic": "62.jpg",
+        "link": "https://viz.wtf/post/617841958430425088/x-axis-not-in-order",
+        "new": 0
+    },
+    {
+        "card_id": 32,
+        "title": "Misuse of sequence",
+        "EL_tag": "Misinformation",
+        "VNS_tag": "M3-Incompatibility",
+        "count": 3,
+        "description": "Presenting data in a sequential order that does not align with their inherent order or significance.",
+        "examplePic": "870.png",
+        "link": "https://viz.wtf/post/120464301581/seo-and-ladders",
+        "new": 0
     },
     {
         "card_id": 33,
-        "title": "Highlighting that resembles data elements",
+        "title": "Misuse of hierarchy",
         "EL_tag": "Misinformation",
-        "VNS_tag": "M3-Ambiguity",
-        "count": 15,
-        "description": "Highlighting specific elements in a way that makes them appear as though they are part of the data set can introduce ambiguity.",
-        "examplePic": "88.jpg",
-        "link": "https://viz.wtf/post/187625260196/4552-is-bigger-than-5315-and-8162-ridiculous"
+        "VNS_tag": "M3-Incompatibility",
+        "count": 1,
+        "description": "Organizing non-hierachical data elements hierarchically.",
+        "examplePic": "2052.png",
+        "link": "https://viz.wtf/post/66316345441/expensive-connections",
+        "new": 0
     },
     {
         "card_id": 34,
@@ -337,17 +370,19 @@
         "count": 105,
         "description": "When different parts of the data are represented on disparate scales, it becomes challenging for users to make equitable comparisons.",
         "examplePic": "295.png",
-        "link": "https://viz.wtf/post/153047253615/off-the-grid"
+        "link": "https://viz.wtf/post/153047253615/off-the-grid",
+        "new": 0
     },
     {
         "card_id": 35,
-        "title": "Misalignment",
+        "title": "Misaligned comparison",
         "EL_tag": "Misinformation",
         "VNS_tag": "M4-Unfairness",
         "count": 75,
         "description": "Data marks are not properly arranged or positioned in a coordinated manner.",
         "examplePic": "542.jpg",
-        "link": "https://viz.wtf/post/140698552508/a-really-bad-y-axis"
+        "link": "https://viz.wtf/post/140698552508/a-really-bad-y-axis",
+        "new": 1
     },
     {
         "card_id": 36,
@@ -357,7 +392,8 @@
         "count": 27,
         "description": "Uneven data grouping involves categorizing or grouping data elements in a way that unfairly favors one category over another. This can result in biased perceptions of the data.",
         "examplePic": "71.png",
-        "link": "https://viz.wtf/post/614308682150330368/this-wtf-viz-is-more-of-a-wtf-interpretation"
+        "link": "https://viz.wtf/post/614308682150330368/this-wtf-viz-is-more-of-a-wtf-interpretation",
+        "new": 0
     },
     {
         "card_id": 37,
@@ -367,7 +403,8 @@
         "count": 21,
         "description": "This inconsistency in scaling can disproportionately emphasize or diminish certain data points, leading to skewed interpretations of the data.",
         "examplePic": "82.png",
-        "link": "https://viz.wtf/post/189576151031/where-did-2014-2016-years-with-increased"
+        "link": "https://viz.wtf/post/189576151031/where-did-2014-2016-years-with-increased",
+        "new": 0
     },
     {
         "card_id": 38,
@@ -377,7 +414,8 @@
         "count": 19,
         "description": "The categories or data elements being compared are fundamentally dissimilar or unrelated.",
         "examplePic": "2245.png",
-        "link": "https://viz.wtf/post/60206656986/20-obamas-is-just-too-much-for-our-economy"
+        "link": "https://viz.wtf/post/60206656986/20-obamas-is-just-too-much-for-our-economy",
+        "new": 0
     },
     {
         "card_id": 39,
@@ -387,7 +425,8 @@
         "count": 116,
         "description": "When data points overlap to a significant extent, they can obscure each other, making it difficult for users to distinguish individual data points and patterns within the visualization.",
         "examplePic": "128.png",
-        "link": "https://viz.wtf/post/182275181864/sobolev-et-al-2005-published-in-nature-a"
+        "link": "https://viz.wtf/post/182275181864/sobolev-et-al-2005-published-in-nature-a",
+        "new": 0
     },
     {
         "card_id": 40,
@@ -397,7 +436,8 @@
         "count": 74,
         "description": "Text rotation may require users to strain or reorient themselves to read the content, which can hinder the clarity of the visualization.",
         "examplePic": "2140.jpg",
-        "link": "https://viz.wtf/post/63589541661/how-to-take-a-perfectly-linear-set-of-tasks-and"
+        "link": "https://viz.wtf/post/63589541661/how-to-take-a-perfectly-linear-set-of-tasks-and",
+        "new": 1
     },
     {
         "card_id": 41,
@@ -407,7 +447,8 @@
         "count": 70,
         "description": "Using excessively small text or data marks can reduce readability, especially when users struggle to discern details or labels due to their diminutive size.",
         "examplePic": "147.png",
-        "link": "https://viz.wtf/post/181745944039/how-to-make-everything-unreadable-in-a-pretty"
+        "link": "https://viz.wtf/post/181745944039/how-to-make-everything-unreadable-in-a-pretty",
+        "new": 0
     },
     {
         "card_id": 42,
@@ -417,47 +458,52 @@
         "count": 65,
         "description": "When label lines intersect or cluster densely around data points, it creates clutter, making it challenging for users to identify the relationships between labels and data.",
         "examplePic": "2192.png",
-        "link": "https://viz.wtf/post/62002048219/scandinavia-borders-sweden-right-ireland-and"
+        "link": "https://viz.wtf/post/62002048219/scandinavia-borders-sweden-right-ireland-and",
+        "new": 0
     },
     {
         "card_id": 43,
-        "title": "Indistinguishable colors/textures",
-        "EL_tag": "Uninformativeness",
-        "VNS_tag": "I1-Low_readability",
-        "count": 31,
-        "description": "When colors or textures used to represent different data categories or elements are too similar, users may have difficulty distinguishing between categories or interpreting the data.",
-        "examplePic": "634.png",
-        "link": "https://viz.wtf/post/134738666308/from-a-census-paper-on-the-lehd-instead-of-using"
-    },
-    {
-        "card_id": 44,
-        "title": "Low foreground-background contrast",
-        "EL_tag": "Uninformativeness",
-        "VNS_tag": "I1-Low_readability",
-        "count": 28,
-        "description": "A lack of contrast between the foreground and the background can result in poor visibility and hinder the user's ability to extract information from the visualization.",
-        "examplePic": "1624.jpg",
-        "link": "https://viz.wtf/post/86320010381/flight-paths-of-old-growth-forests"
-    },
-    {
-        "card_id": 45,
-        "title": "Obscuring data with embellishment",
-        "EL_tag": "Uninformativeness",
-        "VNS_tag": "I1-Low_readability",
-        "count": 19,
-        "description": "Excessive use of decorative elements or embellishments that cover or overshadow the actual data can obscure key information and impede readability.",
-        "examplePic": "1892.png",
-        "link": "https://viz.wtf/post/72127721980/visualization-skills-gap"
-    },
-    {
-        "card_id": 46,
         "title": "Stylized effect on data marks",
         "EL_tag": "Uninformativeness",
         "VNS_tag": "I1-Low_readability",
         "count": 39,
         "description": "The excessive use of stylized effects like shadows or heavy gradients on data marks can make data itself difficult to read.",
         "examplePic": "2130.jpg",
-        "link": "https://viz.wtf/post/63927842747/stars-and-bars"
+        "link": "https://viz.wtf/post/63927842747/stars-and-bars",
+        "new": 1
+    },
+    {
+        "card_id": 44,
+        "title": "Indistinguishable colors/textures",
+        "EL_tag": "Uninformativeness",
+        "VNS_tag": "I1-Low_readability",
+        "count": 31,
+        "description": "When colors or textures used to represent different data categories or elements are too similar, users may have difficulty distinguishing between categories or interpreting the data.",
+        "examplePic": "634.png",
+        "link": "https://viz.wtf/post/134738666308/from-a-census-paper-on-the-lehd-instead-of-using",
+        "new": 0
+    },
+    {
+        "card_id": 45,
+        "title": "Low foreground-background contrast",
+        "EL_tag": "Uninformativeness",
+        "VNS_tag": "I1-Low_readability",
+        "count": 28,
+        "description": "A lack of contrast between the foreground and the background can result in poor visibility and hinder the user's ability to extract information from the visualization.",
+        "examplePic": "1624.jpg",
+        "link": "https://viz.wtf/post/86320010381/flight-paths-of-old-growth-forests",
+        "new": 0
+    },
+    {
+        "card_id": 46,
+        "title": "Obscuring data with embellishment",
+        "EL_tag": "Uninformativeness",
+        "VNS_tag": "I1-Low_readability",
+        "count": 19,
+        "description": "Excessive use of decorative elements or embellishments that cover or overshadow the actual data can obscure key information and impede readability.",
+        "examplePic": "1892.png",
+        "link": "https://viz.wtf/post/72127721980/visualization-skills-gap",
+        "new": 0
     },
     {
         "card_id": 47,
@@ -467,7 +513,8 @@
         "count": 4,
         "description": "This oversight may cause colorblind individuals to misinterpret or miss crucial information.",
         "examplePic": "2122.png",
-        "link": "https://viz.wtf/post/64133445939/intentionally-inaccessible-source-courtesy"
+        "link": "https://viz.wtf/post/64133445939/intentionally-inaccessible-source-courtesy",
+        "new": 0
     },
     {
         "card_id": 48,
@@ -477,7 +524,8 @@
         "count": 4,
         "description": "Data elements or labels extending beyond the boundaries of the visualization canvas make users lose access to critical data points or context.",
         "examplePic": "46.png",
-        "link": "https://viz.wtf/post/630253782299738112/one-of-the-pizza-slices-was-so-large-it-didnt-fit"
+        "link": "https://viz.wtf/post/630253782299738112/one-of-the-pizza-slices-was-so-large-it-didnt-fit",
+        "new": 0
     },
     {
         "card_id": 49,
@@ -487,276 +535,304 @@
         "count": 4,
         "description": "Technical glitches or rendering issues in the visualization can severely impact readability.",
         "examplePic": "2266.jpg",
-        "link": "https://viz.wtf/post/59448245888/nasas-aqua-satellite-tracks-smoke-aerosols-from"
+        "link": "https://viz.wtf/post/59448245888/nasas-aqua-satellite-tracks-smoke-aerosols-from",
+        "new": 1
     },
     {
         "card_id": 50,
         "title": "Irregular segmentation/shaping",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I2-Low_efficiency",
+        "VNS_tag": "I2-Low_coherence",
         "count": 210,
         "description": "Irregular divisions or boundaries can make it challenging for users to discern patterns or draw meaningful comparisons within the data.",
         "examplePic": "1577.png",
-        "link": "https://viz.wtf/post/88602437583/it-all-depends-on-how-you-slice-it"
+        "link": "https://viz.wtf/post/88602437583/it-all-depends-on-how-you-slice-it",
+        "new": 1
     },
     {
         "card_id": 51,
         "title": "Inconsistent visual encodings",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I2-Low_efficiency",
+        "VNS_tag": "I2-Low_coherence",
         "count": 30,
         "description": "Inconsistency in how data is visually encoded (e.g., different colors for the same category, different categories with the same color) can lead to confusion and reduced efficiency.",
         "examplePic": "21.jpg",
-        "link": "https://viz.wtf/post/649460341417312256/media-exposing-their-biases"
+        "link": "https://viz.wtf/post/649460341417312256/media-exposing-their-biases",
+        "new": 1
     },
     {
         "card_id": 52,
         "title": "Rainbow colormap",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I2-Low_efficiency",
+        "VNS_tag": "I2-Low_coherence",
         "count": 19,
         "description": "The use of rainbow colormaps can be inefficient, as the color transitions lack clear meaning and may not align with the data's underlying patterns.",
         "examplePic": "2210.jpg",
-        "link": "https://viz.wtf/post/61504754881/all-of-the-colors-courtesy-of-catwny"
+        "link": "https://viz.wtf/post/61504754881/all-of-the-colors-courtesy-of-catwny",
+        "new": 0
     },
     {
         "card_id": 53,
         "title": "Dual axes",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I2-Low_efficiency",
+        "VNS_tag": "I2-Low_coherence",
         "count": 17,
         "description": "Incorporating dual axes in a visualization complicates the interpretation of relationships between data points and requires users to mentally bridge the gap between different axes.",
         "examplePic": "114.png",
-        "link": "https://viz.wtf/post/182636763144"
+        "link": "https://viz.wtf/post/182636763144",
+        "new": 0
     },
     {
         "card_id": 54,
         "title": "Unstructured layout",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I2-Low_efficiency",
+        "VNS_tag": "I2-Low_coherence",
         "count": 16,
         "description": "An unstructured or cluttered layout can impede efficiency by overwhelming users with information or making it challenging to locate and focus on relevant data points.",
         "examplePic": "934.png",
-        "link": "https://viz.wtf/post/117793791688/twisted-history"
+        "link": "https://viz.wtf/post/117793791688/twisted-history",
+        "new": 1
     },
     {
         "card_id": 55,
-        "title": "Multiple channels for the same data type",
-        "EL_tag": "Uninformativeness",
-        "VNS_tag": "I2-Low_efficiency",
-        "count": 9,
-        "description": "Assigning multiple visual channels (e.g., color, size, shape) to represent the same data type can introduce redundancy and decrease efficiency.",
-        "examplePic": "2204.png",
-        "link": "https://viz.wtf/post/61619238777"
-    },
-    {
-        "card_id": 56,
         "title": "Violating the gestalt laws",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I2-Low_efficiency",
+        "VNS_tag": "I2-Low_coherence",
         "count": 10,
         "description": "Violating the principles of Gestalt psychology, such as proximity, similarity, and closure, can hinder efficiency.",
         "examplePic": "1144.png",
-        "link": "https://viz.wtf/post/108107569456/gran-impacto"
+        "link": "https://viz.wtf/post/108107569456/gran-impacto",
+        "new": 1
+    },
+    {
+        "card_id": 56,
+        "title": "Multiple channels for the same data type",
+        "EL_tag": "Uninformativeness",
+        "VNS_tag": "I2-Low_coherence",
+        "count": 9,
+        "description": "Assigning multiple visual channels (e.g., color, size, shape) to represent the same data type can introduce redundancy and decrease efficiency.",
+        "examplePic": "2204.png",
+        "link": "https://viz.wtf/post/61619238777",
+        "new": 1
     },
     {
         "card_id": 57,
-        "title": "Large number of units",
+        "title": "overuse of categories/colors",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I2-Low_efficiency",
-        "count": 4,
-        "description": "Displaying a large number of individual data units without appropriate aggregation or summarization can overwhelm users and decrease efficiency.",
-        "examplePic": "250.png",
-        "link": "https://viz.wtf/post/155216493372/burger-payments"
+        "VNS_tag": "I3-Overcomplexity",
+        "count": 139,
+        "description": "Overcomplexity can occur when a data visualization attempts to represent an excessive number of categories or data points using a large palette of colors.",
+        "examplePic": "74.jpeg",
+        "link": "https://viz.wtf/post/612315665163059200/facepalm-emoji",
+        "new": 0
     },
     {
         "card_id": 58,
-        "title": "Too many categories/colors",
-        "EL_tag": "Uninformativeness",
-        "VNS_tag": "I3-Over-complexity",
-        "count": 139,
-        "description": "Over-complexity can occur when a data visualization attempts to represent an excessive number of categories or data points using a large palette of colors.",
-        "examplePic": "74.jpeg",
-        "link": "https://viz.wtf/post/612315665163059200/facepalm-emoji"
-    },
-    {
-        "card_id": 59,
         "title": "Meaningless/confounding encoding",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I3-Over-complexity",
+        "VNS_tag": "I3-Overcomplexity",
         "count": 87,
         "description": "When visual encoding choices lack clear meaning or introduce confusion, users may struggle to interpret the symbolism or mapping used to represent the data.",
         "examplePic": "48.png",
-        "link": "https://viz.wtf/post/627445317509513216/upper-peninsula-of-michigan-fall-colors-report"
+        "link": "https://viz.wtf/post/627445317509513216/upper-peninsula-of-michigan-fall-colors-report",
+        "new": 0
     },
     {
-        "card_id": 60,
-        "title": "Too many visual channels",
+        "card_id": 59,
+        "title": "overuse of visual channels",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I3-Over-complexity",
+        "VNS_tag": "I3-Overcomplexity",
         "count": 18,
         "description": "Excessive use of channels can overwhelm users, making it challenging to identify which visual cues are the most important for understanding the data.",
         "examplePic": "1441.png",
-        "link": "https://viz.wtf/post/95201441338/moar-3d"
+        "link": "https://viz.wtf/post/95201441338/moar-3d",
+        "new": 0
+    },
+    {
+        "card_id": 60,
+        "title": "High information density",
+        "EL_tag": "Uninformativeness",
+        "VNS_tag": "I3-Overcomplexity",
+        "count": 7,
+        "description": "High information density occurs when a data visualization tries to pack a significant amount of data into a small space.",
+        "examplePic": "1305.png",
+        "link": "https://viz.wtf/post/101025934545/logo-soup",
+        "new": 0
     },
     {
         "card_id": 61,
         "title": "Single-value visualization",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I3-Over-complexity",
+        "VNS_tag": "I3-Overcomplexity",
         "count": 7,
         "description": "Visualizing a single value can result in unnecessary complexity as more straightforward representations could convey the information more efficiently and effectively.",
         "examplePic": "2253.png",
-        "link": "https://viz.wtf/post/59803603147/there-are-no-errors-in-this-chart-other-than-its"
+        "link": "https://viz.wtf/post/59803603147/there-are-no-errors-in-this-chart-other-than-its",
+        "new": 0
     },
     {
         "card_id": 62,
-        "title": "High information density",
+        "title": "Large number of units",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I3-Over-complexity",
-        "count": 7,
-        "description": "High information density occurs when a data visualization tries to pack a significant amount of data into a small space.",
-        "examplePic": "1305.png",
-        "link": "https://viz.wtf/post/101025934545/logo-soup"
+        "VNS_tag": "I3-Overcomplexity",
+        "count": 4,
+        "description": "Displaying a large number of individual data units without appropriate aggregation or summarization can overwhelm users and decrease efficiency.",
+        "examplePic": "250.png",
+        "link": "https://viz.wtf/post/155216493372/burger-payments",
+        "new": 1
     },
     {
         "card_id": 63,
         "title": "Lack of labels",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I4-Over-simplification",
+        "VNS_tag": "I4-Oversimplification",
         "count": 88,
         "description": "Without labels, users may struggle to understand what each data point represents, making it challenging to derive meaningful insights.",
         "examplePic": "513.jpg",
-        "link": "https://viz.wtf/post/142359344154"
+        "link": "https://viz.wtf/post/142359344154",
+        "new": 0
     },
     {
         "card_id": 64,
         "title": "Lack of scales",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I4-Over-simplification",
+        "VNS_tag": "I4-Oversimplification",
         "count": 56,
-        "description": "When a data visualization omits scales on its axes or does not provide clear units of measurement, it can lead to over-simplification.",
+        "description": "When a data visualization omits scales on its axes or does not provide clear units of measurement, it can lead to Oversimplification.",
         "examplePic": "1077.png",
-        "link": "https://viz.wtf/post/111288636636/a-web-of-lies"
+        "link": "https://viz.wtf/post/111288636636/a-web-of-lies",
+        "new": 0
     },
     {
         "card_id": 65,
         "title": "Lack of legends",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I4-Over-simplification",
+        "VNS_tag": "I4-Oversimplification",
         "count": 49,
         "description": "when a visualization lacks a legend to explain the meaning of colors, symbols, or other visual encodings, users become puzzled about how to interpret the visualization.",
         "examplePic": "168.png",
-        "link": "https://viz.wtf/post/167055357777/i"
+        "link": "https://viz.wtf/post/167055357777/i",
+        "new": 0
     },
     {
         "card_id": 66,
         "title": "Lack of explanation for metrics",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I4-Over-simplification",
+        "VNS_tag": "I4-Oversimplification",
         "count": 22,
-        "description": "Failing to provide explanations or descriptions for the metrics or data sources used in a visualization can result in over-simplification.",
+        "description": "Failing to provide explanations or descriptions for the metrics or data sources used in a visualization can result in Oversimplification.",
         "examplePic": "418.jpg",
-        "link": "https://viz.wtf/post/147148778555/the-worst-way-possible-to-represent-yoy"
+        "link": "https://viz.wtf/post/147148778555/the-worst-way-possible-to-represent-yoy",
+        "new": 0
     },
     {
         "card_id": 67,
         "title": "Label that lacks callout",
         "EL_tag": "Uninformativeness",
-        "VNS_tag": "I4-Over-simplification",
+        "VNS_tag": "I4-Oversimplification",
         "count": 5,
         "description": "When labels are incorporated but lack appropriate callout or emphasis, they are disconnected to the corresponding data points.",
         "examplePic": "1665.png",
-        "link": "https://viz.wtf/post/84235545212/if-you-can-understand-this-you-dont-need-to"
+        "link": "https://viz.wtf/post/84235545212/if-you-can-understand-this-you-dont-need-to",
+        "new": 0
     },
     {
         "card_id": 68,
         "title": "Semantically mismatch",
-        "EL_tag": "Unsociableness",
+        "EL_tag": "Unsocialbility",
         "VNS_tag": "S1-Abnormality",
         "count": 7,
         "description": "Semantically mismatch refers to the use of visual elements or metaphors that do not align with the data's semantics.",
         "examplePic": "30.jpg",
-        "link": "https://viz.wtf/post/639589038118125568"
+        "link": "https://viz.wtf/post/639589038118125568",
+        "new": 0
     },
     {
         "card_id": 69,
         "title": "Stretched imagery",
-        "EL_tag": "Unsociableness",
+        "EL_tag": "Unsocialbility",
         "VNS_tag": "S1-Abnormality",
         "count": 7,
         "description": "Figurative elements or visual representations within a visualization are unnaturally elongated or distorted to accommodate specific data points.",
-        "examplePic": "1.jpg",
-        "link": "https://viz.wtf/post/673472354894086144/sticking-your-neck-out"
+        "examplePic": "1.png",
+        "link": "https://viz.wtf/post/673472354894086144/sticking-your-neck-out",
+        "new": 0
     },
     {
         "card_id": 70,
         "title": "Breaking convention",
-        "EL_tag": "Unsociableness",
+        "EL_tag": "Unsocialbility",
         "VNS_tag": "S1-Abnormality",
         "count": 5,
         "description": "Abnormality in data visualization can arise when social conventions and norms (e.g., a clock should start at 12) are deliberately disregarded.",
         "examplePic": "2010.png",
-        "link": "https://viz.wtf/post/67697121766/pie-oclock-ht-option-explicit"
+        "link": "https://viz.wtf/post/67697121766/pie-oclock-ht-option-explicit",
+        "new": 0
     },
     {
         "card_id": 71,
         "title": "Cut-off imagery",
-        "EL_tag": "Unsociableness",
+        "EL_tag": "Unsocialbility",
         "VNS_tag": "S1-Abnormality",
         "count": 4,
         "description": "Figurative elements or visual representations within a visualization are incompletely depicted or abruptly truncated, creating an awkward or jarring visual effect.",
         "examplePic": "1495.jpg",
-        "link": "https://viz.wtf/post/92663110479/ht-istvanhajnal-aantal-leefloners"
+        "link": "https://viz.wtf/post/92663110479/ht-istvanhajnal-aantal-leefloners",
+        "new": 1
     },
     {
         "card_id": 72,
         "title": "Unconventional analogy of data scales",
-        "EL_tag": "Unsociableness",
+        "EL_tag": "Unsocialbility",
         "VNS_tag": "S1-Abnormality",
         "count": 3,
         "description": "Abnormality can occur when data scales are analogized in unusual or misleading ways.",
         "examplePic": "953.png",
-        "link": "https://viz.wtf/post/116934556499/brain-freeze"
+        "link": "https://viz.wtf/post/116934556499/brain-freeze",
+        "new": 1
     },
     {
         "card_id": 73,
         "title": "Informal visualization for humor",
-        "EL_tag": "Unsociableness",
+        "EL_tag": "Unsocialbility",
         "VNS_tag": "S1-Abnormality",
         "count": 2,
         "description": "Sometimes, a data visualization are created informally for humorous or satirical purposes. However, users may expect it to be serious and accurate.",
         "examplePic": "180.png",
-        "link": "https://viz.wtf/post/163991311758"
+        "link": "https://viz.wtf/post/163991311758",
+        "new": 1
     },
     {
         "card_id": 74,
         "title": "Disturbing pattern/imagery",
-        "EL_tag": "Unsociableness",
-        "VNS_tag": "S2-Aggresion",
+        "EL_tag": "Unsocialbility",
+        "VNS_tag": "S2-Aggressiveness",
         "count": 7,
         "description": "This design flaw in data visualization occurs when the imagery or patterns used in the visualization are disturbing, violent, or offensive.",
         "examplePic": "2127.png",
-        "link": "https://viz.wtf/post/64025806781/beef-cuts-source"
+        "link": "https://viz.wtf/post/64025806781/beef-cuts-source",
+        "new": 1
     },
     {
         "card_id": 75,
         "title": "Strong rhetoric",
-        "EL_tag": "Unsociableness",
-        "VNS_tag": "S2-Aggresion",
+        "EL_tag": "Unsocialbility",
+        "VNS_tag": "S2-Aggressiveness",
         "count": 4,
         "description": "When a data visualization employs strong, biased, or emotionally charged visual language, it can be seen as aggressive.",
         "examplePic": "23.png",
-        "link": "https://viz.wtf/post/648282602475798528/german-main-news-website-changed-the-categrories"
+        "link": "https://viz.wtf/post/648282602475798528/german-main-news-website-changed-the-categrories",
+        "new": 1
     },
     {
         "card_id": 76,
-        "title": "Arrogant textual expression",
-        "EL_tag": "Unsociableness",
-        "VNS_tag": "S2-Aggresion",
+        "title": "Arrogant wording",
+        "EL_tag": "Unsocialbility",
+        "VNS_tag": "S2-Aggressiveness",
         "count": 1,
         "description": "The use of arrogant or condescending textual expression can come across as aggressive. This may include a tone that belittles or dismisses differing viewpoints or data interpretations.",
         "examplePic": "2205.jpg",
-        "link": "https://viz.wtf/post/61604910467/ugh-poor-people"
+        "link": "https://viz.wtf/post/61604910467/ugh-poor-people",
+        "new": 1
     }
 ]
