@@ -19,10 +19,12 @@
 */
 
 .card-header {
+    min-height:65px;
     display: flex;          /* 使用flex布局 */
     align-items: center;    /* 垂直居中对齐 */
     justify-content: space-between; /* 两端对齐，元素之间的间隔都相等 */
 }
+
 
 .header-right {
     /* 右侧div的样式，根据需要设置 */
@@ -33,8 +35,8 @@
 
 .header-icon {
     /* 图标的样式，根据需要设置 */
-    width: 35px;              /* 设置图标的宽度 */
-    height: 35px;             /* 设置图标的高度 */
+    width: 30px;              /* 设置图标的宽度 */
+    height: 30px;             /* 设置图标的高度 */
 }
 
 
