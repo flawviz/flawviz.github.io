@@ -8,7 +8,7 @@
         "description": "This flaw occurs when the visual representation of data elements, such as bars in a bar chart or bubbles in a bubble chart, does not accurately reflect the underlying data values.",
         "examplePic": "27.png",
         "link": "https://viz.wtf/post/643484719208677376/portuguese-presidential-elections-one-of-many-wtf",
-        "new": 1
+        "new": 0
     },
     {
         "card_id": 2,
@@ -52,7 +52,7 @@
         "description": "This flaw uses multiple channels (e.g., both width and height) to represent the same data variable, thus exaggerating the visuals.",
         "examplePic": "2220.png",
         "link": "https://viz.wtf/post/61131939069/a-bigger-man-than-i",
-        "new": 1
+        "new": 0
     },
     {
         "card_id": 6,
@@ -71,7 +71,7 @@
         "EL_tag": "Misinformation",
         "VNS_tag": "M1-Inaccuracy",
         "count": 17,
-        "description": "When data is incorrectly encoded to the radius, it leads to a significant distortion in the visual representation (becasue s = 锜 鑴 r^2).",
+        "description": "When data is incorrectly encoded to the radius, it leads to a significant distortion in the visual representation (becasue s = 閿 閼 r^2).",
         "examplePic": "1679.png",
         "link": "https://viz.wtf/post/153090633909/n%C3%A3o",
         "new": 0
@@ -151,7 +151,7 @@
         "description": "Mistakes in spelling or grammar within the visualization can detract from its professionalism and accuracy.",
         "examplePic": "918.png",
         "link": "https://viz.wtf/post/118464760439/and",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 15,
@@ -184,7 +184,7 @@
         "description": "Ambiguity arises when multiple visual channels or chart types (e.g., pie chart, rose chart) are used inconsistently or confusingly within a single visualization. ",
         "examplePic": "727.png",
         "link": "https://viz.wtf/post/128418263122/the-class-of-2014",
-        "new": 1
+        "new": 0
     },
     {
         "card_id": 18,
@@ -195,7 +195,7 @@
         "description": "The use of unclear or non-standard symbols (e.g., arrows) within a visualization can lead to ambiguity. Users may struggle to decipher the meaning of these symbols.",
         "examplePic": "1221.jpg",
         "link": "https://viz.wtf/post/104614245750/lead-lines",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 19,
@@ -272,7 +272,7 @@
         "description": "Using continuous encoding techniques, such as color gradients or line connection, for categorical data.",
         "examplePic": "417.png",
         "link": "https://viz.wtf/post/147196565281/alphabet-on-the-x-axis-for-reals",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 26,
@@ -283,7 +283,7 @@
         "description": "This flaw happens often in periodic tables. For example, cats do not naturally exhibit the periodic properties that a periodic table is designed to represent.",
         "examplePic": "1324.jpeg",
         "link": "https://viz.wtf/post/100249539895/welcome-to-the-internet",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 27,
@@ -294,7 +294,7 @@
         "description": "Neglecting to represent zero values, infinite values, or null data points in a visualization.",
         "examplePic": "1581.png",
         "link": "https://viz.wtf/post/88406689295/i-always-wondered-how-big-na-was",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 28,
@@ -327,7 +327,7 @@
         "description": "This design flaw arises when the visual representation suggests a logic that contradicts/incompatible with the actual logical relationship between data elements.",
         "examplePic": "759.jpg",
         "link": "https://viz.wtf/post/125858517595/were-suing-the-governor-because-he-gave-us-all",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 31,
@@ -349,7 +349,7 @@
         "description": "Presenting data in a sequential order that does not align with their inherent order or significance.",
         "examplePic": "870.png",
         "link": "https://viz.wtf/post/120464301581/seo-and-ladders",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 33,
@@ -360,7 +360,7 @@
         "description": "Organizing non-hierachical data elements hierarchically.",
         "examplePic": "2052.png",
         "link": "https://viz.wtf/post/66316345441/expensive-connections",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 34,
@@ -371,7 +371,7 @@
         "description": "When different parts of the data are represented on disparate scales, it becomes challenging for users to make equitable comparisons.",
         "examplePic": "295.png",
         "link": "https://viz.wtf/post/153047253615/off-the-grid",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 35,
@@ -382,7 +382,7 @@
         "description": "Data marks are not properly arranged or positioned in a coordinated manner.",
         "examplePic": "542.jpg",
         "link": "https://viz.wtf/post/140698552508/a-really-bad-y-axis",
-        "new": 1
+        "new": 0
     },
     {
         "card_id": 36,
@@ -492,7 +492,7 @@
         "description": "A lack of contrast between the foreground and the background can result in poor visibility and hinder the user's ability to extract information from the visualization.",
         "examplePic": "1624.jpg",
         "link": "https://viz.wtf/post/86320010381/flight-paths-of-old-growth-forests",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 46,
@@ -503,7 +503,7 @@
         "description": "Excessive use of decorative elements or embellishments that cover or overshadow the actual data can obscure key information and impede readability.",
         "examplePic": "1892.png",
         "link": "https://viz.wtf/post/72127721980/visualization-skills-gap",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 47,
@@ -536,7 +536,7 @@
         "description": "Technical glitches or rendering issues in the visualization can severely impact readability.",
         "examplePic": "2266.jpg",
         "link": "https://viz.wtf/post/59448245888/nasas-aqua-satellite-tracks-smoke-aerosols-from",
-        "new": 1
+        "new": 0
     },
     {
         "card_id": 50,
@@ -734,7 +734,7 @@
         "description": "When labels are incorporated but lack appropriate callout or emphasis, they are disconnected to the corresponding data points.",
         "examplePic": "1665.png",
         "link": "https://viz.wtf/post/84235545212/if-you-can-understand-this-you-dont-need-to",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 68,
@@ -745,7 +745,7 @@
         "description": "Semantically mismatch refers to the use of visual elements or metaphors that do not align with the data's semantics.",
         "examplePic": "30.jpg",
         "link": "https://viz.wtf/post/639589038118125568",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 69,
@@ -756,7 +756,7 @@
         "description": "Figurative elements or visual representations within a visualization are unnaturally elongated or distorted to accommodate specific data points.",
         "examplePic": "1.png",
         "link": "https://viz.wtf/post/673472354894086144/sticking-your-neck-out",
-        "new": 0
+        "new": 1
     },
     {
         "card_id": 70,
