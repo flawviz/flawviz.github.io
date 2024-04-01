@@ -9,14 +9,35 @@
 
 #79acf7 Uninformativeness
 2.1. #99c0f9 I1: Low readability
-2.2. #a9cafa I2: Low efficiency
-2.3. #b9d4fb I3: Over-simplification
-2.4. #c9defc I4: Over-complexity
+2.2. #a9cafa I2: low coherence
+2.3. #b9d4fb I3: Oversimplification
+2.4. #c9defc I4: Overcomplexity
 
-#91e2a8 Unsociableness
+#91e2a8 Unsocialbility
 3.1. #ace9bd S1: Abnormality
-3.2. #c7f0d3 S2: Aggresion
+3.2. #c7f0d3 S2: Aggressiveness
 */
+
+.card-header {
+    display: flex;          /* 使用flex布局 */
+    align-items: center;    /* 垂直居中对齐 */
+    justify-content: space-between; /* 两端对齐，元素之间的间隔都相等 */
+}
+
+.header-right {
+    /* 右侧div的样式，根据需要设置 */
+    /* 可以包含flex-grow, flex-shrink, flex-basis等属性来调整flex行为 */
+    display: flex;          /* 使用flex布局来进一步控制内部元素（如图标）的对齐方式 */
+    align-items: center;    /* 垂直居中对齐 */
+}
+
+.header-icon {
+    /* 图标的样式，根据需要设置 */
+    width: 35px;              /* 设置图标的宽度 */
+    height: 35px;             /* 设置图标的高度 */
+}
+
+
 .fault-default,
 .default .modal-header,
 .default .modal-footer,
@@ -41,28 +62,28 @@
 }
 
 .fault-Ambiguity,
-.M3-Ambiguity .modal-header,
-.M3-Ambiguity .modal-footer,
-.M3-Ambiguity .mobile-nav-symbol,
-.M3-Ambiguity .scrollSpy-btn-symbol,
-.M3-Ambiguity .reminder-symbol,
-.M3-Ambiguity .card-header {
-    background-color: #fcbcaf !important;
+.M2-Ambiguity .modal-header,
+.M2-Ambiguity .modal-footer,
+.M2-Ambiguity .mobile-nav-symbol,
+.M2-Ambiguity .scrollSpy-btn-symbol,
+.M2-Ambiguity .reminder-symbol,
+.M2-Ambiguity .card-header {
+    background-color: #fbae9f!important;
 }
-.M3-Ambiguity .front {
+.M2-Ambiguity .front {
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
 .fault-Incompatibility,
-.M2-Incompatibility .modal-header,
-.M2-Incompatibility .modal-footer,
-.M2-Incompatibility .mobile-nav-symbol,
-.M2-Incompatibility .scrollSpy-btn-symbol,
-.M2-Incompatibility .reminder-symbol,
-.M2-Incompatibility .card-header {
-    background-color: #fbae9f  !important;
+.M3-Incompatibility .modal-header,
+.M3-Incompatibility .modal-footer,
+.M3-Incompatibility .mobile-nav-symbol,
+.M3-Incompatibility .scrollSpy-btn-symbol,
+.M3-Incompatibility .reminder-symbol,
+.M3-Incompatibility .card-header {
+    background-color: #fcbcaf   !important;
 }
-.M2-Incompatibility .front {
+.M3-Incompatibility .front {
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
@@ -92,42 +113,42 @@
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
-.fault-Low_efficiency,
-.I2-Low_efficiency .modal-header,
-.I2-Low_efficiency .modal-footer,
-.I2-Low_efficiency .mobile-nav-symbol,
-.I2-Low_efficiency .scrollSpy-btn-symbol,
-.I2-Low_efficiency .reminder-symbol,
-.I2-Low_efficiency .card-header {
+.fault-Low_coherence,
+.I2-Low_coherence .modal-header,
+.I2-Low_coherence .modal-footer,
+.I2-Low_coherence .mobile-nav-symbol,
+.I2-Low_coherence .scrollSpy-btn-symbol,
+.I2-Low_coherence .reminder-symbol,
+.I2-Low_coherence .card-header {
     background-color: #a9cafa !important;
 }
-.I2-Low_efficiency .front {
+.I2-Low_coherence .front {
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
-.fault-Over-simplification,
-.I4-Over-simplification .modal-header,
-.I4-Over-simplification .modal-footer,
-.I4-Over-simplification .mobile-nav-symbol,
-.I4-Over-simplification .scrollSpy-btn-symbol,
-.I4-Over-simplification .reminder-symbol,
-.I4-Over-simplification .card-header {
+.fault-Oversimplification,
+.I4-Oversimplification .modal-header,
+.I4-Oversimplification .modal-footer,
+.I4-Oversimplification .mobile-nav-symbol,
+.I4-Oversimplification .scrollSpy-btn-symbol,
+.I4-Oversimplification .reminder-symbol,
+.I4-Oversimplification .card-header {
     background-color: #b9d4fb !important;
 }
-.I4-Over-simplification .front {
+.I4-Oversimplification .front {
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
-.fault-Over-complexity,
-.I3-Over-complexity .modal-header,
-.I3-Over-complexity .modal-footer,
-.I3-Over-complexity .mobile-nav-symbol,
-.I3-Over-complexity .scrollSpy-btn-symbol,
-.I3-Over-complexity .reminder-symbol,
-.I3-Over-complexity .card-header {
+.fault-Overcomplexity,
+.I3-Overcomplexity .modal-header,
+.I3-Overcomplexity .modal-footer,
+.I3-Overcomplexity .mobile-nav-symbol,
+.I3-Overcomplexity .scrollSpy-btn-symbol,
+.I3-Overcomplexity .reminder-symbol,
+.I3-Overcomplexity .card-header {
     background-color: #a9cafa !important;
 }
-.I4-Over-complexity .front {
+.I4-Overcomplexity .front {
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
@@ -144,16 +165,16 @@
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
-.fault-Aggresion,
-.S2-Aggresion .modal-header,
-.S2-Aggresion .modal-footer,
-.S2-Aggresion .mobile-nav-symbol,
-.S2-Aggresion .scrollSpy-btn-symbol,
-.S2-Aggresion .reminder-symbol,
-.S2-Aggresion .card-header {
+.fault-Aggressiveness,
+.S2-Aggressiveness .modal-header,
+.S2-Aggressiveness .modal-footer,
+.S2-Aggressiveness .mobile-nav-symbol,
+.S2-Aggressiveness .scrollSpy-btn-symbol,
+.S2-Aggressiveness .reminder-symbol,
+.S2-Aggressiveness .card-header {
     background-color: #c7f0d3 !important;
 }
-.S2-Aggresion .front {
+.S2-Aggressiveness .front {
     background: transparent linear-gradient(180deg, #f2f2f2 50%, #f2f2f2 80%) !important;
 }
 
@@ -1413,7 +1434,7 @@ footer .footer-text {
     border-color: transparent;
     background-color: rgba(121, 172, 247,0.5);
 }
-.sidebar-btn.filter-btn.el-Unsociableness.active {
+.sidebar-btn.filter-btn.el-Unsocialbility.active {
     border-color: transparent;
     background-color: rgba(145, 226, 168,0.5);
 }
