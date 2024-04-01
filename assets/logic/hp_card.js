@@ -72,23 +72,53 @@ class Homepage_Card {
     *     <span class="header-symbol"></span>
     * </div> 
     * */
-    _createCard_header () {
+
+
+    _createCard_header() {
+        let card_header_node = document.createElement("div");
+        let header_left_node = document.createElement("div");  // 创建左侧div
+        let header_right_node = document.createElement("div"); // 创建右侧div
+    
+        // 左侧div的内容
+        let title_html = `<div class="header-text-title">${vns_method_to_btn_name(this.parameters["title"])}</div>`;
+        //let class_html = `<div class="header-text-class">${vns_method_to_btn_name(this.parameters["EL_tag"])}</div>`;
+        header_left_node.innerHTML = title_html;
+    
+        // 右侧div的内容
+        let new_icon_html = `<img class="header-icon" src="assets/icon/new.svg" alt="New Icon">`;
+        header_right_node.innerHTML = new_icon_html;
+    
+        // 设置card_header_node的类
+        card_header_node.classList.add("card-header");
+    
+        let ifnew = vns_method_to_btn_name(this.parameters["new"])
+     
+        // 将左侧和右侧div添加到card_header_node中
+        card_header_node.appendChild(header_left_node);
+        if (ifnew === 1){
+            card_header_node.appendChild(header_right_node);
+        }
+        return card_header_node;
+    }
+
+ /*    _createCard_header () {
         let card_header_node = document.createElement("div");
         let header_text_node = document.createElement("div");
         let header_symbol_node = document.createElement("span");  // 缺了icon图片定义
         let title_html = `<div class="header-text-title">${vns_method_to_btn_name(this.parameters["title"])}</div>`;
         let class_html = `<div class="header-text-class">${vns_method_to_btn_name(this.parameters["EL_tag"])}</div>`;
-
+        let new_icon_html = `<img class="header-icon" src="assets/icon/new.svg" alt="New Icon">`;// icon图片定义
+        
         card_header_node.classList.add("card-header");
         header_text_node.classList.add("header-text");
         header_symbol_node.classList.add("header-symbol");
 
         // header_text_node.innerHTML = title_html + class_html;
-        header_text_node.innerHTML = title_html;
+        header_text_node.innerHTML = title_html + new_icon_html;
 
         [header_text_node, header_symbol_node].forEach((node, i, nodeList) => card_header_node.appendChild(node));
         return card_header_node;
-    }
+    } */
 
     /**
      * front
