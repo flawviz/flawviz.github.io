@@ -71,7 +71,7 @@
         "EL_tag": "Misinformation",
         "VNS_tag": "M1-Inaccuracy",
         "count": 17,
-        "description": "When data is incorrectly encoded to the radius, it leads to a significant distortion in the visual representation (becasue s = 閿 閼 r^2).",
+        "description": "When data is incorrectly encoded to the radius, it leads to a significant distortion in the visual representation (becasue s = pi*r^2).",
         "examplePic": "1679.png",
         "link": "https://viz.wtf/post/153090633909/n%C3%A3o",
         "new": 0
