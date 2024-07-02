@@ -254,7 +254,7 @@
     },
     {
         "card_id": 24,
-        "title": "Failure to show uncertainty",
+        "title": "Failure to display uncertainty",
         "EL_tag": "Misinformation",
         "VNS_tag": "M3-Incompatibility",
         "count": 34,
@@ -617,7 +617,7 @@
     },
     {
         "card_id": 57,
-        "title": "overuse of categories/colors",
+        "title": "Overuse of categories/colors",
         "EL_tag": "Uninformativeness",
         "VNS_tag": "I3-Overcomplexity",
         "count": 139,
@@ -639,7 +639,7 @@
     },
     {
         "card_id": 59,
-        "title": "overuse of visual channels",
+        "title": "Overuse of visual channels",
         "EL_tag": "Uninformativeness",
         "VNS_tag": "I3-Overcomplexity",
         "count": 18,
