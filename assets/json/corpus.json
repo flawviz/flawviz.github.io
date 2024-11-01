@@ -77,17 +77,6 @@
         "designFaults": "<span class='badge badge_7'>M1: Truncated axis</span>"
     },
     {
-        "id": 8,
-        "title": "8",
-        "description": "one description matches the bar, the other totally doesn't",
-        "link": "https://viz.wtf/post/664408903113719808/one-description-matches-the-bar-the-other-totally",
-        "pic": "8.jpg",
-        "topic": "politics/government",
-        "publisher": "unknown",
-        "charttype": "<span class='badge badge_6'>Progress Bar</span>",
-        "designFaults": "<span class='badge badge_8'>M2: Failure to display uncertainty</span>"
-    },
-    {
         "id": 9,
         "title": "9",
         "description": "Primary election\u2026 result?",
